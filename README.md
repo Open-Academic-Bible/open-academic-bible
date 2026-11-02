@@ -51,6 +51,7 @@ This is a **draft**, released early so that people can use it and help improve i
 | Apocrypha | Printed for now in the World English Bible (public domain) while our own revision is completed. |
 
 The translation is a revision of the Berean Standard Bible, which its publishers have dedicated to the public domain.
+Work on it began in June 2023, shortly after the Berean Standard Bible was released into the public domain.
 
 ## Feedback is welcome
 
