@@ -63,6 +63,24 @@ Every comment will be read and considered, though we cannot promise to debate ev
 project is academic and non-confessional, so arguments for one theological position are better served by the many fine
 translations made for that purpose.
 
+## Support the project
+
+The Open Academic Bible is free and will stay free. Its quality depends on the scholarship behind it: every disputed
+word is checked against the critical commentaries, lexicons and editions of the Hebrew and Greek, and many of the most
+current of these works are expensive.
+
+If you would like to help, contributions go toward:
+
+- **Critical commentaries and reference works**, such as recent volumes of the International Critical Commentary and
+  other current scholarly commentaries.
+- **New critical editions** of the Hebrew and Greek texts as they are published.
+- **The ongoing work** of translating, checking and maintaining the text.
+
+**[Support the project on Buy Me a Coffee](https://buymeacoffee.com/camiloquin)**
+
+Scholarly books are as welcome as funds. If you can contribute an ebook of a recent critical commentary or reference
+work, please get in touch through the same page.
+
 ## License
 
 The Open Academic Bible, copyright © 2026 Milo Quinn, is licensed under
