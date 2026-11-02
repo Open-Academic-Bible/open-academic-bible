@@ -78,8 +78,8 @@ If you would like to help, contributions go toward:
 
 **[Support the project on Buy Me a Coffee](https://buymeacoffee.com/camiloquin)**
 
-Scholarly books are as welcome as funds. If you can contribute an ebook of a recent critical commentary or reference
-work, please get in touch through the same page.
+Scholarly books are as welcome as funds. If you can contribute a recent critical commentary or reference work,
+please get in touch through the same page.
 
 ## License
 
