@@ -1,0 +1,12 @@
+name: Typo or formatting
+description: Spelling, punctuation, verse numbering, broken links.
+labels: ["typo"]
+body:
+  - type: input
+    id: ref
+    attributes: {label: Where, placeholder: "Genesis 1:3, or the file name"}
+    validations: {required: true}
+  - type: textarea
+    id: issue
+    attributes: {label: What is wrong and what it should be}
+    validations: {required: true}

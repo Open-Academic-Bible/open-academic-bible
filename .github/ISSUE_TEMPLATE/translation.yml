@@ -1,0 +1,20 @@
+name: Translation suggestion
+description: The English does not say what the Hebrew or Greek says, or an important meaning is missing.
+labels: ["translation"]
+body:
+  - type: input
+    id: ref
+    attributes: {label: Verse, description: "Book chapter:verse, e.g. Romans 3:22", placeholder: "Romans 3:22"}
+    validations: {required: true}
+  - type: textarea
+    id: now
+    attributes: {label: What the translation says now}
+    validations: {required: true}
+  - type: textarea
+    id: suggest
+    attributes: {label: What you suggest}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Evidence, description: "The Hebrew or Greek, a lexicon (BDAG, HALOT), a critical commentary, page numbers"}
+    validations: {required: true}

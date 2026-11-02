@@ -1,0 +1,15 @@
+name: Footnote
+description: A footnote is wrong, unclear, or missing.
+labels: ["footnote"]
+body:
+  - type: input
+    id: ref
+    attributes: {label: Verse, placeholder: "Matthew 5:32"}
+    validations: {required: true}
+  - type: textarea
+    id: issue
+    attributes: {label: What should change, description: "Quote the footnote and say what you suggest"}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Evidence (optional)}

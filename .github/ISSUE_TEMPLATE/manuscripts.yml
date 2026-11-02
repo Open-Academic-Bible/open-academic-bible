@@ -1,0 +1,16 @@
+name: Text or manuscript question
+description: Our text or a footnote does not match the critical edition or the manuscript evidence.
+labels: ["text"]
+body:
+  - type: input
+    id: ref
+    attributes: {label: Verse, placeholder: "Mark 1:41"}
+    validations: {required: true}
+  - type: textarea
+    id: issue
+    attributes: {label: What is wrong or missing}
+    validations: {required: true}
+  - type: textarea
+    id: evidence
+    attributes: {label: Evidence, description: "Critical edition and apparatus (NA28, UBS6, ECM, BHS/BHQ), manuscripts, references"}
+    validations: {required: true}
