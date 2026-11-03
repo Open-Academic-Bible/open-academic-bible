@@ -106,7 +106,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> In those days John the Baptist came, preaching in the wilderness of Judea
 
-<sup>2</sup> and saying, “Repent, for the kingdom of heaven has drawn near[^3-2-1].”
+<sup>2</sup> and saying, “Repent, for the kingdom of heaven[^3-2-2] has drawn near[^3-2-1].”
 
 <sup>3</sup> This is he who was spoken of through the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for him.’”
 
@@ -2224,6 +2224,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-16-1]: **2:16** Or astrologers
 [^2-16-2]: **2:16** Gk all the male children
 [^2-23-1]: **2:23** Gk Nazorean
+[^3-2-2]: **3:2** Or reign of heaven, here and throughout
 [^3-2-1]: **3:2** Or is at hand
 [^3-7-1]: **3:7** Some manuscripts lack his
 [^3-9-1]: **3:9** Or ancestor
@@ -2347,7 +2348,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-3-1]: **21:3** Or “The Lord needs them and will send them back immediately.”
 [^21-8-1]: **21:8** Or Most of the crowd
 [^21-12-1]: **21:12** Some manuscripts add of God
-[^21-42-1]: **21:42** Or keystone (in an arch)
+[^21-42-1]: **21:42** Or capstone; Gk head of the corner
 [^21-44-1]: **21:44** Some manuscripts lack verse 44
 [^22-17-1]: **22:17** Or the census tax
 [^22-23-1]: **22:23** Some manuscripts read who say that there is no resurrection
