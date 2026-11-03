@@ -96,7 +96,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> “Get up!” he said. “Take the child and his mother and go to the land of Israel, for those seeking the child’s life are now dead.”
 
-<sup>21</sup> So Joseph got up, took the child and his mother, and went to the land of Israel.
+<sup>21</sup> So Joseph[^2-21-1] got up, took the child and his mother, and went to the land of Israel.
 
 <sup>22</sup> But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,
 
@@ -162,7 +162,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> Then the devil left him, and angels came and ministered to him.
 
-<sup>12</sup> When Jesus heard that John had been arrested, he withdrew to Galilee.
+<sup>12</sup> When Jesus[^4-12-1] heard that John had been arrested, he withdrew to Galilee.
 
 <sup>13</sup> Leaving Nazareth, he went and lived in Capernaum, which is by the sea in the region of Zebulun and Naphtali,
 
@@ -184,7 +184,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> and immediately they left the boat and their father and followed him.
 
-<sup>23</sup> Jesus went throughout Galilee, teaching in their synagogues, preaching the gospel[^4-23-1] of the kingdom, and healing every disease and sickness among the people.
+<sup>23</sup> Jesus went throughout[^4-23-1] Galilee, teaching in their synagogues, preaching the gospel[^4-23-2] of the kingdom, and healing every disease and sickness among the people.
 
 <sup>24</sup> News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and he healed them.
 
@@ -192,7 +192,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 5
 
-<sup>1</sup> When Jesus saw the crowds, he went up on the mountain and sat down. His disciples came to him,
+<sup>1</sup> When Jesus[^5-1-1] saw the crowds, he went up on the mountain and sat down. His disciples came to him,
 
 <sup>2</sup> and he began to teach them, saying:
 
@@ -226,7 +226,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> Do not think that I have come to abolish the law or the prophets. I have not come to abolish them, but to fulfill them.
 
-<sup>18</sup> For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the law until everything is accomplished.
+<sup>18</sup> For I tell you truly, until heaven and earth pass away, not a single jot[^5-18-1], not a stroke of a pen, will disappear from the law until everything is accomplished.
 
 <sup>19</sup> So then, whoever breaks[^5-19-1] one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
 
@@ -420,7 +420,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 8
 
-<sup>1</sup> When Jesus came down from the mountain, large crowds followed him.
+<sup>1</sup> When Jesus[^8-1-1] came down from the mountain, large crowds followed him.
 
 <sup>2</sup> Suddenly a leper[^8-2-1] came and knelt before him, saying, “Lord, if you are willing, you can make me clean.”
 
@@ -568,7 +568,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 10
 
-<sup>1</sup> And calling his twelve disciples to him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
+<sup>1</sup> And calling his twelve disciples to him, Jesus[^10-1-1] gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
 
 <sup>2</sup> These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John;
 
@@ -810,7 +810,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>47</sup> Someone told him, “Look, your mother and brothers are standing outside[^12-47-1], wanting to speak to you.”
 
-<sup>48</sup> But Jesus replied, “Who is my mother, and who are my brothers?”
+<sup>48</sup> But Jesus[^12-48-1] replied, “Who is my mother, and who are my brothers?”
 
 <sup>49</sup> Pointing to his disciples, he said, “Here are my mother and my brothers.
 
@@ -944,7 +944,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> because John had been telling him, “It is not lawful for you to have her.”
 
-<sup>5</sup> Although Herod wanted to kill John, he was afraid of the people, because they regarded John as a prophet.
+<sup>5</sup> Although Herod[^14-5-1] wanted to kill John, he was afraid of the people, because they regarded John as a prophet.
 
 <sup>6</sup> On Herod’s birthday, however, the daughter of Herodias danced before them and pleased Herod
 
@@ -1090,7 +1090,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 16
 
-<sup>1</sup> Then the Pharisees and Sadducees came and tested Jesus by asking him to show them a sign from heaven.
+<sup>1</sup> Then the Pharisees and Sadducees came and tested Jesus[^16-1-1] by asking him to show them a sign from heaven.
 
 <sup>2</sup> But he replied, “\[\[When evening comes, you say, ‘The weather will be fair, for the sky is red,’
 
@@ -1198,7 +1198,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>25</sup> “Yes,” he answered. When Peter entered the house, Jesus preempted him. “What do you think, Simon?” he asked. “From whom do the kings of the earth collect customs and taxes: from their own children, or from others?”
 
-<sup>26</sup> “From others,” Peter answered. “Then the children are exempt,” Jesus said to him.
+<sup>26</sup> “From others,” Peter[^17-26-1] answered. “Then the children are exempt,” Jesus said to him.
 
 <sup>27</sup> “But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for my tax and yours.”
 
@@ -1466,7 +1466,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>29</sup> ‘I will not,’ he replied. But later he changed his mind and went.
 
-<sup>30</sup> Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.
+<sup>30</sup> Then the man[^21-30-1] went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.
 
 <sup>31</sup> Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you.
 
@@ -2030,7 +2030,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> They bound him, led him away, and handed him over to Pilate the governor.
 
-<sup>3</sup> When Judas, who had betrayed him, saw that Jesus was condemned, he repented and returned the thirty pieces of silver to the chief priests and elders.
+<sup>3</sup> When Judas, who had betrayed him, saw that Jesus[^27-3-1] was condemned, he repented and returned the thirty pieces of silver to the chief priests and elders.
 
 <sup>4</sup> “I have sinned by betraying innocent blood[^27-4-1],” he said. “What is that to us?” they replied. “You bear the responsibility.”
 
@@ -2182,7 +2182,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> While the women were on their way, some of the guards went into the city and reported to the chief priests all that had happened.
 
-<sup>12</sup> And after the chief priests had met with the elders and formed a plan, they gave the soldiers a large sum of money
+<sup>12</sup> And after the chief priests[^28-12-1] had met with the elders and formed a plan, they gave the soldiers a large sum of money
 
 <sup>13</sup> and instructed them: “You are to say, ‘His disciples came by night and stole him away while we were asleep.’
 
@@ -2223,6 +2223,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-10-1]: **2:10** Gk saw the star
 [^2-16-1]: **2:16** Or astrologers
 [^2-16-2]: **2:16** Gk all the male children
+[^2-21-1]: **2:21** Gk he
 [^2-23-1]: **2:23** Gk Nazorean
 [^3-2-2]: **3:2** Or reign of heaven, here and throughout
 [^3-2-1]: **3:2** Or is at hand
@@ -2231,10 +2232,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-11-1]: **3:11** Or in
 [^3-11-2]: **3:11** Or in
 [^3-17-1]: **3:17** Or my Son, the Beloved
+[^4-12-1]: **4:12** Gk he
 [^4-17-1]: **4:17** Or is at hand
-[^4-23-1]: **4:23** Or good news
+[^4-23-1]: **4:23** Gk he
+[^4-23-2]: **4:23** Or good news
+[^5-1-1]: **5:1** Gk he
 [^5-3-1]: **5:3** Or Fortunate
 [^5-11-1]: **5:11** Some manuscripts lack falsely
+[^5-18-1]: **5:18** Gk iota
 [^5-19-1]: **5:19** Or annuls
 [^5-22-1]: **5:22** Some manuscripts add without cause
 [^5-22-2]: **5:22** Gk says Raca to (an Aramaic term of abuse)
@@ -2262,6 +2267,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-33-1]: **6:33** Some manuscripts lack of God
 [^6-33-2]: **6:33** Or its
 [^7-13-1]: **7:13** Some manuscripts read for the road is wide and easy
+[^8-1-1]: **8:1** Gk he
 [^8-2-1]: **8:2** Or one with a skin disease; the Greek term covers several diseases
 [^8-6-1]: **8:6** Or child
 [^8-8-1]: **8:8** Or child
@@ -2273,6 +2279,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-10-2]: **9:10** Gk were reclining
 [^9-14-1]: **9:14** Some manuscripts lack often
 [^9-15-1]: **9:15** Gk sons of the bridal chamber
+[^10-1-1]: **10:1** Gk he
 [^10-3-1]: **10:3** Some manuscripts read Lebbaeus or Lebbaeus called Thaddaeus
 [^10-4-1]: **10:4** Or the Zealot
 [^10-7-1]: **10:7** Or is at hand
@@ -2292,6 +2299,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^12-15-1]: **12:15** Some manuscripts lack crowds
 [^12-27-1]: **12:27** Gk sons
 [^12-47-1]: **12:47** Some manuscripts lack verse 47
+[^12-48-1]: **12:48** Gk he
 [^13-9-1]: **13:9** Some manuscripts add to hear
 [^13-11-1]: **13:11** Or secrets
 [^13-21-1]: **13:21** Or stumbles
@@ -2302,6 +2310,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-41-1]: **13:41** Or stumbling
 [^13-43-1]: **13:43** Some manuscripts add to hear
 [^13-54-1]: **13:54** Gk them
+[^14-5-1]: **14:5** Gk he
 [^14-24-1]: **14:24** Some manuscripts read was out on the sea
 [^14-30-1]: **14:30** Some manuscripts read the wind
 [^15-4-1]: **15:4** Some manuscripts read commanded, saying
@@ -2312,6 +2321,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-14-1]: **15:14** Some manuscripts lack of the blind
 [^15-27-1]: **15:27** Gk lords’
 [^15-39-1]: **15:39** Some manuscripts read Magdala or Magdalan
+[^16-1-1]: **16:1** Gk him
 [^16-3-1]: **16:3** The earliest manuscripts lack the words from When evening comes (verse 2) to signs of the times (verse 3); the editors judge them a later addition
 [^16-16-1]: **16:16** Or the Christ
 [^16-18-1]: **16:18** Gk Petros
@@ -2326,6 +2336,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-20-1]: **17:20** Gk faith as a grain of
 [^17-21-1]: **17:21** The earliest manuscripts lack verse 21; the editors judge it a later addition (compare Mark 9:29)
 [^17-22-1]: **17:22** Some manuscripts read living
+[^17-26-1]: **17:26** Gk he
 [^18-6-1]: **18:6** Or sin
 [^18-7-1]: **18:7** Or stumbling blocks
 [^18-8-1]: **18:8** Or stumble
@@ -2349,6 +2360,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-3-1]: **21:3** Or “The Lord needs them and will send them back immediately.”
 [^21-8-1]: **21:8** Or Most of the crowd
 [^21-12-1]: **21:12** Some manuscripts add of God
+[^21-30-1]: **21:30** Gk he
 [^21-42-1]: **21:42** Or capstone; Gk head of the corner
 [^21-44-1]: **21:44** Some manuscripts lack verse 44
 [^22-17-1]: **22:17** Or the census tax
@@ -2395,6 +2407,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-63-1]: **26:63** Or the Christ
 [^26-68-1]: **26:68** Or Christ
 [^26-71-1]: **26:71** Gk Nazorean
+[^27-3-1]: **27:3** Gk he
 [^27-4-1]: **27:4** Some manuscripts read righteous
 [^27-9-1]: **27:9** Some manuscripts read Zechariah or Isaiah
 [^27-9-2]: **27:9** Or I took
@@ -2418,4 +2431,5 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-65-1]: **27:65** Or Take a guard
 [^28-6-1]: **28:6** Some manuscripts read the Lord
 [^28-7-1]: **28:7** Some manuscripts lack from the dead
+[^28-12-1]: **28:12** Gk they
 [^28-20-1]: **28:20** Some manuscripts add Amen

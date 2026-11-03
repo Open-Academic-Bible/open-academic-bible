@@ -118,7 +118,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>30</sup> But he was a prophet and knew that God had promised him on oath that he would place one of his descendants on his throne.
 
-<sup>31</sup> Foreseeing this, David spoke about the resurrection of the Messiah[^2-31-1], that he was not abandoned to Hades, nor did his flesh see decay.
+<sup>31</sup> Foreseeing this, David[^2-31-1] spoke about the resurrection of the Messiah[^2-31-2], that he was not abandoned to Hades, nor did his flesh see decay.
 
 <sup>32</sup> God raised up this Jesus, and we are all witnesses of it.
 
@@ -416,7 +416,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> ‘But I will judge the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship me in this place.’
 
-<sup>8</sup> Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.
+<sup>8</sup> Then God gave Abraham the covenant of circumcision, and Abraham[^7-8-1] became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.
 
 <sup>9</sup> Because the patriarchs were jealous of Joseph, they sold him into Egypt. But God was with him
 
@@ -454,7 +454,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’
 
-<sup>27</sup> But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?
+<sup>27</sup> But the man who was abusing his neighbor pushed Moses[^7-27-1] aside and said, ‘Who made you ruler and judge over us?
 
 <sup>28</sup> Do you intend to kill me as you killed the Egyptian yesterday?’
 
@@ -488,7 +488,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>43</sup> You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’
 
-<sup>44</sup> Our ancestors had the tabernacle of the testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.
+<sup>44</sup> Our ancestors had the tabernacle of the testimony with them in the wilderness. It was constructed exactly as God[^7-44-1] had directed Moses, according to the pattern he had seen.
 
 <sup>45</sup> And our ancestors who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,
 
@@ -556,7 +556,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> For the Holy Spirit had not yet fallen upon any of them; they had simply been baptized in the name of the Lord Jesus.
 
-<sup>17</sup> Then Peter and John placed their hands on them, and they received the Holy Spirit.
+<sup>17</sup> Then Peter and John[^8-17-1] placed their hands on them, and they received the Holy Spirit.
 
 <sup>18</sup> When Simon saw that the Spirit was given through the laying on of the apostles’ hands, he offered them money.
 
@@ -596,7 +596,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>36</sup> As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?”[^8-36-1]
 
-<sup>38</sup> And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him.
+<sup>38</sup> And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip[^8-38-1] baptized him.
 
 <sup>39</sup> When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing.
 
@@ -636,7 +636,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> I will show him how much he must suffer for my name.”
 
-<sup>17</sup> So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”
+<sup>17</sup> So Ananias went to the house, and when he arrived, he placed his hands on Saul[^9-17-1]. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”
 
 <sup>18</sup> At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,
 
@@ -736,7 +736,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> “Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man[^10-22-1] with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”
 
-<sup>23</sup> So Peter invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers and sisters from Joppa.
+<sup>23</sup> So Peter[^10-23-1] invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers and sisters from Joppa.
 
 <sup>24</sup> The following day he arrived in Caesarea, where Cornelius was expecting them and had called together his relatives and close friends.
 
@@ -868,7 +868,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> “Fasten your belt and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.”
 
-<sup>9</sup> So Peter followed him out, but he was unaware that what the angel was doing was real. He thought he was only seeing a vision.
+<sup>9</sup> So Peter[^12-9-1] followed him out, but he was unaware that what the angel was doing was real. He thought he was only seeing a vision.
 
 <sup>10</sup> They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked along one street, the angel suddenly left him.
 
@@ -890,7 +890,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> After Herod had searched for him unsuccessfully, he examined the guards and ordered that they be executed. Then he went down from Judea to Caesarea and spent some time there.
 
-<sup>20</sup> Now Herod was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food.
+<sup>20</sup> Now Herod[^12-20-1] was in a furious dispute with the people of Tyre and Sidon, and they convened before him. Having secured the support of Blastus, the king’s chamberlain, they asked for peace, because their region depended on the king’s country for food.
 
 <sup>21</sup> On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people.
 
@@ -986,7 +986,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>41</sup> ‘Look, you scoffers, wonder and perish! For I am doing a work in your days that you would never believe, even if someone told you.’”
 
-<sup>42</sup> As Paul and Barnabas were leaving the synagogue, the people urged them to continue this message on the next Sabbath.
+<sup>42</sup> As Paul and Barnabas[^13-42-1] were leaving the synagogue, the people urged them to continue this message on the next Sabbath.
 
 <sup>43</sup> After the synagogue was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God.
 
@@ -1010,7 +1010,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 14
 
-<sup>1</sup> The same thing happened at Iconium[^14-1-1]: Paul and Barnabas went into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.
+<sup>1</sup> The same thing happened at Iconium[^14-1-1]: Paul and Barnabas[^14-1-2] went into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.
 
 <sup>2</sup> But the Jews who refused to believe stirred up the gentiles and poisoned their minds against the brothers.
 
@@ -1028,7 +1028,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed.
 
-<sup>10</sup> In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk.
+<sup>10</sup> In a loud voice Paul called out, “Stand up on your feet!” And the man[^14-10-1] jumped up and began to walk.
 
 <sup>11</sup> When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”
 
@@ -1150,7 +1150,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 16
 
-<sup>1</sup> Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father.
+<sup>1</sup> Paul came[^16-1-1] to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father.
 
 <sup>2</sup> The brothers and sisters in Lystra and Iconium spoke well of him.
 
@@ -1302,9 +1302,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 18
 
-<sup>1</sup> After this, Paul left Athens and came to Corinth.
+<sup>1</sup> After this, Paul left[^18-1-1] Athens and came to Corinth.
 
-<sup>2</sup> There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul went to visit them,
+<sup>2</sup> There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul[^18-2-1] went to visit them,
 
 <sup>3</sup> and he stayed and worked with them because they were tentmakers by trade, just as he was.
 
@@ -1590,7 +1590,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>34</sup> Some in the crowd were shouting one thing, and some another. And since the commander could not get at the truth because of the uproar, he ordered that Paul be brought into the barracks.
 
-<sup>35</sup> When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob.
+<sup>35</sup> When Paul[^21-35-1] reached the steps, he had to be carried by the soldiers because of the violence of the mob.
 
 <sup>36</sup> For the crowd that followed him kept shouting, “Away with him!”
 
@@ -1656,13 +1656,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> On hearing this, the centurion went and reported it to the commander. “What are you going to do?” he said. “This man is a Roman citizen.”
 
-<sup>27</sup> The commander went to Paul and asked, “Tell me, are you a Roman citizen?” “Yes,” he answered.
+<sup>27</sup> The commander went to Paul[^22-27-1] and asked, “Tell me, are you a Roman citizen?” “Yes,” he answered.
 
 <sup>28</sup> “I paid a high price for my citizenship,” said the commander. “But I was born a citizen,” Paul replied.
 
 <sup>29</sup> At once those who were about to interrogate Paul stepped back, and the commander himself was alarmed when he realized that he had put a Roman citizen in chains.
 
-<sup>30</sup> The next day the commander, wanting to learn the real reason Paul was accused by the Jews, released him and ordered the chief priests and the whole council to assemble. Then he brought Paul down and had him stand before them.
+<sup>30</sup> The next day the commander, wanting to learn the real reason Paul[^22-30-1] was accused by the Jews, released him and ordered the chief priests and the whole council to assemble. Then he brought Paul down and had him stand before them.
 
 ## Chapter 23
 
@@ -1740,7 +1740,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.
 
-<sup>2</sup> When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation.
+<sup>2</sup> When Paul[^24-2-1] had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation.
 
 <sup>3</sup> In every way and everywhere, most excellent Felix, we acknowledge this with all gratitude.
 
@@ -1796,7 +1796,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> where the chief priests and Jewish leaders presented their case against Paul. They urged Festus
 
-<sup>3</sup> to grant them a concession against Paul by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way.
+<sup>3</sup> to grant them a concession against Paul[^25-3-1] by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way.
 
 <sup>4</sup> But Festus replied, “Paul is being held in Caesarea, and I myself am going there soon.
 
@@ -2077,7 +2077,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-22-2]: **2:22** Gk the Nazorean
 [^2-29-1]: **2:29** Gk Men, brothers
 [^2-29-2]: **2:29** Or ancestor
-[^2-31-1]: **2:31** Or the Christ
+[^2-31-1]: **2:31** Gk he
+[^2-31-2]: **2:31** Or the Christ
 [^2-33-1]: **2:33** Or by the right hand of God
 [^2-36-1]: **2:36** Or Christ
 [^2-37-1]: **2:37** Gk Men, brothers
@@ -2112,24 +2113,33 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-14-1]: **6:14** Gk the Nazorean
 [^7-2-1]: **7:2** Gk Men, brothers
 [^7-2-2]: **7:2** Or ancestor
+[^7-8-1]: **7:8** Gk he
 [^7-16-1]: **7:16** Gk they
+[^7-27-1]: **7:27** Gk him
+[^7-44-1]: **7:44** Gk he
 [^7-46-1]: **7:46** Some manuscripts read the God of Jacob
 [^8-5-1]: **8:5** Some manuscripts read a city
 [^8-5-2]: **8:5** Or the Christ
+[^8-17-1]: **8:17** Gk they
 [^8-24-1]: **8:24** Gk the words you and pray are plural
 [^8-26-1]: **8:26** Or go at noon
 [^8-36-1]: **8:36** Some manuscripts add verse 37: And Philip said, “If you believe with all your heart, you may.” The eunuch answered, “I believe that Jesus Christ is the Son of God.”
+[^8-38-1]: **8:38** Gk he
 [^9-8-1]: **9:8** Some manuscripts read no one
 [^9-12-1]: **9:12** Some manuscripts lack in a vision
+[^9-17-1]: **9:17** Gk him
 [^9-22-1]: **9:22** Or the Christ
 [^9-25-1]: **9:25** Gk through the wall
 [^9-36-1]: **9:36** Both Tabitha (Aramaic) and Dorcas (Gk) mean gazelle
 [^10-19-1]: **10:19** Some manuscripts read two; others lack the word
 [^10-22-1]: **10:22** Or just
+[^10-23-1]: **10:23** Gk he
 [^10-35-1]: **10:35** Or act justly
 [^11-2-1]: **11:2** Gk the circumcised
 [^11-12-1]: **11:12** Or without hesitation
 [^11-20-1]: **11:20** Some manuscripts read Greeks
+[^12-9-1]: **12:9** Gk he
+[^12-20-1]: **12:20** Gk he
 [^12-25-1]: **12:25** Some manuscripts read from Jerusalem
 [^13-15-1]: **13:15** Gk Men, brothers
 [^13-16-1]: **13:16** Gk Men, Israelites
@@ -2139,8 +2149,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-33-1]: **13:33** Some manuscripts lack their
 [^13-33-2]: **13:33** Some manuscripts read for our children
 [^13-38-1]: **13:38** Gk Men, brothers
+[^13-42-1]: **13:42** Gk they
 [^13-44-1]: **13:44** Some manuscripts read God
 [^14-1-1]: **14:1** Or At Iconium, as usual, Paul and Barnabas went
+[^14-1-2]: **14:1** Gk they
+[^14-10-1]: **14:10** Gk he
 [^14-13-1]: **14:13** Or The priest of Zeus-Outside-the-City
 [^14-15-1]: **14:15** Gk Men
 [^14-26-1]: **14:26** Or committed in the grace of God to the work
@@ -2152,6 +2165,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-29-1]: **15:29** Some manuscripts lack from anything strangled
 [^15-33-1]: **15:33** Some manuscripts add verse 34: But it seemed good to Silas to remain there
 [^15-40-1]: **15:40** Some manuscripts read of God
+[^16-1-1]: **16:1** Gk he
 [^16-11-1]: **16:11** Some manuscripts lack So
 [^16-13-1]: **16:13** Some manuscripts read where, according to the custom,
 [^16-17-1]: **16:17** Some manuscripts read to us
@@ -2161,6 +2175,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-17-1]: **17:17** Or civic center
 [^17-26-1]: **17:26** Gk From one; some manuscripts read From one blood
 [^17-27-1]: **17:27** Some manuscripts read the Lord
+[^18-1-1]: **18:1** Gk he
+[^18-2-1]: **18:2** Gk he
 [^18-5-1]: **18:5** Or the Christ
 [^18-7-1]: **18:7** Some manuscripts read Titus
 [^18-17-1]: **18:17** Some manuscripts read all the Greeks
@@ -2181,19 +2197,24 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-9-1]: **21:9** Gk four daughters, virgins,
 [^21-25-1]: **21:25** Some manuscripts lack from anything strangled
 [^21-28-1]: **21:28** Gk Men, Israelites
+[^21-35-1]: **21:35** Gk he
 [^21-40-1]: **21:40** Or Aramaic
 [^22-1-1]: **22:1** Gk Men, brothers
 [^22-2-1]: **22:2** Or Aramaic
 [^22-8-1]: **22:8** Gk the Nazorean
 [^22-18-1]: **22:18** Gk him
 [^22-25-1]: **22:25** Or up for the lashes
+[^22-27-1]: **22:27** Gk him
+[^22-30-1]: **22:30** Gk he
 [^23-1-1]: **23:1** Gk Men, brothers
 [^23-6-1]: **23:6** Gk Men, brothers
 [^23-6-2]: **23:6** Gk concerning hope and resurrection
 [^23-30-1]: **23:30** Some manuscripts add Farewell
+[^24-2-1]: **24:2** Gk he
 [^24-5-1]: **24:5** Gk Nazoreans
 [^24-6-1]: **24:6** Some manuscripts add and we would have judged him according to our law. 7But the commander Lysias came and with great violence took him out of our hands, 8commanding his accusers to come before you.
 [^24-15-1]: **24:15** Some manuscripts read of the dead, both of the righteous and the unrighteous
+[^25-3-1]: **25:3** Gk him
 [^25-18-1]: **25:18** Some manuscripts read with the crime or with anything
 [^26-9-1]: **26:9** Gk the Nazorean
 [^26-14-1]: **26:14** Or Aramaic

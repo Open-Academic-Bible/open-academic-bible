@@ -704,7 +704,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>42</sup> When they were unable to repay him, he forgave both of them. Which one, then, will love him more?”
 
-<sup>43</sup> “I suppose the one who was forgiven more,” Simon replied[^7-43-1]. “You have judged correctly,” Jesus said.
+<sup>43</sup> “I suppose the one who was forgiven more,” Simon replied. “You have judged correctly,” Jesus[^7-43-1] said.
 
 <sup>44</sup> And turning toward the woman, he said to Simon, “Do you see this woman? When I entered your house, you did not give me water for my feet, but she wet my feet with her tears and wiped them with her hair.
 
@@ -796,7 +796,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>37</sup> Then all the people of the region of the Gerasenes[^8-37-1] asked Jesus to depart[^8-37-2] from them, because great fear had taken hold of them. So he got into the boat and started back.
 
-<sup>38</sup> The man whom the demons had left begged to go with Jesus. But he sent him away[^8-38-1], saying,
+<sup>38</sup> The man whom the demons had left begged to go with Jesus[^8-38-2]. But he sent him away[^8-38-1], saying,
 
 <sup>39</sup> “Return home and describe how much God has done for you.” So the man went away and proclaimed all over the town how much Jesus had done for him.
 
@@ -1590,7 +1590,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> Then Jesus said to him, “Rise and go; your faith has made you well!”
 
-<sup>20</sup> When asked by the Pharisees[^17-20-1] when the kingdom of God would come, Jesus replied, “The kingdom of God will not come with observable signs.
+<sup>20</sup> When asked by the Pharisees when the kingdom of God would come, Jesus replied[^17-20-1], “The kingdom of God will not come with observable signs.
 
 <sup>21</sup> Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst[^17-21-1].”
 
@@ -2421,6 +2421,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-32-2]: **8:32** Gk him
 [^8-37-1]: **8:37** Some manuscripts read Gadarenes or Gergesenes
 [^8-37-2]: **8:37** Gk him
+[^8-38-2]: **8:38** Gk him
 [^8-38-1]: **8:38** Gk he
 [^8-43-1]: **8:43** Some manuscripts lack She had spent all her money on physicians
 [^8-45-1]: **8:45** Some manuscripts add and those with him

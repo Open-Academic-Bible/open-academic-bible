@@ -108,7 +108,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> For all the others look after their own interests, not those of Jesus Christ.
 
-<sup>22</sup> But you know Timothy’s proven worth, that as a child with his father he has served with me to advance the gospel.
+<sup>22</sup> But you know Timothy’s[^2-22-1] proven worth, that as a child with his father he has served with me to advance the gospel.
 
 <sup>23</sup> So I hope to send him as soon as I see what happens with me.
 
@@ -146,7 +146,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> and be found in him, not having a righteousness derived from the law as my own, but the one through faith in Christ[^3-9-1], the righteousness from God that rests on faith.
 
-<sup>10</sup> I want to know Christ, both his resurrection’s power and the fellowship of his sufferings, being conformed to him in his death,
+<sup>10</sup> I want to know Christ[^3-10-1], both his resurrection’s power and the fellowship of his sufferings, being conformed to him in his death,
 
 <sup>11</sup> and so, somehow, to attain to the resurrection from the dead.
 
@@ -227,12 +227,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-13-1]: **1:13** Gk whole praetorium
 [^1-14-1]: **1:14** Some manuscripts read word of God
 [^2-5-1]: **2:5** Or that you have
+[^2-22-1]: **2:22** Gk his
 [^2-25-1]: **2:25** Gk apostle
 [^2-26-1]: **2:26** Some manuscripts read longing to see
 [^2-30-1]: **2:30** Some manuscripts read of the Lord
 [^3-2-1]: **3:2** Gk the mutilation
 [^3-3-1]: **3:3** Some manuscripts read worship God in spirit
 [^3-9-1]: **3:9** Or through the faith of Christ
+[^3-10-1]: **3:10** Gk him
 [^3-12-1]: **3:12** Or have already been made perfect
 [^3-12-2]: **3:12** Some manuscripts read Christ Jesus
 [^3-13-1]: **3:13** Some manuscripts read yet

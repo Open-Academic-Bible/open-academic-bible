@@ -86,7 +86,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>41</sup> He first found his brother Simon and told him, “We have found the Messiah” (which is rendered Anointed)[^1-41-1].
 
-<sup>42</sup> Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas”[^1-42-1] (which is translated as Peter)[^1-42-2].
+<sup>42</sup> Andrew[^1-42-3] brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas”[^1-42-1] (which is translated as Peter)[^1-42-2].
 
 <sup>43</sup> The next day Jesus decided to set out for Galilee. Finding Philip, he told him, “Follow me.”
 
@@ -1814,6 +1814,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-25-1]: **1:25** Or the Christ
 [^1-34-1]: **1:34** Some manuscripts read the Son of God
 [^1-41-1]: **1:41** Or Christ
+[^1-42-3]: **1:42** Gk he
 [^1-42-1]: **1:42** Gk Cephas, Aramaic for rock
 [^1-42-2]: **1:42** Gk Petros, Greek for rock
 [^1-51-1]: **1:51** Gk both instances of you are plural

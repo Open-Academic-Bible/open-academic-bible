@@ -48,13 +48,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> You have made him for a little while lower than the angels[^2-7-1]; you crowned him with glory and honor[^2-7-2]
 
-<sup>8</sup> and placed everything under his feet.” When God subjected all things to him, he left nothing outside of his control. But for now we still do not see all things subject to him.
+<sup>8</sup> and placed everything under his feet.” When God[^2-8-1] subjected all things to him, he left nothing outside of his control. But for now we still do not see all things subject to him.
 
 <sup>9</sup> But we see Jesus, who was lowered beneath the angels for a short time[^2-9-1], now crowned with glory and honor because he suffered death, so that by the grace of God[^2-9-2] he might taste death for everyone.
 
-<sup>10</sup> In bringing many sons to glory,[^2-10-1] it was fitting for God, for whom and through whom all things exist, to make the pioneer of their salvation perfect through suffering.
+<sup>10</sup> In bringing many sons to glory,[^2-10-1] it was fitting for God[^2-10-2], for whom and through whom all things exist, to make the pioneer of their salvation perfect through suffering.
 
-<sup>11</sup> For the one who makes holy and those who are made holy all have one Father.[^2-11-1] So Jesus is not ashamed to call them brothers.[^2-11-2]
+<sup>11</sup> For the one who makes holy and those who are made holy all have one Father.[^2-11-1] So Jesus[^2-11-2] is not ashamed to call them brothers.[^2-11-3]
 
 <sup>12</sup> He says: “I will proclaim your name to my brothers;[^2-12-1] I will sing your praises in the assembly.”
 
@@ -80,9 +80,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> For every house is built by someone, but God is the builder of everything.
 
-<sup>5</sup> Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.
+<sup>5</sup> Now Moses was faithful as a servant in all God’s[^3-5-1] house, testifying to what would be spoken later.
 
-<sup>6</sup> But Christ was faithful as a son placed over God’s house. And we are his house, if we hold firmly[^3-6-1] to our confidence and the hope of which we boast.
+<sup>6</sup> But Christ was faithful as a son placed over God’s[^3-6-1] house. And we are his house, if we hold firmly[^3-6-2] to our confidence and the hope of which we boast.
 
 <sup>7</sup> Therefore, as the Holy Spirit says: “Today, if you hear his voice,
 
@@ -116,7 +116,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> For we also received the good news just as they did; but the message they heard was of no value to them, since they were not joined in faith to those who listened[^4-2-1].
 
-<sup>3</sup> For it is we, the believers, who are entering that rest, as God has said: “So I swore on oath in my anger, ‘They shall never enter my rest.’” And yet his works have been finished since the foundation of the world.
+<sup>3</sup> For it is we, the believers, who are entering that rest, as God[^4-3-1] has said: “So I swore on oath in my anger, ‘They shall never enter my rest.’” And yet his works have been finished since the foundation of the world.
 
 <sup>4</sup> For somewhere he has spoken about the seventh day in this manner: “And on the seventh day God rested from all his works.”
 
@@ -126,11 +126,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> God again designated a certain day as “Today,” when a long time later he spoke through David as was just stated: “Today, if you hear his voice, do not harden your hearts.”
 
-<sup>8</sup> For if Joshua had given them rest, God would not have spoken later about another day.
+<sup>8</sup> For if Joshua had given them rest, God[^4-8-1] would not have spoken later about another day.
 
 <sup>9</sup> There remains, then, a Sabbath rest for the people of God.
 
-<sup>10</sup> For everyone who enters God’s rest also rests from their own works, just as God did from his.
+<sup>10</sup> For everyone who enters God’s[^4-10-1] rest also rests from their own works, just as God did from his.
 
 <sup>11</sup> Let us, therefore, make every effort to enter that rest, so that no one will fall by following the same pattern of disobedience.
 
@@ -158,7 +158,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> And in another passage God says: “You are a priest forever in the order of Melchizedek.”
 
-<sup>7</sup> During his life in the flesh, Jesus presented prayers and petitions with loud cries and tears to the one who could save him from death, and he was heard because of his reverence.
+<sup>7</sup> During his life in the flesh, Jesus[^5-7-1] presented prayers and petitions with loud cries and tears to the one who could save him from death, and he was heard because of his reverence.
 
 <sup>8</sup> Although he was a Son, he learned obedience from what he suffered.
 
@@ -204,7 +204,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> saying, “I will indeed bless you and multiply you.”
 
-<sup>15</sup> And so Abraham, after waiting patiently, obtained the promise.
+<sup>15</sup> And so Abraham[^6-15-1], after waiting patiently, obtained the promise.
 
 <sup>16</sup> People swear by someone greater than themselves, and their oath serves as a confirmation to end all argument.
 
@@ -286,11 +286,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> The place where they serve is a copy and shadow[^8-5-1] of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”
 
-<sup>6</sup> Now, however, Jesus has received a much more excellent ministry, just as the covenant he mediates is better and is founded on better promises.
+<sup>6</sup> Now, however, Jesus[^8-6-1] has received a much more excellent ministry, just as the covenant he mediates is better and is founded on better promises.
 
 <sup>7</sup> For if that first covenant had been without fault, no place would have been sought for a second.
 
-<sup>8</sup> But God found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
+<sup>8</sup> But God[^8-8-1] found fault with the people and said: “Behold, the days are coming, declares the Lord, when I will make a new covenant with the house of Israel and with the house of Judah.
 
 <sup>9</sup> It will not be like the covenant I made with their forebears when I took them by the hand to lead them out of the land of Egypt, because they did not abide by my covenant, and I disregarded them, declares the Lord.
 
@@ -370,7 +370,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> because it is impossible for the blood of bulls and goats to take away sins.
 
-<sup>5</sup> Therefore, when Christ came into the world, he said: “Sacrifice and offering you did not desire, but a body you prepared for me.
+<sup>5</sup> Therefore, when Christ[^10-5-1] came into the world, he said: “Sacrifice and offering you did not desire, but a body you prepared for me.
 
 <sup>6</sup> In burnt offerings and sin offerings you took no delight.
 
@@ -647,25 +647,35 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-6-2]: **2:6** Or mortals that you care for them? In the Hebrew of Psalm 8:4–6 both man and son of man refer to all humankind
 [^2-7-1]: **2:7** Or him only a little lower
 [^2-7-2]: **2:7** Some manuscripts add and set him over the works of your hands
+[^2-8-1]: **2:8** Gk he
 [^2-9-1]: **2:9** Or who was made a little lower
 [^2-9-2]: **2:9** Some manuscripts read apart from God
 [^2-10-1]: **2:10** Or children
+[^2-10-2]: **2:10** Gk him
 [^2-11-1]: **2:11** Gk are all of one
-[^2-11-2]: **2:11** Or brothers and sisters
+[^2-11-2]: **2:11** Gk he
+[^2-11-3]: **2:11** Or brothers and sisters
 [^2-12-1]: **2:12** Or brothers and sisters
 [^2-17-1]: **2:17** Or brothers and sisters
 [^3-2-1]: **3:2** Some manuscripts lack all
-[^3-6-1]: **3:6** Some manuscripts add firm to the end
+[^3-5-1]: **3:5** Gk his
+[^3-6-1]: **3:6** Gk his
+[^3-6-2]: **3:6** Some manuscripts add firm to the end
 [^3-9-1]: **3:9** Some manuscripts read tested me and tried me
 [^4-2-1]: **4:2** Some manuscripts read it did not meet with faith in those who listened
+[^4-3-1]: **4:3** Gk he
+[^4-8-1]: **4:8** Gk he
+[^4-10-1]: **4:10** Gk his
 [^4-15-1]: **4:15** Or tempted
 [^5-5-1]: **5:5** Gk lacks was called by
+[^5-7-1]: **5:7** Gk he
 [^5-11-1]: **5:11** Or him
 [^5-12-1]: **5:12** Or you need someone to teach you again the basic elements of the oracles of God
 [^6-1-1]: **6:1** Or let us be carried along
 [^6-1-2]: **6:1** Or toward maturity
 [^6-3-1]: **6:3** Some manuscripts read let us do
 [^6-10-1]: **6:10** Some manuscripts add labor of
+[^6-15-1]: **6:15** Gk he
 [^7-4-1]: **7:4** Some manuscripts lack Even
 [^7-5-1]: **7:5** Or descendants
 [^7-10-1]: **7:10** Or ancestor
@@ -674,6 +684,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-27-1]: **7:27** Gk lacks other
 [^8-4-1]: **8:4** Some manuscripts read priests
 [^8-5-1]: **8:5** Gk lacks The place where they serve is
+[^8-6-1]: **8:6** Gk he
+[^8-8-1]: **8:8** Gk he
 [^8-11-1]: **8:11** Some manuscripts read neighbor
 [^8-12-1]: **8:12** Some manuscripts add and their lawless deeds
 [^9-1-1]: **9:1** Some manuscripts add even
@@ -688,6 +700,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-17-1]: **9:17** Gk the same word means both covenant and will
 [^9-19-1]: **9:19** Some manuscripts lack and goats
 [^10-1-1]: **10:1** Some manuscripts read they
+[^10-5-1]: **10:5** Gk he
 [^10-7-1]: **10:7** Meaning of Gk uncertain
 [^10-30-1]: **10:30** Some manuscripts add says the Lord
 [^10-34-1]: **10:34** Some manuscripts add in heaven

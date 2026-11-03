@@ -106,7 +106,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Did you go through so much for nothing, if it really was for nothing?
 
-<sup>5</sup> Does God lavish his Spirit on you and work miracles among you by the works of the law, or by believing what you heard?
+<sup>5</sup> Does God[^3-5-1] lavish his Spirit on you and work miracles among you by the works of the law, or by believing what you heard?
 
 <sup>6</sup> So also, “Abraham believed God, and it was credited to him as righteousness.”
 
@@ -325,6 +325,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-16-3]: **2:16** Or faith in Christ
 [^2-20-1]: **2:20** Or by faith in the Son of God
 [^2-21-1]: **2:21** Or justification
+[^3-5-1]: **3:5** Gk he
 [^3-11-1]: **3:11** Or The one who is righteous through faith will live
 [^3-15-1]: **3:15** Or covenant
 [^3-22-1]: **3:22** Or through faith in Jesus Christ

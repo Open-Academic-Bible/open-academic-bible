@@ -578,7 +578,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> “Behold, I am coming like a thief. Blessed is the one who remains awake and clothed[^16-15-1], so that no one goes naked and has their shame exposed.”
 
-<sup>16</sup> And the demonic spirits[^16-16-1] gathered the kings at the place called Armageddon in Hebrew.
+<sup>16</sup> And the demonic spirits[^16-16-1] gathered the kings[^16-16-2] at the place called Armageddon in Hebrew.
 
 <sup>17</sup> Then the seventh angel poured out his bowl into the air, and a loud voice came from the throne in the temple, saying, “It is done!”
 
@@ -784,7 +784,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> The wall of the city had twelve foundations bearing the names of the twelve apostles of the Lamb.
 
-<sup>15</sup> The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls.
+<sup>15</sup> The angel[^21-15-1] who spoke with me had a golden measuring rod to measure the city and its gates and walls.
 
 <sup>16</sup> The city lies foursquare, with its width the same as its length. And he measured the city with the rod, and all its dimensions were equal—12,000 stadia in length and width and height.
 
@@ -812,7 +812,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 22
 
-<sup>1</sup> Then the angel showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb
+<sup>1</sup> Then the angel[^22-1-1] showed me a river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb
 
 <sup>2</sup> down the middle of the main street of the city. On either side of the river stood a tree of life[^22-2-1], bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations.
 
@@ -911,6 +911,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-6-1]: **15:6** Some manuscripts read stone
 [^16-15-1]: **16:15** Gk and keeps his robes
 [^16-16-1]: **16:16** Gk they
+[^16-16-2]: **16:16** Gk them
 [^16-21-1]: **16:21** Gk weighing about a talent
 [^17-2-1]: **17:2** Or prostitution
 [^17-3-1]: **17:3** Or in the Spirit
@@ -941,6 +942,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-7-1]: **21:7** Gk he will be my son
 [^21-8-1]: **21:8** Or prostitutes
 [^21-10-1]: **21:10** Or in the Spirit
+[^21-15-1]: **21:15** Gk he
+[^22-1-1]: **22:1** Gk he
 [^22-2-1]: **22:2** Or the Lamb. In the middle of the street of the city, and on either side of the river, is the tree of life
 [^22-3-1]: **22:3** Or servants
 [^22-6-1]: **22:6** Or servants
