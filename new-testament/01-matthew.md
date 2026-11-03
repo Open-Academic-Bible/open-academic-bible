@@ -1016,7 +1016,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> Jesus replied, “And why do you break the command of God for the sake of your tradition?
 
-<sup>4</sup> For God said[^15-4-1], ‘Honor your father and mother’ and ‘Anyone who curses father or mother must be put to death.’
+<sup>4</sup> For God said[^15-4-1], ‘Honor your father and mother’ and ‘Anyone who curses[^15-4-2] father or mother must be put to death.’
 
 <sup>5</sup> But you say that if anyone says to father or mother, ‘Whatever you would have received from me is a gift devoted to God[^15-5-1],’
 
@@ -2128,7 +2128,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>51</sup> At that moment the veil of the temple was torn in two from top to bottom. The earth quaked, and the rocks were split.
 
-<sup>52</sup> The tombs broke open, and the bodies of many saints who had fallen asleep were raised.
+<sup>52</sup> The tombs broke open, and the bodies of many saints[^27-52-1] who had fallen asleep were raised.
 
 <sup>53</sup> After Jesus’ resurrection, when they had come out of the tombs, they entered the holy city and appeared to many people.
 
@@ -2305,6 +2305,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-24-1]: **14:24** Some manuscripts read was out on the sea
 [^14-30-1]: **14:30** Some manuscripts read the wind
 [^15-4-1]: **15:4** Some manuscripts read commanded, saying
+[^15-4-2]: **15:4** Or speaks evil of
 [^15-5-1]: **15:5** Or is an offering
 [^15-6-1]: **15:6** Some manuscripts add or the mother
 [^15-6-2]: **15:6** Some manuscripts read law or commandment
@@ -2353,7 +2354,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-17-1]: **22:17** Or the census tax
 [^22-23-1]: **22:23** Some manuscripts read who say that there is no resurrection
 [^22-30-1]: **22:30** Some manuscripts lack of God
-[^22-42-1]: **22:42** Or Christ
+[^22-42-1]: **22:42** Or the Christ
 [^22-43-1]: **22:43** Gk in spirit
 [^23-4-1]: **23:4** Some manuscripts lack burdensome
 [^23-10-2]: **23:10** Or leaders
@@ -2391,7 +2392,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-33-2]: **26:33** Or I will never stumble
 [^26-41-1]: **26:41** Or into testing
 [^26-50-1]: **26:50** Or Why are you here?
-[^26-63-1]: **26:63** Or Christ
+[^26-63-1]: **26:63** Or the Christ
 [^26-68-1]: **26:68** Or Christ
 [^26-71-1]: **26:71** Gk Nazorean
 [^27-4-1]: **27:4** Some manuscripts read righteous
@@ -2411,6 +2412,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-45-1]: **27:45** Or earth
 [^27-49-1]: **27:49** Some manuscripts add And another took a spear and pierced his side, and out came water and blood
 [^27-50-1]: **27:50** Or gave up his spirit
+[^27-52-1]: **27:52** Gk holy ones
 [^27-54-1]: **27:54** Or a son of God
 [^27-56-1]: **27:56** Some manuscripts read Joses
 [^27-65-1]: **27:65** Or Take a guard
