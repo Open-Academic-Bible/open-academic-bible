@@ -2344,7 +2344,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^20-16-1]: **20:16** Some manuscripts add for many are called, but few are chosen
 [^20-22-1]: **20:22** Some manuscripts add or to be baptized with the baptism that I am baptized with
 [^20-30-1]: **20:30** Some manuscripts lack Lord
-[^21-3-2]: **21:3** Or Their master needs them
+[^21-3-2]: **21:3** Gk Their Lord needs them
 [^21-3-1]: **21:3** Or “The Lord needs them and will send them back immediately.”
 [^21-8-1]: **21:8** Or Most of the crowd
 [^21-12-1]: **21:12** Some manuscripts add of God
