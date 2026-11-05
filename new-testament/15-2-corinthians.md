@@ -32,7 +32,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> as you have already understood us in part, that on the day of the Lord Jesus we are your reason to boast, as you are ours.
 
-<sup>15</sup> Confident of this, I planned to visit you first, so that you might receive a double blessing[^1-15-1].
+<sup>15</sup> Confident of this, I planned to visit you first, so that you might receive a double blessing[^1-15-1][^1-15-2].
 
 <sup>16</sup> I wanted to visit you on my way to Macedonia, and to return to you from Macedonia, and then to have you help me on my way to Judea.
 
@@ -46,7 +46,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> Now it is God who establishes us together with you in Christ. He anointed us,
 
-<sup>22</sup> placed his seal on us[^1-22-1], and put his Spirit in our hearts as a pledge of what is to come.
+<sup>22</sup> placed his seal on us[^1-22-1], and put his Spirit in our hearts as a pledge[^1-22-2] of what is to come.
 
 <sup>23</sup> I call on God as a witness against me: it was to spare you that I did not come to Corinth again.
 
@@ -86,7 +86,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> To the one we are a fragrance from death to death[^2-16-1], to the other a fragrance from life to life[^2-16-2]. And who is qualified for such a task?
 
-<sup>17</sup> For we are not like so many others[^2-17-1], who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as people sent from God.
+<sup>17</sup> For we are not like so many others[^2-17-1], who peddle[^2-17-2] the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as people sent from God.
 
 ## Chapter 3
 
@@ -170,7 +170,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> For in this tent we groan, longing to be clothed with our heavenly dwelling,
 
-<sup>3</sup> because when we are clothed[^5-3-1], we will not be found naked.
+<sup>3</sup> if indeed, when we are clothed[^5-3-1],, we will not be found naked.
 
 <sup>4</sup> For while we are in this tent, we groan under our burdens, because we do not wish to be unclothed but clothed, so that our mortality may be swallowed up by life.
 
@@ -206,7 +206,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> Therefore we are ambassadors for Christ, because God is making his appeal through us. We implore you on behalf of Christ: Be reconciled to God.
 
-<sup>21</sup> God made him who knew no sin to be sin on our behalf, so that in him we might become the righteousness of God.
+<sup>21</sup> God made him who knew no sin to be sin[^5-21-1] on our behalf, so that in him we might become the righteousness of God.
 
 ## Chapter 6
 
@@ -482,7 +482,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Even if I wanted to boast, I would not be a fool, because I would be speaking the truth. But I refrain, so no one will credit me with more than what they see in me or hear from me,
 
-<sup>7</sup> even in view of the extraordinary nature of the revelations. Therefore, to keep me from becoming conceited[^12-7-1], a thorn was given me in the flesh, a messenger of Satan to torment me, to keep me from becoming conceited[^12-7-2].
+<sup>7</sup> even in view of the extraordinary nature of the revelations. Therefore, to keep me from becoming conceited[^12-7-1], a thorn[^12-7-3] was given me in the flesh, a messenger of Satan to torment me, to keep me from becoming conceited[^12-7-2].
 
 <sup>8</sup> Three times I pleaded with the Lord to take it away from me.
 
@@ -548,12 +548,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-11-1]: **1:11** Some manuscripts read your
 [^1-12-1]: **1:12** Some manuscripts read holiness
 [^1-15-1]: **1:15** Some manuscripts read joy
+[^1-15-2]: **1:15** Gk a second blessing
 [^1-17-1]: **1:17** Gk according to the flesh
 [^1-18-1]: **1:18** Some manuscripts read was not
 [^1-22-1]: **1:22** Some manuscripts read by placing … and by putting
+[^1-22-2]: **1:22** Or first installment
 [^2-16-1]: **2:16** Some manuscripts read fragrance of death that leads to death
 [^2-16-2]: **2:16** Some manuscripts read fragrance of life that leads to life
 [^2-17-1]: **2:17** Some manuscripts read like the rest
+[^2-17-2]: **2:17** Or adulterate
 [^3-3-1]: **3:3** Gk hearts of flesh
 [^3-9-1]: **3:9** Some manuscripts read if the ministry of condemnation constituted glory
 [^4-14-1]: **4:14** Some manuscripts read Lord Jesus
@@ -562,6 +565,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-17-1]: **5:17** Or that person is a new creation
 [^5-17-2]: **5:17** Some manuscripts read everything has become new
 [^5-19-1]: **5:19** Or God was in Christ reconciling the world to himself
+[^5-21-1]: **5:21** Or a sin offering
 [^6-1-1]: **6:1** Gk Working together
 [^6-16-1]: **6:16** Some manuscripts read you
 [^6-16-2]: **6:16** Or in their midst
@@ -587,6 +591,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-27-1]: **11:27** Gk in fastings often
 [^11-32-1]: **11:32** Some manuscripts read and wanted to
 [^12-7-1]: **12:7** Some manuscripts read To keep
+[^12-7-3]: **12:7** Or stake
 [^12-7-2]: **12:7** Some manuscripts lack to keep me from becoming conceited
 [^12-9-1]: **12:9** Some manuscripts read my power
 [^13-4-1]: **13:4** Some manuscripts read with him
