@@ -2126,7 +2126,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>50</sup> When Jesus had cried out again in a loud voice, he yielded up his spirit[^27-50-1].
 
-<sup>51</sup> At that moment the veil of the temple was torn in two from top to bottom. The earth quaked, and the rocks were split.
+<sup>51</sup> At that moment the veil of the temple[^27-51-1] was torn in two from top to bottom. The earth quaked, and the rocks were split.
 
 <sup>52</sup> The tombs broke open, and the bodies of many saints[^27-52-1] who had fallen asleep were raised.
 
@@ -2425,6 +2425,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-45-1]: **27:45** Or earth
 [^27-49-1]: **27:49** Some manuscripts add And another took a spear and pierced his side, and out came water and blood
 [^27-50-1]: **27:50** Or gave up his spirit
+[^27-51-1]: **27:51** Or sanctuary
 [^27-52-1]: **27:52** Gk holy ones
 [^27-54-1]: **27:54** Or a son of God
 [^27-56-1]: **27:56** Some manuscripts read Joses

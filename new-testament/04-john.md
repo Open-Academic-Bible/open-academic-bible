@@ -30,7 +30,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> who were born not from blood, nor from the wish of the flesh, nor from the wishes of any man, but from God.
 
-<sup>14</sup> The Word became flesh and made his dwelling among us. We have seen his glory, glory like that of a father’s only son[^1-14-1], filled with grace and truth.
+<sup>14</sup> The Word became flesh and made his dwelling[^1-14-2] among us. We have seen his glory, glory like that of a father’s only son[^1-14-1], filled with grace and truth.
 
 <sup>15</sup> John testified concerning him. He cried out, saying, “This was the one of whom I said, ‘The one who comes after me stands ahead of me, because he was before me.’”
 
@@ -38,7 +38,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> For the law was given through Moses; grace and truth came through Jesus Christ.
 
-<sup>18</sup> No one has ever seen God; the only Son, himself God,[^1-18-1] close against the Father’s heart[^1-18-2]—he has made him known.
+<sup>18</sup> No one has ever seen God; the only Son, himself God[^1-18-3],[^1-18-1] close against the Father’s heart[^1-18-2]—he has made him known.
 
 <sup>19</sup> And this was John’s testimony when the Jews[^1-19-1] had sent priests and Levites out of Jerusalem to ask him, “Who are you?”
 
@@ -250,7 +250,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> (His disciples had gone into the town to buy food.)
 
-<sup>9</sup> “You are a Jew,” said the woman. “How can you ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.[^4-9-1])
+<sup>9</sup> “You are a Jew,” said the woman. “How can you ask for a drink from me, a Samaritan woman?” (For Jews do not associate with[^4-9-2] Samaritans.[^4-9-1])
 
 <sup>10</sup> Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked him, and he would have given you living water.”
 
@@ -738,7 +738,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> That is why I told you that you would die in your sins. For unless you believe that I am he,[^8-24-1] you will die in your sins.”
 
-<sup>25</sup> “Who are you?” they asked. Jesus replied, “Why do I speak with you at all?[^8-25-1]”
+<sup>25</sup> “Who are you?” they asked. Jesus replied, “Just what I have been telling you from the beginning[^8-25-1].”
 
 <sup>26</sup> “I have a great deal to say about you and much to condemn. But the one who sent me is truthful, and what I have heard from him, I tell the world.”
 
@@ -1805,8 +1805,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-4-1]: **1:4** Or and without him not one single thing came to be that has come to be. In him was life
 [^1-9-1]: **1:9** Or he was the true light that gives light to everyone coming into the world
 [^1-11-1]: **1:11** Or to his own home
+[^1-14-2]: **1:14** Gk pitched his tent
 [^1-14-1]: **1:14** Or the Father’s only Son
 [^1-16-1]: **1:16** Or grace in place of grace
+[^1-18-3]: **1:18** Or God, the only Son
 [^1-18-1]: **1:18** Some manuscripts read is the only Son who
 [^1-18-2]: **1:18** Gk bosom
 [^1-19-1]: **1:19** Or the Judeans, or the Jewish authorities
@@ -1831,6 +1833,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-30-1]: **3:30** Some interpreters hold that the quotation continues through verse 36
 [^3-33-1]: **3:33** Gk set a seal to
 [^4-1-1]: **4:1** Some manuscripts read the Lord
+[^4-9-2]: **4:9** Or do not share vessels with
 [^4-9-1]: **4:9** Some manuscripts lack this sentence
 [^4-11-1]: **4:11** Or Lord
 [^4-12-1]: **4:12** Or ancestor
@@ -1871,7 +1874,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-31-1]: **7:31** Or the Christ
 [^7-31-2]: **7:31** Some manuscripts read is doing
 [^7-37-1]: **7:37** Or come to me and drink. 38The one who believes in me, as the scripture has said
-[^7-38-1]: **7:38** Gk out of his belly
+[^7-38-1]: **7:38** Gk out of his belly; his may refer to Jesus
 [^7-39-1]: **7:39** Some manuscripts read for as yet the Spirit (others, Holy Spirit) had not been given
 [^7-41-1]: **7:41** Or the Christ
 [^7-42-1]: **7:42** Or the Christ
@@ -1881,7 +1884,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-15-1]: **8:15** Gk according to the flesh
 [^8-16-1]: **8:16** Some manuscripts read he
 [^8-24-1]: **8:24** Gk I am
-[^8-25-1]: **8:25** Or Just what I have been telling you from the beginning
+[^8-25-1]: **8:25** Or Why do I speak with you at all?
 [^8-28-1]: **8:28** Gk I am
 [^8-38-1]: **8:38** Some manuscripts read you do what you have heard from your father
 [^8-39-1]: **8:39** Some manuscripts read you were ... you would do or you are ... then do

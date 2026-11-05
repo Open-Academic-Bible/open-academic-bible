@@ -58,7 +58,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary.
 
-<sup>28</sup> The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.[^1-28-1]”
+<sup>28</sup> The angel appeared to her and said, “Greetings[^1-28-2], you who are highly favored! The Lord is with you.[^1-28-1]”
 
 <sup>29</sup> Mary was greatly troubled at his words and wondered what kind of greeting this might be.
 
@@ -1954,7 +1954,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>23</sup> How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people.
 
-<sup>24</sup> They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the nations, until the times of the nations are fulfilled.
+<sup>24</sup> They will fall by the edge of the sword and be led captive into all the nations. And Jerusalem will be trodden down by the nations, until the times of the nations[^21-24-1] are fulfilled.
 
 <sup>25</sup> There will be signs in the sun and moon and stars, and on the earth dismay among the nations, bewildered by the roaring of the sea and the surging of the waves.
 
@@ -2216,7 +2216,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>44</sup> It was now about the sixth hour, and darkness came over all the land[^23-44-1] until the ninth hour.
 
-<sup>45</sup> The sun’s light failed[^23-45-1], and the veil of the temple was torn down the middle.
+<sup>45</sup> The sun’s light failed[^23-45-1], and the veil of the temple[^23-45-2] was torn down the middle.
 
 <sup>46</sup> Then Jesus called out in a loud voice, “Father, into your hands I commit my spirit.” And when he had said this, he breathed his last.
 
@@ -2351,6 +2351,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 ---
 
 [^1-3-1]: **1:3** Or for a long time
+[^1-28-2]: **1:28** Or Rejoice
 [^1-28-1]: **1:28** Some manuscripts add Blessed are you among women
 [^1-32-1]: **1:32** Or ancestor
 [^1-34-1]: **1:34** Gk I do not know a man
@@ -2449,7 +2450,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-42-1]: **10:42** Some manuscripts read but only one thing is needed
 [^11-2-1]: **11:2** Some manuscripts read our Father in heaven
 [^11-2-2]: **11:2** A few manuscripts read your Holy Spirit come upon us and cleanse us in place of your kingdom come. Some manuscripts add your will be done, on earth as in heaven
-[^11-3-1]: **11:3** Or our bread for tomorrow
+[^11-3-1]: **11:3** Or our bread for tomorrow, or the bread we need
 [^11-4-1]: **11:4** Or us into temptation. Some manuscripts add but rescue us from the evil one (or from evil)
 [^11-11-1]: **11:11** Some manuscripts add bread, will give a stone? Or if your child asks for
 [^11-13-1]: **11:13** Some manuscripts read the Father give the Holy Spirit from heaven
@@ -2509,6 +2510,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-8-2]: **21:8** Or at hand
 [^21-15-1]: **21:15** Gk a mouth
 [^21-20-1]: **21:20** Or is at hand
+[^21-24-1]: **21:24** Or Gentiles
 [^21-28-1]: **21:28** Or at hand
 [^22-2-1]: **22:2** Gk him
 [^22-8-1]: **22:8** Gk he
@@ -2535,6 +2537,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^23-42-1]: **23:42** Some manuscripts read into
 [^23-44-1]: **23:44** Or earth
 [^23-45-1]: **23:45** Or the sun was eclipsed. Some manuscripts read the sun was darkened
+[^23-45-2]: **23:45** Or sanctuary
 [^23-47-1]: **23:47** Or righteous
 [^23-54-1]: **23:54** Gk was dawning
 [^24-3-1]: **24:3** Some manuscripts add of the Lord Jesus

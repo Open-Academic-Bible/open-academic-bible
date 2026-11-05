@@ -1318,7 +1318,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>37</sup> But Jesus let out a loud cry and breathed his last.
 
-<sup>38</sup> And the veil of the temple was torn in two from top to bottom.
+<sup>38</sup> And the veil of the temple[^15-38-1] was torn in two from top to bottom.
 
 <sup>39</sup> When the centurion standing there in front of Jesus saw how he had breathed his last[^15-39-1], he said, “Truly this man was God’s Son[^15-39-2]!”
 
@@ -1519,6 +1519,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-32-1]: **15:32** Or the Christ
 [^15-33-1]: **15:33** Or earth
 [^15-34-1]: **15:34** Some manuscripts read made me a reproach
+[^15-38-1]: **15:38** Or sanctuary
 [^15-39-1]: **15:39** Some manuscripts add cried out and
 [^15-39-2]: **15:39** Or a son of God
 [^15-46-1]: **15:46** Gk he
