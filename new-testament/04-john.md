@@ -142,7 +142,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> His disciples remembered that it is written: “Zeal for your house will consume me.”
 
-<sup>18</sup> On account of this, the Jews demanded, “What sign can you show us, to justify doing these things?”
+<sup>18</sup> On account of this, the Jews demanded[^2-18-1], “What sign can you show us, to justify doing these things?”
 
 <sup>19</sup> Jesus answered, “Destroy this temple, and in three days I will raise it up again.”
 
@@ -360,7 +360,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> Immediately the man was made well, and he picked up his mat and began to walk. Now this happened on the Sabbath day,
 
-<sup>10</sup> so the Jews said to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.”
+<sup>10</sup> so the Jews said[^5-10-1] to the man who had been healed, “This is the Sabbath! It is unlawful for you to carry your mat.”
 
 <sup>11</sup> But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’”
 
@@ -370,13 +370,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Sin no more, so that no worse thing may befall you.”
 
-<sup>15</sup> And the man went away and told the Jews that it was Jesus who had made him well.
+<sup>15</sup> And the man went away and told the Jews[^5-15-1] that it was Jesus who had made him well.
 
 <sup>16</sup> Now because Jesus was doing these things on the Sabbath, the Jews[^5-16-1] began to persecute him.
 
 <sup>17</sup> But Jesus answered them, “To this very day my Father is at his work, and I too am working.”
 
-<sup>18</sup> Because of this, the Jews tried all the harder to kill him. Not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.
+<sup>18</sup> Because of this, the Jews tried[^5-18-1] all the harder to kill him. Not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.
 
 <sup>19</sup> So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by himself, unless he sees the Father doing it. For whatever the Father does[^5-19-1], the Son also does.
 
@@ -582,7 +582,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 7
 
-<sup>1</sup> After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill him.
+<sup>1</sup> After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there[^7-1-1] were trying to kill him.
 
 <sup>2</sup> However, the Jewish festival called Booths[^7-2-1] was drawing near.
 
@@ -606,7 +606,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> Many in the crowds were whispering about him. Some said, “He is a good man.” But others replied, “No, he deceives the people.”
 
-<sup>13</sup> Yet no one would speak publicly about him for fear of the Jews.
+<sup>13</sup> Yet no one would speak publicly about him for fear of the Jews[^7-13-1].
 
 <sup>14</sup> About halfway through the feast, Jesus went up to the temple and began teaching.
 
@@ -844,7 +844,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> So once again they asked the man who had been blind, “What do you say about him, since it was your eyes he opened?” “He is a prophet,” the man replied.
 
-<sup>18</sup> The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents
+<sup>18</sup> The Jews still[^9-18-1] did not believe that the man had been blind and had received his sight until they summoned his parents
 
 <sup>19</sup> and asked, “Is this your son, the one you say was born blind? So how is it that he can now see?”
 
@@ -994,7 +994,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> and then he said to the disciples, “Let us go back to Judea.”
 
-<sup>8</sup> “Rabbi,” they replied, “the Jews just tried to stone you, and you are going back there?”
+<sup>8</sup> “Rabbi,” they replied, “the Jews just[^11-8-1] tried to stone you, and you are going back there?”
 
 <sup>9</sup> Jesus answered, “Are there not twelve hours of daylight? Whoever walks in the daytime will not stumble, because that person sees the light of this world.
 
@@ -1544,7 +1544,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> They brought him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.
 
-<sup>14</sup> Caiaphas was the one who had advised the Jews that it would be better if one person died for the people.
+<sup>14</sup> Caiaphas was the one who had advised the Jews[^18-14-1] that it would be better if one person died for the people.
 
 <sup>15</sup> Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest.
 
@@ -1572,7 +1572,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> Peter denied it once more, and immediately a rooster crowed.
 
-<sup>28</sup> Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter the Praetorium, to avoid being defiled and unable to eat the Passover.
+<sup>28</sup> Then they led Jesus away from Caiaphas into the Praetorium. By now it was early morning, and the Jews did not enter[^18-28-1] the Praetorium, to avoid being defiled and unable to eat the Passover.
 
 <sup>29</sup> So Pilate went out to them and asked, “What accusation are you bringing against this man?”
 
@@ -1660,7 +1660,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>30</sup> When Jesus had received the sour wine, he said, “It is finished.” And bowing his head, he yielded up his spirit.
 
-<sup>31</sup> It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked Pilate to have the legs broken and the bodies removed.
+<sup>31</sup> It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked[^19-31-1] Pilate to have the legs broken and the bodies removed.
 
 <sup>32</sup> So the soldiers came and broke the legs of the first man who had been crucified with Jesus, and those of the other.
 
@@ -1674,7 +1674,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>37</sup> And, as another scripture says: “They will look on the one they have pierced.”
 
-<sup>38</sup> Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed his body.
+<sup>38</sup> Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews[^19-38-1]), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed his body.
 
 <sup>39</sup> Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about a hundred pounds.
 
@@ -1722,7 +1722,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what he had said to her.
 
-<sup>19</sup> It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” he said to them.
+<sup>19</sup> It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews[^20-19-1], Jesus came and stood among them. “Peace be with you!” he said to them.
 
 <sup>20</sup> After he had said this, he showed them his hands and his side. The disciples rejoiced when they saw the Lord.
 
@@ -1821,6 +1821,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-42-2]: **1:42** Gk Petros, Greek for rock
 [^1-51-1]: **1:51** Gk both instances of you are plural
 [^2-4-1]: **2:4** Or What have you to do with me, woman?
+[^2-18-1]: **2:18** Or the Jewish authorities
 [^3-2-1]: **3:2** Gk him
 [^3-3-1]: **3:3** Or born again
 [^3-7-1]: **3:7** Gk the word for you is plural
@@ -1853,8 +1854,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-2-2]: **5:2** Some manuscripts read Bethesda or Bethsaida
 [^5-3-1]: **5:3** Some manuscripts add, wholly or in part, waiting for the water to stir. 4For an angel of the Lord went down at certain times into the pool and stirred up the water; whoever stepped in first after the stirring was made well of whatever disease they had.
 [^5-7-1]: **5:7** Or Lord
+[^5-10-1]: **5:10** Or the Jewish authorities
 [^5-13-1]: **5:13** Or had left because of the crowd that was there
+[^5-15-1]: **5:15** Or the Jewish authorities
 [^5-16-1]: **5:16** Or the Judeans, or the Jewish authorities
+[^5-18-1]: **5:18** Or the Jewish authorities
 [^5-19-1]: **5:19** Gk that one
 [^5-42-1]: **5:42** Or among you
 [^5-44-1]: **5:44** Some manuscripts read the only one
@@ -1865,10 +1869,12 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-34-1]: **6:34** Or Lord
 [^6-69-1]: **6:69** Some manuscripts read the Christ, the Son of the living God
 [^6-71-1]: **6:71** Some manuscripts read Judas Iscariot son of Simon or Judas son of Simon from Karyot (Kerioth)
+[^7-1-1]: **7:1** Or the Judeans, or the Jewish authorities
 [^7-2-1]: **7:2** Or Tabernacles
 [^7-4-1]: **7:4** Some manuscripts read wants it
 [^7-8-1]: **7:8** Some manuscripts add yet
 [^7-10-1]: **7:10** Some manuscripts lack as though
+[^7-13-1]: **7:13** Or the Jewish authorities
 [^7-26-1]: **7:26** Or the Christ
 [^7-27-1]: **7:27** Or the Christ
 [^7-31-1]: **7:31** Or the Christ
@@ -1893,6 +1899,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-57-1]: **8:57** Some manuscripts read has Abraham seen you?
 [^9-4-1]: **9:4** Some manuscripts read I
 [^9-4-2]: **9:4** Some manuscripts read us
+[^9-18-1]: **9:18** Or the Jewish authorities
 [^9-22-3]: **9:22** Or the Judeans, or the Jewish authorities
 [^9-22-1]: **9:22** Gk him
 [^9-22-2]: **9:22** Or the Christ
@@ -1907,6 +1914,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-38-1]: **10:38** Some manuscripts lack and understand; others read and believe
 [^11-3-1]: **11:3** Gk him
 [^11-6-1]: **11:6** Gk he
+[^11-8-1]: **11:8** Or the Judeans, here and throughout this chapter
 [^11-12-1]: **11:12** Or will be saved
 [^11-16-1]: **11:16** Gk Didymus
 [^11-17-1]: **11:17** Gk he
@@ -1963,17 +1971,22 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^18-6-2]: **18:6** Gk I am
 [^18-7-1]: **18:7** Gk the Nazorean
 [^18-8-1]: **18:8** Gk I am
+[^18-14-1]: **18:14** Or the Jewish authorities
+[^18-28-1]: **18:28** Or the Jewish authorities, here and throughout the trial before Pilate
 [^19-5-1]: **19:5** Gk he
 [^19-13-1]: **19:13** Or seated him
 [^19-13-2]: **19:13** Or Aramaic
 [^19-17-1]: **19:17** Or Aramaic
 [^19-19-1]: **19:19** Gk the Nazorean
 [^19-20-1]: **19:20** Or Aramaic
+[^19-31-1]: **19:31** Or the Jewish authorities
 [^19-35-1]: **19:35** Or may come to believe
 [^19-35-2]: **19:35** Or there is one who knows that he speaks the truth
+[^19-38-1]: **19:38** Or the Jewish authorities
 [^20-11-1]: **20:11** Gk lacks to look
 [^20-15-1]: **20:15** Or Lord
 [^20-16-1]: **20:16** Or Aramaic
+[^20-19-1]: **20:19** Or the Jewish authorities
 [^20-24-1]: **20:24** Gk Didymus
 [^20-31-1]: **20:31** Or may come to believe
 [^20-31-2]: **20:31** Or the Christ
