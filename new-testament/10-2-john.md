@@ -26,7 +26,7 @@
 
 <sup>12</sup> I have many things to write to you, but I would prefer not to do so with paper and ink. Instead, I hope to come and speak with you face to face, so that our joy may be complete[^1-12-1].
 
-<sup>13</sup> The children of your elect sister send you greetings.[^1-13-1]
+<sup>13</sup> The children of your chosen sister send you greetings.[^1-13-1]
 
 ---
 

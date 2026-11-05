@@ -72,7 +72,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 
 <sup>12</sup> These people are like irrational animals, creatures of instinct, born to be captured and destroyed. They blaspheme in matters they do not understand, and like such creatures, they too will be destroyed[^2-12-1].
 
-<sup>13</sup> The harm they will suffer[^2-13-1] is the wages of their wickedness. They consider it a pleasure to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures[^2-13-2] as they feast with you.
+<sup>13</sup> The harm they will suffer[^2-13-1] is the wages of their wickedness. They consider it a pleasure to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures[^2-13-2][^2-13-3] as they feast with you.
 
 <sup>14</sup> Their eyes are full of adultery[^2-14-1]; their desire for sin is never satisfied; they lure souls that are unsteady. They are accursed children with hearts trained in greed.
 
@@ -86,7 +86,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 
 <sup>19</sup> They promise them freedom, though they themselves are slaves to corruption. For people are enslaved to whatever has overcome them.
 
-<sup>20</sup> If indeed they have escaped the corruption of the world through the knowledge of the Lord and Savior Jesus Christ[^2-20-1], only to be entangled and overcome by it again, their final condition is worse than it was at first.
+<sup>20</sup> If indeed they have escaped the corruption[^2-20-2] of the world through the knowledge of the Lord and Savior Jesus Christ[^2-20-1], only to be entangled and overcome by it again, their final condition is worse than it was at first.
 
 <sup>21</sup> It would have been better for them not to have known the way of righteousness than to have known it and then to turn away from the holy commandment passed on to them.
 
@@ -112,7 +112,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 
 <sup>9</sup> The Lord is not slow in keeping his promise as some understand slowness, but is patient with you[^3-9-1], not wanting anyone to perish but everyone to come to repentance.
 
-<sup>10</sup> But the day of the Lord will come like a thief; then the heavens will vanish with a rushing roar, the elements will be consumed by fire, and the earth and its works will be laid bare[^3-10-1].
+<sup>10</sup> But the day of the Lord will come like a thief; then the heavens will vanish with a rushing roar, the elements[^3-10-2] will be consumed by fire, and the earth and its works will be laid bare[^3-10-1].
 
 <sup>11</sup> Since everything will be destroyed in this way, what kind of people ought you to be? You ought to conduct yourselves in holiness and godliness
 
@@ -147,11 +147,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 [^2-12-1]: **2:12** Gk in their destruction
 [^2-13-1]: **2:13** Some manuscripts read receiving
 [^2-13-2]: **2:13** Some manuscripts read love feasts
+[^2-13-3]: **2:13** Or deceptions
 [^2-14-1]: **2:14** Gk an adulteress. Or longing for an adulteress
 [^2-15-1]: **2:15** Some manuscripts read Beor
 [^2-18-1]: **2:18** Some manuscripts read actually
+[^2-20-2]: **2:20** Gk defilements
 [^2-20-1]: **2:20** Some manuscripts read our
 [^3-9-1]: **3:9** Some manuscripts read on your account
+[^3-10-2]: **3:10** Or heavenly bodies
 [^3-10-1]: **3:10** Some manuscripts read will not be found or will be burned up
 [^3-12-1]: **3:12** Or earnestly desiring
 [^3-16-1]: **3:16** Some manuscripts read will twist

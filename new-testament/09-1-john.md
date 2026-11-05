@@ -78,7 +78,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> I have written these things to you about those who are trying to deceive you.
 
-<sup>27</sup> And as for you, the anointing you received from him remains in you, and you do not need anyone to teach you. But just as his true and genuine anointing teaches you about all things, so remain in him as you have been taught[^2-27-1].
+<sup>27</sup> And as for you, the anointing you received from him remains in you, and you do not need anyone to teach you. But just as his true and genuine anointing teaches you about all things, so remain in him[^2-27-2] as you have been taught[^2-27-1].
 
 <sup>28</sup> And now, dear children, remain in him, so that we may be confident and unashamed in his presence when he is revealed, at his coming.
 
@@ -96,7 +96,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> You are aware that he was revealed in order to remove sins, and sin has no place in him.
 
-<sup>6</sup> No one who stays in him sins. Nobody who sins has seen him or come to know him.
+<sup>6</sup> No one who stays in him sins[^3-6-1]. Nobody who sins has seen him or come to know him.
 
 <sup>7</sup> Little children[^3-7-1], do not let anyone mislead you. The one who practices righteousness is righteous, as he is righteous.
 
@@ -231,8 +231,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-20-1]: **2:20** Some manuscripts read you know all things
 [^2-22-1]: **2:22** Or the Messiah
 [^2-25-1]: **2:25** Some manuscripts read you
+[^2-27-2]: **2:27** Or you remain in him
 [^2-27-1]: **2:27** Or remain in it
 [^3-2-1]: **3:2** Or it
+[^3-6-1]: **3:6** Or keeps on sinning; also in verse 9
 [^3-7-1]: **3:7** Some manuscripts read Children
 [^3-9-1]: **3:9** Or because the children of God abide in him
 [^4-3-1]: **4:3** Some manuscripts read does away with Jesus
