@@ -160,7 +160,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> In love, hold them in highest regard because of their work. Live in peace with one another.
 
-<sup>14</sup> Brothers and sisters, we urge you to admonish the idle, encourage the fainthearted, help the weak, and be patient with everyone.
+<sup>14</sup> Brothers and sisters, we urge you to admonish the idle[^5-14-1], encourage the fainthearted, help the weak, and be patient with everyone.
 
 <sup>15</sup> Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people.
 
@@ -199,5 +199,6 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-2-1]: **3:2** Some manuscripts read minister of God and our coworker
 [^3-13-1]: **3:13** Some manuscripts add Amen
 [^4-4-1]: **4:4** Or control your own vessel or take a wife for yourself
+[^5-14-1]: **5:14** Or disorderly
 [^5-23-1]: **5:23** Or complete
 [^5-28-1]: **5:28** Some manuscripts add Amen

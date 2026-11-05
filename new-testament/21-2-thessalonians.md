@@ -76,7 +76,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 
 <sup>5</sup> May the Lord direct your hearts into God’s love and Christ’s perseverance.
 
-<sup>6</sup> Now we command you in the name of our Lord Jesus Christ, brothers and sisters, to keep away from any brother or sister who lives irresponsibly, not in keeping with the tradition they received from us[^3-6-1].
+<sup>6</sup> Now we command you in the name of our Lord Jesus Christ, brothers and sisters, to keep away from any brother or sister who lives irresponsibly[^3-6-2], not in keeping with the tradition they received from us[^3-6-1].
 
 <sup>7</sup> For you yourselves know how you ought to imitate us, because we did not live irresponsibly among you,
 
@@ -111,5 +111,6 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 [^2-8-2]: **2:8** Some manuscripts read consume
 [^2-13-1]: **2:13** Some manuscripts read from the beginning
 [^3-3-1]: **3:3** Or from evil
+[^3-6-2]: **3:6** Or idly, or in a disorderly way, here and in verses 7 and 11
 [^3-6-1]: **3:6** Some manuscripts read you
 [^3-18-1]: **3:18** Some manuscripts add Amen

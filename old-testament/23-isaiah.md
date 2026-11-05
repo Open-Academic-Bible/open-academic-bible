@@ -1428,7 +1428,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.
 
-<sup>2</sup> And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s field.
+<sup>2</sup> And the king of Assyria sent the Rabshakeh[^36-2-1], with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s field.
 
 <sup>3</sup> Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder[^36-3-1], went out to him.
 
@@ -2834,6 +2834,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^35-8-1]: **35:8** A Dead Sea Scroll, the Greek and Syriac read ‘A highway’; Hebrew reads ‘A highway and a way’
 [^35-8-2]: **35:8** Or pass over it
 [^35-8-3]: **35:8** Hebrew reads ‘for them’
+[^36-2-1]: **36:2** Or the chief cupbearer, here and throughout
 [^36-3-1]: **36:3** Or herald, here and throughout
 [^36-7-1]: **36:7** The Greek lacks this clause; Hebrew has it
 [^37-7-1]: **37:7** A Dead Sea Scroll lacks verses 5–7

@@ -768,7 +768,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Yet he did not put the children of the murderers to death, but acted according to what is written in the book of the law of Moses, where the LORD commanded: “Fathers must not be put to death for their children, and children must not be put to death for their fathers[^14-6-1]; each is to die for their own sin.”
 
-<sup>7</sup> Amaziah struck down 10,000 Edomites in the Valley of Salt. He took Sela in battle and called it Joktheel, which is its name to this very day.
+<sup>7</sup> Amaziah struck down 10,000 Edomites in the Valley of Salt. He took Sela[^14-7-1] in battle and called it Joktheel, which is its name to this very day.
 
 <sup>8</sup> Then Amaziah sent messengers to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said.
 
@@ -898,13 +898,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father[^16-2-1], he did not do what was right in the eyes of the LORD his God.
 
-<sup>3</sup> Instead, he walked in the ways of the kings of Israel and even made his son pass through the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.
+<sup>3</sup> Instead, he walked in the ways of the kings of Israel and even made his son pass through the fire[^16-3-1], according to the abominations of the nations that the LORD had driven out before the Israelites.
 
 <sup>4</sup> And he sacrificed and burned incense on the high places, on the hills, and under every green tree.
 
 <sup>5</sup> Then Rezin king of Aram and Pekah son of Remaliah king of Israel came up to wage war against Jerusalem. They besieged Ahaz but could not overcome him.
 
-<sup>6</sup> At that time Rezin king of Aram recovered Elath for Edom[^16-6-1], drove the people of Judah out of Elath, and the Edomites came into Elath, where they live to this day.
+<sup>6</sup> At that time Rezin king of Aram recovered Elath for Edom[^16-6-1], drove the people of Judah out of Elath, and the Edomites[^16-6-2] came into Elath, where they live to this day.
 
 <sup>7</sup> So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, “I am your servant and your son. Come up and save me from the hands of the kings of Aram and Israel, who are rising up against me.”
 
@@ -1052,7 +1052,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> At that time Hezekiah stripped the gold with which he had plated the doors and doorposts of the temple of the LORD, and he gave it to the king of Assyria.
 
-<sup>17</sup> Nevertheless, the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh, along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Fuller’s Field.
+<sup>17</sup> Nevertheless, the king of Assyria sent the Tartan, the Rabsaris[^18-17-1], and the Rabshakeh[^18-17-2], along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Fuller’s Field.
 
 <sup>18</sup> Then they called for the king. And Eliakim son of Hilkiah the palace administrator, Shebnah the scribe, and Joah son of Asaph the recorder[^18-18-1], went out to them.
 
@@ -1180,7 +1180,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Before Isaiah had left the middle courtyard, the word of the LORD came to him, saying,
 
-<sup>5</sup> “Go back and tell Hezekiah the leader of my people that this is what the LORD, the God of your father David[^20-5-1], says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD.
+<sup>5</sup> “Go back and tell Hezekiah the leader of my people[^20-5-2] that this is what the LORD, the God of your father David[^20-5-1], says: ‘I have heard your prayer; I have seen your tears. I will surely heal you. On the third day from now you will go up to the house of the LORD.
 
 <sup>6</sup> I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for my sake and for the sake of my servant David.’”
 
@@ -1188,7 +1188,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> Now Hezekiah had asked Isaiah, “What will be the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?”
 
-<sup>9</sup> And Isaiah had replied, “This will be a sign to you from the LORD that he will do what he has promised: Would you like the shadow to go forward ten intervals[^20-9-1], or back ten intervals?”
+<sup>9</sup> And Isaiah had replied, “This will be a sign to you from the LORD that he will do what he has promised: Would you like the shadow to go forward ten intervals[^20-9-1], or back ten intervals[^20-9-2]?”
 
 <sup>10</sup> “It is easy for the shadow to lengthen ten intervals,” answered Hezekiah, “but not for it to go back ten intervals.”
 
@@ -1530,13 +1530,16 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-6-1]: **13:6** The Greek, Syriac, Targum and Vulgate read ‘they walked’; Hebrew reads ‘he walked’
 [^14-3-1]: **14:3** Or ancestor
 [^14-6-1]: **14:6** Or parents, in both places
+[^14-7-1]: **14:7** Or the Rock
 [^14-29-1]: **14:29** Or ancestors
 [^15-5-1]: **15:5** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^15-10-1]: **15:10** The Greek (Lucianic) reads ‘in Ibleam’; meaning of Heb uncertain
 [^15-25-1]: **15:25** Meaning of Heb uncertain
 [^15-38-1]: **15:38** Or ancestor
 [^16-2-1]: **16:2** Or ancestor
+[^16-3-1]: **16:3** Or burned his son as an offering, here and throughout
 [^16-6-1]: **16:6** Hebrew reads ‘for Aram’; the text is corrected to ‘Edom’
+[^16-6-2]: **16:6** The written Hebrew reads ‘Arameans’
 [^16-18-2]: **16:18** Meaning of Heb uncertain
 [^16-18-1]: **16:18** Hebrew lacks ‘from’ before ‘the house of the LORD’
 [^17-4-1]: **17:4** Meaning of Heb uncertain
@@ -1544,10 +1547,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-9-1]: **17:9** Meaning of Heb uncertain
 [^17-27-1]: **17:27** The Syriac and Vulgate read ‘him’; Hebrew reads ‘them’
 [^18-3-1]: **18:3** Or ancestor
+[^18-17-1]: **18:17** Or the chief eunuch
+[^18-17-2]: **18:17** Or the chief cupbearer, here and throughout
 [^18-18-1]: **18:18** Or herald, here and throughout
 [^19-26-1]: **19:26** A Dead Sea Scroll (compare Isaiah 37:27) reads ‘before the east wind’; meaning of Heb uncertain
+[^20-5-2]: **20:5** Or prince
 [^20-5-1]: **20:5** Or ancestor
 [^20-9-1]: **20:9** The Greek, Syriac and Targum read ‘Would the shadow go forward’; Hebrew reads ‘the shadow has gone forward’
+[^20-9-2]: **20:9** Heb steps, here and in verses 10 and 11
 [^20-13-1]: **20:13** The Greek, Vulgate and Syriac read ‘welcomed them’; Hebrew reads ‘heard about them’
 [^23-7-1]: **23:7** Heb qedeshim, literally consecrated ones; traditionally rendered male shrine prostitutes
 [^23-11-1]: **23:11** Meaning of Heb uncertain

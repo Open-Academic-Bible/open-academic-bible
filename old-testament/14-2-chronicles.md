@@ -1202,7 +1202,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> Instead, he walked in the ways of the kings of Israel and even made cast images of the Baals.
 
-<sup>3</sup> Moreover, Ahaz burned incense in the valley of Ben-hinnom and made his sons pass through the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.
+<sup>3</sup> Moreover, Ahaz burned incense in the valley of Ben-hinnom and made his sons pass through the fire[^28-3-1], according to the abominations of the nations that the LORD had driven out before the Israelites.
 
 <sup>4</sup> And he sacrificed and burned incense on the high places, on the hills, and under every green tree.
 
@@ -1773,6 +1773,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-5-1]: **26:5** The Greek reads ‘fear’; Hebrew reads ‘visions’
 [^26-19-1]: **26:19** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^28-1-1]: **28:1** Or ancestor
+[^28-3-1]: **28:3** Or burned his sons as an offering, here and throughout
 [^28-16-1]: **28:16** The Greek, Syriac, and Vulgate read ‘king’; Hebrew reads ‘kings’
 [^28-20-1]: **28:20** Heb Tilgath-pilneser
 [^29-2-1]: **29:2** Or ancestor
