@@ -964,7 +964,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> For seven days you shall celebrate a feast to the LORD your God in the place he will choose, because the LORD your God will bless you in all your produce and in all the work of your hands, so that your joy will be complete.
 
-<sup>16</sup> Three times a year all your males are to appear before the LORD your God in the place he will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Festival of Booths[^16-16-1]. No one should appear before the LORD empty-handed.
+<sup>16</sup> Three times a year all your males are to appear before the LORD your God[^16-16-2] in the place he will choose: at the Feast of Unleavened Bread, the Feast of Weeks, and the Festival of Booths[^16-16-1]. No one should appear before the LORD empty-handed.
 
 <sup>17</sup> Everyone must appear with a gift as each is able, according to the blessing the LORD your God has given you.
 
@@ -996,7 +996,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose.
 
-<sup>9</sup> You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case.
+<sup>9</sup> You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them[^17-9-1], and they will give you a verdict in the case.
 
 <sup>10</sup> You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you,
 
@@ -1022,7 +1022,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 18
 
-<sup>1</sup> The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the offerings made by fire[^18-1-1] to the LORD; that is their inheritance.
+<sup>1</sup> The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the offerings made by fire[^18-1-1] to the LORD; that is their inheritance[^18-1-2].
 
 <sup>2</sup> Although they have no inheritance among their kin, the LORD is their inheritance, as he promised them.
 
@@ -1040,7 +1040,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> When you enter the land that the LORD your God is giving you, do not imitate the detestable ways of the nations there.
 
-<sup>10</sup> Let no one be found among you who causes a son or daughter to pass through fire, practices divination or conjury, interprets omens, practices sorcery,
+<sup>10</sup> Let no one be found among you who causes a son or daughter to pass through fire[^18-10-1], practices divination or conjury, interprets omens, practices sorcery,
 
 <sup>11</sup> casts spells, consults a medium or spiritist, or inquires of the dead.
 
@@ -1210,7 +1210,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> If you see a fellow Israelite’s donkey or ox fallen on the road, you must not ignore it; you must help to lift it up.
 
-<sup>5</sup> A woman must not wear men’s clothing, and a man must not wear women’s clothing, for whoever does these things is detestable to the LORD your God.
+<sup>5</sup> A woman must not wear men’s clothing[^22-5-1], and a man must not wear women’s clothing, for whoever does these things is detestable to the LORD your God.
 
 <sup>6</sup> If you come across a bird’s nest with chicks or eggs, either in a tree or on the ground along the road, and the mother is sitting on the chicks or eggs, you must not take the mother along with the young.
 
@@ -1316,7 +1316,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 24
 
-<sup>1</sup> If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.
+<sup>1</sup> If a man marries a woman, but she becomes displeasing to him because he finds some indecency[^24-1-1] in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.
 
 <sup>2</sup> If, after leaving his house, she goes and becomes another man’s wife,
 
@@ -1410,7 +1410,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Then the priest shall take the basket from your hands and place it before the altar of the LORD your God,
 
-<sup>5</sup> and you are to declare before the LORD your God, “My father was a wandering Aramean[^26-5-1], and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous.
+<sup>5</sup> and you are to declare before the LORD your God, “My father was a wandering[^26-5-2] Aramean[^26-5-1], and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous.
 
 <sup>6</sup> But the Egyptians mistreated us and afflicted us, putting us to hard labor.
 
@@ -1630,7 +1630,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>67</sup> In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’—because of the dread in your hearts of the terrifying sights you will see.
 
-<sup>68</sup> The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”
+<sup>68</sup> The LORD will return you to Egypt in ships[^28-68-1] by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”
 
 ## Chapter 29
 
@@ -1826,7 +1826,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> with curds from the herd and milk from the flock, with the fat of lambs, with rams from Bashan, and goats, with the choicest grains of wheat. From the juice of the finest grapes you drank the wine.
 
-<sup>15</sup> Jacob ate his fill[^32-15-1], and Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandoned the God who made him and scorned the Rock of his salvation.
+<sup>15</sup> Jacob ate his fill[^32-15-1], and Jeshurun grew fat and kicked—becoming fat, bloated, and gorged[^32-15-2]. He abandoned the God who made him and scorned the Rock of his salvation.
 
 <sup>16</sup> They provoked his jealousy with foreign gods; they enraged him with abominations.
 
@@ -1866,7 +1866,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>34</sup> “Have I not stored up these things, sealed up within my vaults,
 
-<sup>35</sup> for a day of vengeance[^32-35-1] and repayment, for the moment their foot slips? For their day of disaster is near, and their doom is coming quickly.”
+<sup>35</sup> for a day of vengeance[^32-35-1] and repayment, for the moment their foot slips? For their day of disaster is near, and their doom[^32-35-2] is coming quickly.”
 
 <sup>36</sup> For the LORD will vindicate his people and have compassion on his servants when he sees that their strength is gone and no one remains, slave or free.
 
@@ -1908,7 +1908,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> He said: “The LORD came from Sinai and dawned upon us from Seir[^33-2-1]; he shone forth from Mount Paran; myriads of holy ones were with him[^33-2-2], and at his right hand stood his own host[^33-2-3].
 
-<sup>3</sup> Surely, O favorite of the peoples[^33-3-1], his holy ones were all in your keeping; they followed at your heels and took direction from you.
+<sup>3</sup> Surely, O favorite of the peoples[^33-3-1], his holy ones were all in your keeping; they followed at your heels[^33-3-2] and took direction from you.
 
 <sup>4</sup> Moses gave us the law, a heritage for the assembly of Jacob.
 
@@ -1934,7 +1934,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> with the best of the ancient mountains and the bounty of the everlasting hills,
 
-<sup>16</sup> with the choice gifts of the land and everything in it, and with the favor of the dweller on Sinai[^33-16-1]. May these rest on the head of Joseph and crown the brow of the prince of his brothers.
+<sup>16</sup> with the choice gifts of the land and everything in it, and with the favor of the dweller on Sinai[^33-16-1]. May these rest on the head of Joseph and crown the brow of the prince of his brothers[^33-16-2].
 
 <sup>17</sup> His majesty is like a firstborn bull[^33-17-1], and his horns are like those of a wild ox. With them he will gore the nations, even to the ends of the earth. Such are the myriads of Ephraim, and such are the thousands of Manasseh.”
 
@@ -1958,7 +1958,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> He puts down the gods of old[^33-27-1] and breaks[^33-27-2] the powers of ancient days[^33-27-3]; he drove the enemy out before you and said, ‘Destroy!’
 
-<sup>28</sup> So Israel dwells securely; Jacob’s dwelling[^33-28-1] is untroubled in a land of grain and new wine, where even the heavens drip with dew.
+<sup>28</sup> So Israel dwells securely[^33-28-2]; Jacob’s dwelling[^33-28-1] is untroubled in a land of grain and new wine, where even the heavens drip with dew.
 
 <sup>29</sup> Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is the shield that protects you, the sword in which you boast. Your enemies will cower before you, and you shall trample their high places.”
 
@@ -1993,7 +1993,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-8-1]: **1:8** Or ancestors
 [^1-40-1]: **1:40** Or Sea of Reeds
 [^2-1-1]: **2:1** Or Sea of Reeds
-[^3-14-1]: **3:14** Heb Havvoth-jair means settlements of Jair
+[^3-14-1]: **3:14** Heb Havvoth-jair probably means tent-villages of Jair
 [^4-13-1]: **4:13** Heb the ten words
 [^4-48-1]: **4:48** Syriac reads Sirion; Hebrew reads Siyon
 [^5-7-1]: **5:7** Or besides
@@ -2023,22 +2023,30 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-12-1]: **15:12** Or sells himself or herself
 [^16-1-1]: **16:1** Or new moon
 [^16-13-1]: **16:13** Or Tabernacles
+[^16-16-2]: **16:16** Or see the face of the LORD your God
 [^16-16-1]: **16:16** Or Tabernacles
+[^17-9-1]: **17:9** The Samaritan Pentateuch and the Greek read ‘They shall inquire’
 [^18-1-1]: **18:1** Or gifts
+[^18-1-2]: **18:1** Heb and his inheritance
 [^18-5-1]: **18:5** Heb him
-[^18-8-1]: **18:8** Meaning of Heb uncertain
+[^18-8-1]: **18:8** Or lease; meaning of Heb uncertain
+[^18-10-1]: **18:10** Or burns a son or daughter as an offering
 [^18-19-1]: **18:19** Heb he
 [^19-3-1]: **19:3** Or prepare roads to them
 [^21-17-1]: **21:17** Heb two-thirds
+[^22-5-1]: **22:5** Heb a man’s gear
 [^22-30-1]: **22:30** Heb uncover his father’s skirt
 [^23-17-1]: **23:17** Heb qedeshah (female) and qadesh (male), literally consecrated one; traditionally rendered shrine prostitute
 [^23-18-1]: **23:18** Heb the wages of a dog; probably a male cult servant (compare verse 17)
+[^24-1-1]: **24:1** Heb nakedness of a thing; meaning of Heb uncertain
 [^24-8-1]: **24:8** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^24-16-1]: **24:16** Or parents, in both places
+[^26-5-2]: **26:5** Or perishing
 [^26-5-1]: **26:5** Or ancestor
 [^27-6-1]: **27:6** Heb whole
 [^27-20-1]: **27:20** Heb uncovered his father’s skirt
 [^28-22-1]: **28:22** The Greek, Syriac and Targum read ‘drought’; Hebrew reads ‘sword’
+[^28-68-1]: **28:68** Meaning of Heb uncertain
 [^29-9-1]: **29:9** Or deal wisely
 [^29-10-1]: **29:10** The Greek and Syriac read ‘your leaders of tribes’; Hebrew reads ‘your leaders, your tribes’
 [^29-13-1]: **29:13** Or ancestors
@@ -2054,12 +2062,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^32-10-1]: **32:10** The Samaritan Pentateuch and the Greek read ‘sustained’; Hebrew reads ‘found’
 [^32-13-1]: **32:13** The Samaritan Pentateuch, the Greek, Syriac and Targum read ‘fed him’; Hebrew reads ‘he ate’
 [^32-15-1]: **32:15** Some Dead Sea Scrolls, the Samaritan Pentateuch and the Greek add ‘Jacob ate his fill’; Hebrew lacks it
+[^32-15-2]: **32:15** Meaning of Heb uncertain
 [^32-18-1]: **32:18** Or that fathered you
 [^32-19-1]: **32:19** Some Dead Sea Scrolls and the Greek add ‘was jealous’; Hebrew lacks it
 [^32-19-2]: **32:19** Heb he spurned because of provocation
 [^32-26-1]: **32:26** Meaning of Heb uncertain
 [^32-31-1]: **32:31** The Greek reads ‘fools’; Hebrew reads ‘judges’
 [^32-35-1]: **32:35** The Samaritan Pentateuch and the Greek read ‘for the day of vengeance’; Hebrew reads ‘vengeance is mine’
+[^32-35-2]: **32:35** Heb the things prepared for them
 [^32-43-1]: **32:43** A Dead Sea Scroll and the Greek read ‘heavens’; Hebrew reads ‘nations’
 [^32-43-2]: **32:43** A Dead Sea Scroll and the Greek add ‘worship him, all you gods’; Hebrew lacks this line
 [^32-43-3]: **32:43** A Dead Sea Scroll and the Greek read ‘his children’; Hebrew reads ‘his servants’
@@ -2070,12 +2080,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^33-2-2]: **33:2** Heb he came from Ribeboth-kodesh
 [^33-2-3]: **33:2** Meaning of Heb uncertain
 [^33-3-1]: **33:3** Or O lover of the peoples
-[^33-7-1]: **33:7** Meaning of Heb uncertain
+[^33-3-2]: **33:3** Meaning of Heb uncertain
+[^33-7-1]: **33:7** Heb his hands contend for him; meaning of Heb uncertain
 [^33-8-1]: **33:8** A Dead Sea Scroll and the Greek add ‘Give to Levi’; Hebrew lacks these words
 [^33-16-1]: **33:16** Heb in the bush
+[^33-16-2]: **33:16** Or the one set apart from his brothers
 [^33-17-1]: **33:17** A Dead Sea Scroll, the Greek, Syriac and Vulgate read ‘a firstborn bull’; Hebrew reads ‘his firstborn bull’
-[^33-25-1]: **33:25** Meaning of Heb uncertain
+[^33-25-1]: **33:25** Or rest; meaning of Heb uncertain
 [^33-27-1]: **33:27** Heb The eternal God is a dwelling place
 [^33-27-2]: **33:27** Heb from underneath
 [^33-27-3]: **33:27** Or the everlasting arms
+[^33-28-2]: **33:28** Heb securely alone
 [^33-28-1]: **33:28** Or fountain

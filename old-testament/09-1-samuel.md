@@ -46,7 +46,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> Then Elkanah and all his house went up to make the annual sacrifice to the LORD and to fulfill his vow,
 
-<sup>22</sup> but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD and to stay there permanently, and I will make him a nazirite for all time[^1-22-1].”
+<sup>22</sup> but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD[^1-22-2] and to stay there permanently, and I will make him a nazirite for all time[^1-22-1].”
 
 <sup>23</sup> “Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm your word[^1-23-1].” So Hannah stayed and nursed her son until she had weaned him.
 
@@ -1692,6 +1692,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-11-1]: **1:11** A Dead Sea Scroll and the Greek read, with differences, set him before you as a nazirite until the day of his death; Hebrew reads give him to the LORD all the days of his life
 [^1-18-1]: **1:18** The Greek adds and drank with her husband; Hebrew lacks these words
 [^1-18-2]: **1:18** Meaning of Heb uncertain
+[^1-22-2]: **1:22** Or see the face of the LORD
 [^1-22-1]: **1:22** A Dead Sea Scroll adds I will make him a nazirite for all time; Hebrew lacks these words
 [^1-23-1]: **1:23** A Dead Sea Scroll, the Greek and Syriac read your; Heb his
 [^1-24-1]: **1:24** A Dead Sea Scroll, the Greek and Syriac read a three-year-old bull; Heb three bulls

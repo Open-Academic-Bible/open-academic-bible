@@ -1300,11 +1300,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Three times a year you are to celebrate a feast to me.
 
-<sup>15</sup> You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before me empty-handed.
+<sup>15</sup> You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before me[^23-15-1] empty-handed.
 
 <sup>16</sup> You are also to keep the Feast of Harvest with the firstfruits of the produce from what you sow in the field. And keep the Feast of Ingathering at the end of the year, when you gather your produce from the field.
 
-<sup>17</sup> Three times a year all your males are to appear before the Lord GOD.
+<sup>17</sup> Three times a year all your males are to appear before the Lord GOD[^23-17-1].
 
 <sup>18</sup> You must not offer the blood of my sacrifices with anything leavened, nor may the fat of my feast remain until morning.
 
@@ -2036,15 +2036,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> The first offspring of every womb belongs to me, including all the firstborn males among your livestock[^34-19-1], whether cattle or sheep.
 
-<sup>20</sup> You must redeem the firstborn of a donkey with a lamb; but if you do not redeem it, you are to break its neck. You must redeem all the firstborn of your sons. No one shall appear before me empty-handed.
+<sup>20</sup> You must redeem the firstborn of a donkey with a lamb; but if you do not redeem it, you are to break its neck. You must redeem all the firstborn of your sons. No one shall appear before me[^34-20-1] empty-handed.
 
 <sup>21</sup> Six days you shall labor, but on the seventh day you shall rest; even in the seasons of plowing and harvesting, you must rest.
 
 <sup>22</sup> And you are to celebrate the Feast of Weeks with the firstfruits of the wheat harvest, and the Feast of Ingathering at the turn of the year.
 
-<sup>23</sup> Three times a year all your males are to appear before the LORD God, the God of Israel.
+<sup>23</sup> Three times a year all your males are to appear before the LORD God[^34-23-1], the God of Israel.
 
-<sup>24</sup> For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God.
+<sup>24</sup> For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God[^34-24-1].
 
 <sup>25</sup> Do not offer the blood of a sacrifice to me along with anything leavened, and do not let any of the sacrifice from the Passover Feast remain until morning.
 
@@ -2561,6 +2561,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-17-1]: **21:17** Or insults
 [^22-29-1]: **22:29** Meaning of Heb uncertain
 [^23-2-1]: **23:2** The Greek (Septuagint) reads ‘justice’; Hebrew lacks this word
+[^23-15-1]: **23:15** Or see my face
+[^23-17-1]: **23:17** Or see the face of the Lord GOD
 [^23-25-1]: **23:25** The Greek and Vulgate read ‘I will bless’; Hebrew reads ‘he will bless’
 [^23-28-1]: **23:28** Meaning of Heb uncertain
 [^23-31-1]: **23:31** Or Sea of Reeds
@@ -2594,6 +2596,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^34-7-2]: **34:7** Or parents
 [^34-10-1]: **34:10** Heb \*created\*
 [^34-19-1]: **34:19** Meaning of Heb uncertain
+[^34-20-1]: **34:20** Or see my face
+[^34-23-1]: **34:23** Or see the face of the LORD God
+[^34-24-1]: **34:24** Or see the face of the LORD your God
 [^34-28-1]: **34:28** Heb \*the ten words\*
 [^35-7-1]: **35:7** Meaning of Heb uncertain
 [^35-23-1]: **35:23** Meaning of Heb uncertain
