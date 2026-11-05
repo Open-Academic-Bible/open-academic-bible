@@ -246,7 +246,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> As soon as Jesus was alone with the Twelve and those around him, they asked him about the parable.
 
-<sup>11</sup> He replied, “The mystery[^4-11-1] of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,
+<sup>11</sup> He replied, “The mystery[^4-11-1] of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables[^4-11-2],
 
 <sup>12</sup> so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; so that they may not turn again and be forgiven.’”
 
@@ -758,7 +758,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>49</sup> For everyone will be salted with fire.[^9-49-1]
 
-<sup>50</sup> Salt is good, but if the salt loses its saltiness, with what will you season it[^9-50-1]? Have salt among yourselves, and be at peace with one another.”
+<sup>50</sup> Salt is good, but if the salt loses its saltiness, with what will you season it[^9-50-1]? Have salt among yourselves[^9-50-2], and be at peace with one another.”
 
 ## Chapter 10
 
@@ -988,7 +988,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> He is not the God of the dead, but of the living. You are badly mistaken!”
 
-<sup>28</sup> Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked him, “Which commandment is the most important of all?”
+<sup>28</sup> Now one of the scribes had come up and heard their debate. Noticing how well Jesus had answered them, he asked him, “Which commandment is the most important[^12-28-1] of all?”
 
 <sup>29</sup> Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is one.
 
@@ -1414,6 +1414,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-28-1]: **3:28** Gk the sons of men
 [^3-32-1]: **3:32** Some manuscripts add and sisters
 [^4-11-1]: **4:11** Or secret
+[^4-11-2]: **4:11** Or riddles
 [^4-17-1]: **4:17** Or stumble
 [^5-1-1]: **5:1** Some manuscripts read Gergesenes or Gadarenes
 [^5-9-1]: **5:9** Gk he
@@ -1470,6 +1471,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-47-2]: **9:47** Gk Gehenna
 [^9-49-1]: **9:49** Some manuscripts add or substitute and every sacrifice will be salted with salt
 [^9-50-1]: **9:50** Or with what will you restore its saltiness?
+[^9-50-2]: **9:50** Or in yourselves
 [^10-1-1]: **10:1** Some manuscripts read Judea and beyond the Jordan
 [^10-2-1]: **10:2** Some manuscripts add Pharisees came and
 [^10-7-1]: **10:7** Some manuscripts lack and be united to his wife
@@ -1487,6 +1489,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^12-19-1]: **12:19** Gk his brother
 [^12-21-1]: **12:21** Gk her
 [^12-23-1]: **12:23** Some manuscripts lack when they have risen
+[^12-28-1]: **12:28** Gk first
 [^12-35-1]: **12:35** Or the Christ
 [^13-6-1]: **13:6** Gk I am
 [^13-21-1]: **13:21** Or the Christ
