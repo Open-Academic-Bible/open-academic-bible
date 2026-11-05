@@ -22,7 +22,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> “Look,” he said to his people, “the Israelites have become too numerous and too powerful for us.
 
-<sup>10</sup> Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”
+<sup>10</sup> Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country[^1-10-1].”
 
 <sup>11</sup> So the Egyptians appointed taskmasters over the Israelites to oppress them with forced labor. As a result, they built Pithom and Rameses as store cities for Pharaoh.
 
@@ -196,9 +196,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> Now at a lodging place along the way, the LORD met Moses and was about to kill him.
 
-<sup>25</sup> But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to his feet. “Surely you are a bridegroom of blood to me,” she said.
+<sup>25</sup> But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to his feet[^4-25-1]. “Surely you are a bridegroom of blood to me,” she said.
 
-<sup>26</sup> So the LORD let him alone. (When she said, “bridegroom of blood,” she was referring to the circumcision.)
+<sup>26</sup> So the LORD let him alone. (When she said, “bridegroom of blood[^4-26-1],” she was referring to the circumcision.)
 
 <sup>27</sup> Meanwhile, the LORD had said to Aaron, “Go and meet Moses in the wilderness.” So he went and met Moses at the mountain of God and kissed him.
 
@@ -276,7 +276,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> And I will bring you into the land that I swore to give to Abraham, Isaac, and Jacob. I will give it to you as a possession. I am the LORD!’”
 
-<sup>9</sup> Moses relayed this message to the Israelites, but on account of their broken spirit and cruel bondage, they did not listen to him.
+<sup>9</sup> Moses relayed this message to the Israelites, but on account of their broken spirit[^6-9-1] and cruel bondage, they did not listen to him.
 
 <sup>10</sup> So the LORD said to Moses,
 
@@ -618,7 +618,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> On that night I will pass through the land of Egypt and strike down every firstborn, both people and animals, and I will execute judgment against all the gods of Egypt. I am the LORD.
 
-<sup>13</sup> The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you. No plague will fall on you to destroy you when I strike the land of Egypt.
+<sup>13</sup> The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you[^12-13-1]. No plague will fall on you to destroy you when I strike the land of Egypt.
 
 <sup>14</sup> And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.
 
@@ -968,7 +968,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> And Moses built an altar and named it The LORD is my banner.
 
-<sup>16</sup> “Indeed,” he said, “a hand on the LORD’s banner[^17-16-1]! The LORD will war against Amalek from generation to generation.”
+<sup>16</sup> “Indeed,” he said, “a hand on[^17-16-2] the LORD’s banner[^17-16-1]! The LORD will war against Amalek from generation to generation.”
 
 ## Chapter 18
 
@@ -1386,7 +1386,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> blue, purple, and scarlet yarn; fine linen and goat hair;
 
-<sup>5</sup> tanned ram skins and fine leather[^25-5-1]; acacia wood;
+<sup>5</sup> tanned[^25-5-2] ram skins and fine leather[^25-5-1]; acacia wood;
 
 <sup>6</sup> olive oil for the light; spices for the anointing oil and for the fragrant incense;
 
@@ -1592,7 +1592,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> They are to make the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn.
 
-<sup>7</sup> It shall have two shoulder pieces attached at two of its corners, so it can be fastened.
+<sup>7</sup> It shall have two shoulder pieces attached at two of its corners[^28-7-1], so it can be fastened.
 
 <sup>8</sup> And the skillfully woven waistband of the ephod must be of one piece, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen.
 
@@ -1878,13 +1878,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 32
 
-<sup>1</sup> Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”
+<sup>1</sup> Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods[^32-1-1] who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”
 
 <sup>2</sup> So Aaron told them, “Take off the gold earrings that are on your wives and sons and daughters, and bring them to me.”
 
 <sup>3</sup> Then all the people took off their gold earrings and brought them to Aaron.
 
-<sup>4</sup> He took the gold from their hands, and he formed it in a mold[^32-4-1] and cast it as an image of a calf. And they said, “These, O Israel, are your gods, who brought you up out of the land of Egypt!”
+<sup>4</sup> He took the gold from their hands, and he formed it in a mold[^32-4-1] and cast it as an image of a calf[^32-4-2]. And they said, “These, O Israel, are your gods, who brought you up out of the land of Egypt!”
 
 <sup>5</sup> When Aaron saw this, he built an altar before the calf and proclaimed: “Tomorrow shall be a feast to the LORD.”
 
@@ -2510,9 +2510,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ---
 
+[^1-10-1]: **1:10** Or gain control of the land; Heb go up from the land
 [^1-22-1]: **1:22** The Samaritan Pentateuch, the Greek and the Targum read ‘to the Hebrews’; Hebrew lacks these words
 [^2-10-1]: **2:10** Heb Moses sounds like the Hebrew for drew out
-[^2-22-1]: **2:22** Heb Gershom sounds like the Hebrew for resident alien
+[^2-22-1]: **2:22** Heb Gershom sounds like the Hebrew for an alien there
 [^3-1-1]: **3:1** The Greek (Septuagint) reads as here; Hebrew reads ‘to the mountain of God, to Horeb’
 [^3-14-1]: **3:14** Or I AM WHAT I AM, or I WILL BE WHAT I WILL BE
 [^3-15-1]: **3:15** Heb \*YHWH\* (LORD) is here connected with the verb \*hayah\*, ‘to be’
@@ -2521,17 +2522,21 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-5-1]: **4:5** Or ancestors
 [^4-6-1]: **4:6** Heb \*tsaraat\*; ‘leprous’ and ‘leprosy’ can refer to several diseases
 [^4-14-1]: **4:14** Heb the nose of the LORD burned
+[^4-25-1]: **4:25** Or genitals
+[^4-26-1]: **4:26** Meaning of Heb uncertain
 [^5-5-1]: **5:5** The Samaritan Pentateuch reads ‘they are more numerous than the people of the land’; Hebrew reads ‘the people of the land are now many’
 [^5-9-1]: **5:9** The Samaritan Pentateuch, the Greek and Syriac read ‘they will pay attention to it’; Hebrew reads ‘they will do it’
 [^5-16-1]: **5:16** Heb \*the fault of your people\*; the text is corrected slightly
 [^6-3-1]: **6:3** Heb \*El Shaddai\*; ‘God Almighty’ is the traditional rendering
 [^6-3-2]: **6:3** Heb \*YHWH\*; see the note at 3:15
+[^6-9-1]: **6:9** Or frustration; Heb shortness of spirit
 [^6-12-1]: **6:12** Heb \*I am uncircumcised of lips\*
 [^6-30-1]: **6:30** Heb \*I am uncircumcised of lips\*
 [^8-3-1]: **8:3** The Greek (Septuagint) reads ‘of your people’; Hebrew reads ‘upon your people’
 [^8-23-1]: **8:23** The Greek, Syriac and Vulgate read ‘distinction’; Hebrew reads ‘redemption’
 [^10-19-1]: **10:19** Or Sea of Reeds
-[^13-16-1]: **13:16** Or frontlet; meaning of Heb uncertain
+[^12-13-1]: **12:13** Or protect, here and in verses 23 and 27
+[^13-16-1]: **13:16** Or frontlet, or pendant; meaning of Heb uncertain
 [^13-18-1]: **13:18** Or Sea of Reeds
 [^14-25-1]: **14:25** The Samaritan Pentateuch, the Greek and Syriac read ‘jammed’ (clogged); Hebrew reads ‘removed’
 [^15-2-1]: **15:2** Or song
@@ -2542,8 +2547,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^16-15-1]: **16:15** Or “It is manna”
 [^17-7-1]: **17:7** Heb \*Massah\* means test
 [^17-7-2]: **17:7** Heb \*Meribah\* means quarrel
+[^17-16-2]: **17:16** Or a monument to
 [^17-16-1]: **17:16** Heb \*throne\*; meaning of Heb uncertain
-[^18-3-1]: **18:3** Heb \*Gershom\* sounds like the Hebrew for resident alien
+[^18-3-1]: **18:3** Heb \*Gershom\* sounds like the Hebrew for an alien there
 [^18-4-1]: **18:4** Heb \*Eliezer\* means my God is help
 [^18-11-1]: **18:11** Heb places the clause ‘who delivered the people from the hand of the Egyptians’ at the end of verse 10
 [^19-13-1]: **19:13** Hebrew lacks ‘with arrows’
@@ -2558,8 +2564,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^23-28-1]: **23:28** Meaning of Heb uncertain
 [^23-31-1]: **23:31** Or Sea of Reeds
 [^24-11-1]: **24:11** Heb he
+[^25-5-2]: **25:5** Heb reddened, here and throughout
 [^25-5-1]: **25:5** Meaning of Heb uncertain
 [^26-14-1]: **26:14** Meaning of Heb uncertain
+[^28-7-1]: **28:7** Meaning of Heb uncertain
 [^28-18-1]: **28:18** Or lapis lazuli
 [^28-26-1]: **28:26** Meaning of Heb uncertain
 [^28-32-1]: **28:32** Meaning of Heb uncertain
@@ -2569,7 +2577,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^30-20-1]: **30:20** Or a gift
 [^31-3-1]: **31:3** Or the spirit of God
 [^31-18-1]: **31:18** Heb he
+[^32-1-1]: **32:1** Or a god, here and in verse 23
 [^32-4-1]: **32:4** Or fashioned it with an engraving tool; meaning of Heb uncertain
+[^32-4-2]: **32:4** Or young bull, here and throughout this chapter
 [^33-3-1]: **33:3** Hebrew lacks ‘Go up’
 [^33-9-1]: **33:9** Heb he
 [^33-18-1]: **33:18** Heb he
