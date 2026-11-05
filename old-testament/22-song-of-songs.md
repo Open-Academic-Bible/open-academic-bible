@@ -16,7 +16,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Do not stare because I am dark, for the sun has gazed upon me. My mother’s sons were angry with me; they made me a keeper of the vineyards, but my own vineyard I have neglected.
 
-<sup>7</sup> Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman beside the flocks of your companions?
+<sup>7</sup> Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman[^1-7-1] beside the flocks of your companions?
 
 <sup>8</sup> If you do not know, O fairest of women, follow the tracks of the flock, and graze your young goats near the tents of the shepherds.
 
@@ -72,7 +72,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> My beloved is mine and I am his; he pastures his flock among the lilies.
 
-<sup>17</sup> Until the day draws breath and the shadows flee, turn, my beloved, and be like a gazelle or a young stag on the cleft mountains[^2-17-1].
+<sup>17</sup> Until the day draws breath[^2-17-2] and the shadows flee, turn, my beloved, and be like a gazelle or a young stag on the cleft mountains[^2-17-1].
 
 ## Chapter 3
 
@@ -88,7 +88,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Who is this coming up from the wilderness like a column of smoke, scented with myrrh and frankincense from all the spices of the merchant?
 
-<sup>7</sup> Behold, it is Solomon’s litter, escorted by sixty of the mightiest men of Israel.
+<sup>7</sup> Behold, it is Solomon’s litter[^3-7-1], escorted by sixty of the mightiest men of Israel.
 
 <sup>8</sup> All are skilled with the sword, experienced in warfare. Each has his sword at his side prepared for the terror of the night.
 
@@ -110,7 +110,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> Your breasts are like two fawns, twins of a gazelle grazing among the lilies.
 
-<sup>6</sup> Until the day draws breath and the shadows flee, I will make my way to the mountain of myrrh and to the hill of frankincense.
+<sup>6</sup> Until the day draws breath[^4-6-1] and the shadows flee, I will make my way to the mountain of myrrh and to the hill of frankincense.
 
 <sup>7</sup> You are altogether beautiful, my darling; in you there is no flaw.
 
@@ -148,7 +148,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> I encountered the watchmen on their rounds of the city. They beat me and bruised me; they took away my cloak, those guardians of the walls.
 
-<sup>8</sup> O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love.
+<sup>8</sup> O daughters of Jerusalem, I adjure you, if you find my beloved, tell him[^5-8-1] I am sick with love.
 
 <sup>9</sup> How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?
 
@@ -192,7 +192,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> Before I realized it, my desire had put me in a chariot with my prince[^6-12-1].
 
-<sup>13</sup> Come back, come back, O Shulammite! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite, as on a dance of two camps[^6-13-1]?
+<sup>13</sup> Come back, come back, O Shulammite[^6-13-2]! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite[^6-13-3], as on a dance of two camps[^6-13-1]?
 
 ## Chapter 7
 
@@ -232,7 +232,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> O daughters of Jerusalem, I adjure you: Do not arouse or awaken love until the time is right.
 
-<sup>5</sup> Who is this coming up from the wilderness, leaning on her beloved? I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.
+<sup>5</sup> Who is this coming up from the wilderness, leaning on her beloved? I roused you under the apple tree; there your mother conceived you; there she travailed[^8-5-1] and brought you forth.
 
 <sup>6</sup> Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its passion as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.
 
@@ -254,22 +254,30 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ---
 
+[^1-7-1]: **1:7** Or like one who wanders
 [^1-17-1]: **1:17** Meaning of Heb uncertain
 [^2-4-1]: **2:4** Heb his banner over me
+[^2-17-2]: **2:17** Or Until the evening breeze blows
 [^2-17-1]: **2:17** Or mountains of Bether; meaning of Heb uncertain
 [^3-1-1]: **3:1** The Greek (Septuagint) reads this line; Hebrew lacks it
-[^3-10-1]: **3:10** Heb with love from the daughters
+[^3-7-1]: **3:7** Heb couch
+[^3-10-1]: **3:10** Heb with love from the daughters; meaning of Heb uncertain
 [^3-11-1]: **3:11** Hebrew adds ‘O daughters of Zion’; the Greek (Septuagint) lacks them
+[^4-6-1]: **4:6** Or Until the evening breeze blows
 [^4-8-1]: **4:8** Or Look
 [^4-12-1]: **4:12** Some Hebrew manuscripts, the Greek, Syriac, and Vulgate read ‘garden’; Hebrew reads ‘heap of stones’
-[^4-13-1]: **4:13** Meaning of Heb uncertain
+[^4-13-1]: **4:13** Or your watered garden; meaning of Heb uncertain
+[^5-8-1]: **5:8** Or do not tell him
 [^5-12-1]: **5:12** Meaning of Heb uncertain
 [^5-14-1]: **5:14** Meaning of Heb uncertain
-[^6-12-1]: **6:12** Meaning of Heb uncertain
-[^6-13-1]: **6:13** Or the dance of Mahanaim
+[^6-12-1]: **6:12** Heb the chariots of Amminadib; meaning of Heb uncertain
+[^6-13-2]: **6:13** Or Turn, turn
+[^6-13-3]: **6:13** Heb Shulammite probably means the perfect one
+[^6-13-1]: **6:13** Or the dance of Mahanaim; or, with a small correction, a camp dancer
 [^7-6-1]: **7:6** Syriac reads ‘maiden of delights’; Hebrew reads ‘with delights’
 [^7-9-1]: **7:9** Heb palate
 [^7-9-2]: **7:9** Heb to my beloved
 [^7-9-3]: **7:9** The Greek, Syriac, and Vulgate read ‘lips and teeth’; Hebrew reads ‘lips of sleepers’
 [^8-2-1]: **8:2** The Greek and Syriac read ‘her who bore me’; Hebrew reads ‘my mother; she (or you) will teach me’
+[^8-5-1]: **8:5** Or conceived
 [^8-10-1]: **8:10** Or finds

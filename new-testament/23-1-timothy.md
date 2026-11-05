@@ -176,7 +176,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> For some have already turned aside to follow Satan.
 
-<sup>16</sup> Any believing woman[^5-16-1] who has relatives that are widows must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need.
+<sup>16</sup> Any believing woman[^5-16-1] who has relatives that are widows[^5-16-2] must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need.
 
 <sup>17</sup> Elders who lead effectively are worthy of double honor[^5-17-1], especially those who work hard at preaching and teaching.
 
@@ -267,6 +267,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-1-1]: **5:1** Or an elder
 [^5-9-1]: **5:9** Or married only once
 [^5-16-1]: **5:16** Some manuscripts read believing man or woman or believing man
+[^5-16-2]: **5:16** Gk has widows
 [^5-17-1]: **5:17** Or compensation
 [^5-22-1]: **5:22** Gk Do not lay hands on
 [^6-2-1]: **6:2** Or since they are believers and beloved, who devote themselves to good deeds
