@@ -714,7 +714,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>29</sup> When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal.
 
-<sup>30</sup> Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the oak of Moreh?
+<sup>30</sup> Are not these mountains across the Jordan, west of the road toward the sunset, in the land of the Canaanites who live in the Arabah opposite Gilgal near the oak[^11-30-1] of Moreh?
 
 <sup>31</sup> For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,
 
@@ -1652,7 +1652,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> So keep and follow the words of this covenant, that you may prosper in all you do[^29-9-1].
 
-<sup>10</sup> All of you are standing today before the LORD your God—you leaders of tribes, elders, officials, and all the men of Israel,
+<sup>10</sup> All of you are standing today before the LORD your God—you leaders of tribes[^29-10-1], elders, officials, and all the men of Israel,
 
 <sup>11</sup> your children and wives, and the foreigners in your camps who cut your wood and draw your water—
 
@@ -1812,7 +1812,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> Remember the days of old; consider the years long past. Ask your father, and he will tell you, your elders, and they will inform you.
 
-<sup>8</sup> When the Most High gave the nations their inheritance, when he divided humankind, he set the boundaries of the peoples according to the number of the gods[^32-8-1].
+<sup>8</sup> When the Most High[^32-8-1] gave the nations their inheritance, when he divided humankind, he set the boundaries of the peoples according to the number of the gods[^32-8-2].
 
 <sup>9</sup> But the LORD’s portion is his people, Jacob his allotted inheritance.
 
@@ -2013,6 +2013,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-4-1]: **11:4** Or Sea of Reeds
 [^11-14-1]: **11:14** The Samaritan Pentateuch, the Greek and the Vulgate read ‘he will give’; Hebrew reads ‘I will give’
 [^11-15-1]: **11:15** The Samaritan Pentateuch, the Greek and the Vulgate read ‘he will give’; Hebrew reads ‘I will give’
+[^11-30-1]: **11:30** The Greek and Syriac read ‘oak’; Hebrew reads ‘oaks’
 [^12-27-1]: **12:27** Or on
 [^13-6-1]: **13:6** The Samaritan Pentateuch and the Greek read ‘your father’s son or’; Hebrew lacks ‘your father’s son or’
 [^14-1-1]: **14:1** Or children
@@ -2037,6 +2038,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-20-1]: **27:20** Heb uncovered his father’s skirt
 [^28-22-1]: **28:22** The Greek, Syriac and Targum read ‘drought’; Hebrew reads ‘sword’
 [^29-9-1]: **29:9** Or deal wisely
+[^29-10-1]: **29:10** The Greek and Syriac read ‘your leaders of tribes’; Hebrew reads ‘your leaders, your tribes’
 [^29-13-1]: **29:13** Or ancestors
 [^29-19-1]: **29:19** Meaning of Heb uncertain
 [^30-16-1]: **30:16** The Greek (Septuagint) reads ‘If you obey the commandments of the LORD your God’; Hebrew lacks these words
@@ -2044,7 +2046,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^31-1-1]: **31:1** A Dead Sea Scroll and the Greek read ‘finished speaking’; Hebrew reads ‘went and spoke’
 [^31-10-1]: **31:10** Or Tabernacles
 [^32-5-1]: **32:5** Meaning of Heb uncertain
-[^32-8-1]: **32:8** A Dead Sea Scroll reads ‘gods’ (compare the Greek); Hebrew reads ‘the Israelites’
+[^32-8-1]: **32:8** Heb Elyon
+[^32-8-2]: **32:8** A Dead Sea Scroll reads ‘gods’ (compare the Greek); Hebrew reads ‘the Israelites’
 [^32-10-1]: **32:10** The Samaritan Pentateuch and the Greek read ‘sustained’; Hebrew reads ‘found’
 [^32-13-1]: **32:13** The Samaritan Pentateuch, the Greek, Syriac and Targum read ‘fed him’; Hebrew reads ‘he ate’
 [^32-15-1]: **32:15** Some Dead Sea Scrolls, the Samaritan Pentateuch and the Greek add ‘Jacob ate his fill’; Hebrew lacks it

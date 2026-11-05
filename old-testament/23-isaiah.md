@@ -2216,7 +2216,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> Behold, my servant will prosper; he will be raised and lifted up and highly exalted.
 
-<sup>14</sup> Just as many were appalled at him—his appearance was disfigured beyond that of any human, and his form was marred beyond human likeness—
+<sup>14</sup> Just as many were appalled at him[^52-14-1]—his appearance was disfigured beyond that of any human, and his form was marred beyond human likeness—
 
 <sup>15</sup> so he will startle many nations[^52-15-1]. Kings will shut their mouths because of him. For they will see what they have not been told, and they will understand what they have not heard.
 
@@ -2884,6 +2884,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^51-19-1]: **51:19** A Dead Sea Scroll, the Greek, Syriac and Vulgate read ‘who will comfort you’; Hebrew reads ‘how may I comfort you’
 [^52-2-1]: **52:2** Hebrew reads ‘rise up, sit’
 [^52-6-1]: **52:6** A Dead Sea Scroll, the Syriac, Vulgate and Targum lack the second ‘therefore’
+[^52-14-1]: **52:14** The Syriac and Targum read ‘him’; Hebrew reads ‘you’
 [^52-15-1]: **52:15** Meaning of Heb uncertain
 [^53-3-1]: **53:3** Or a man of suffering
 [^53-3-2]: **53:3** Or as one who hides his face from us

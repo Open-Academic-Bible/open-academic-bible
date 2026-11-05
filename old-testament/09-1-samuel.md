@@ -1444,7 +1444,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> So Saul, accompanied by three thousand chosen men of Israel, went down to the wilderness of Ziph to search for David there.
 
-<sup>3</sup> Saul camped beside the road at the hill of Hachilah opposite Jeshimon, but David was living in the wilderness. When he realized that Saul had followed him there,
+<sup>3</sup> Saul camped beside the road at the hill of Hachilah opposite Jeshimon[^26-3-1], but David was living in the wilderness. When he realized that Saul had followed him there,
 
 <sup>4</sup> David sent out spies to verify that Saul had arrived.
 
@@ -1813,6 +1813,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^25-22-1]: **25:22** The Greek and Syriac read David; Heb the enemies of David
 [^25-25-1]: **25:25** Heb Nabal means fool
 [^26-1-1]: **26:1** Or opposite the wasteland, here and in verse 3
+[^26-3-1]: **26:3** Or the wasteland
 [^27-8-1]: **27:8** The Greek reads from Telam; Heb from of old
 [^27-10-1]: **27:10** A Dead Sea Scroll, the Greek and Vulgate add whom; Hebrew lacks it
 [^28-13-1]: **28:13** Or a god or gods

@@ -32,7 +32,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, “What do you desire?”
 
-<sup>15</sup> “Give me a blessing,” she answered. “Since you have given me land in the Negev, give me springs of water as well.” So Caleb gave her both the upper and lower springs.
+<sup>15</sup> “Give me a blessing,” she answered. “Since you have given me land in the Negev, give me springs of water[^1-15-1] as well.” So Caleb gave her both the upper and lower springs.
 
 <sup>16</sup> Now the descendants of Moses’ father-in-law Hobab[^1-16-1], the Kenite, went up with the tribe of Judah from the City of Palms to the Wilderness of Judah in the Negev near Arad. They went to live among the Amalekites[^1-16-2].
 
@@ -582,7 +582,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>36</sup> When Gaal saw the people, he said to Zebul, “Look, people are coming down from the mountains!” But Zebul replied, “The shadows of the mountains look like people to you.”
 
-<sup>37</sup> Then Gaal spoke up again, “Look, people are coming down from the center of the land, and one company is coming by way of the Diviners’ Oak.”
+<sup>37</sup> Then Gaal spoke up again, “Look, people are coming down from the center of the land, and one company is coming by way of the Diviners’ Oak[^9-37-1].”
 
 <sup>38</sup> “Where is your gloating now?” Zebul replied. “You said, ‘Who is Abimelech that we should serve him?’ Are these not the people you ridiculed? Go out now and fight them!”
 
@@ -1282,6 +1282,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ---
 
+[^1-15-1]: **1:15** Heb Gulloth-mayim
 [^1-16-1]: **1:16** The Greek (Septuagint) adds ‘Hobab’; Hebrew lacks it
 [^1-16-2]: **1:16** An Old Latin manuscript reads ‘the Amalekites’; Hebrew reads ‘the people’
 [^1-27-1]: **1:27** Hebrew lacks ‘the inhabitants of’
@@ -1310,6 +1311,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-29-1]: **9:29** The Greek reads ‘I would say’; Hebrew reads ‘and he said’
 [^9-31-1]: **9:31** Hebrew reads ‘Tormah’
 [^9-31-2]: **9:31** Hebrew reads ‘are besieging’
+[^9-37-1]: **9:37** Heb Elon-meonenim
 [^9-44-1]: **9:44** The Greek, Syriac, Vulgate and Targum read ‘company’; Hebrew reads ‘companies’
 [^11-16-1]: **11:16** Or Sea of Reeds
 [^11-31-1]: **11:31** Or whoever

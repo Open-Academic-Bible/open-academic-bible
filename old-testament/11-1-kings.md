@@ -360,7 +360,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> Then King Solomon conscripted a labor force of 30,000 men from all Israel.
 
-<sup>14</sup> He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home. And Adoniram was in charge of the forced labor.
+<sup>14</sup> He sent them to Lebanon in monthly shifts of 10,000 men, so that they would spend one month in Lebanon and two months at home[^5-14-1]. And Adoniram was in charge of the forced labor.
 
 <sup>15</sup> Solomon had 70,000 porters and 80,000 stonecutters in the mountains,
 
@@ -1691,6 +1691,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-24-1]: **4:24** Hebrew adds ‘from Tiphsah to Gaza, over all the kings west of the Euphrates’
 [^5-3-1]: **5:3** The Greek reads ‘he’; Hebrew reads ‘the LORD’
 [^5-3-2]: **5:3** The Greek, Targum and Vulgate read ‘the soles of his feet’; Hebrew reads ‘my feet’ or ‘his feet’
+[^5-14-1]: **5:14** Heb in his house
 [^6-4-1]: **6:4** Meaning of Heb uncertain
 [^6-6-1]: **6:6** The Greek reads ‘story’; Hebrew reads ‘structure’
 [^6-8-1]: **6:8** The Greek and Targum read ‘lower’; Hebrew reads ‘middle’

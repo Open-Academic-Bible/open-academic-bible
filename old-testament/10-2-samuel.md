@@ -206,7 +206,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 4
 
-<sup>1</sup> Now when Ishbaal son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.
+<sup>1</sup> Now when Ishbaal[^4-1-1] son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.
 
 <sup>2</sup> Saul’s son had two men who were leaders of raiding parties. One was named Baanah and the other Rechab; they were sons of Rimmon the Beerothite of the tribe of Benjamin—Beeroth is considered part of Benjamin,
 
@@ -1412,7 +1412,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> When David got up in the morning, the word of the LORD had come to Gad the prophet, David’s seer:
 
-<sup>12</sup> “Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”
+<sup>12</sup> “Go and tell David that this is what the LORD says: ‘I am offering you[^24-12-1] three options. Choose one of them, and I will carry it out against you.’”
 
 <sup>13</sup> So Gad went and said to David, “Do you choose to endure seven years of famine in your land, three months of fleeing the pursuit of your enemies, or three days of plague upon your land? Now then, think it over and decide how I should reply to him who sent me.”
 
@@ -1456,6 +1456,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-14-1]: **3:14** Hebrew reads ‘Ish-bosheth’
 [^3-15-1]: **3:15** Hebrew reads ‘Ish-bosheth’
 [^3-29-1]: **3:29** Heb tsaraat; the terms leper and leprosy can refer to several diseases
+[^4-1-1]: **4:1** Hebrew lacks the name
 [^4-5-1]: **4:5** Hebrew reads ‘Ish-bosheth’
 [^4-6-1]: **4:6** Meaning of Heb uncertain
 [^4-8-1]: **4:8** Hebrew reads ‘Ish-bosheth’
@@ -1548,6 +1549,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^24-5-1]: **24:5** Some Greek manuscripts read ‘began from’; Hebrew reads ‘encamped in Aroer, south of’
 [^24-6-1]: **24:6** The Greek reads ‘Kadesh in the land of the Hittites’; Hebrew reads ‘to the land of Tahtim-hodshi’
 [^24-6-2]: **24:6** Hebrew reads ‘they came to Dan-jaan and’
+[^24-12-1]: **24:12** Or I am holding over you
 [^24-16-1]: **24:16** A Dead Sea Scroll adds ‘standing’; Hebrew lacks it
 [^24-16-2]: **24:16** A Dead Sea Scroll adds ‘David looked up and saw … fell on their faces’ (compare 1 Chronicles 21:16); Hebrew lacks these words
 [^24-17-1]: **24:17** A Dead Sea Scroll and the Greek read ‘I alone have sinned’; Hebrew reads ‘I alone have done wickedly’

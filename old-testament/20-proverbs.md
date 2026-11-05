@@ -1314,7 +1314,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> So that your trust may be in the LORD, I instruct you today—yes, you.
 
-<sup>20</sup> Have I not written for you thirty sayings about counsel and knowledge,
+<sup>20</sup> Have I not written for you thirty sayings[^22-20-1] about counsel and knowledge,
 
 <sup>21</sup> to show you true and reliable words, that you may soundly answer those who sent you?
 
@@ -1966,6 +1966,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-14-1]: **22:14** Heb strange woman
 [^22-15-1]: **22:15** Or child
 [^22-17-1]: **22:17** The Greek reads ‘my words’; Hebrew reads ‘the words of the wise’
+[^22-20-1]: **22:20** Hebrew reads ‘formerly’ or ‘noble things’
 [^23-1-1]: **23:1** Or who
 [^23-7-1]: **23:7** Meaning of Heb uncertain
 [^23-11-1]: **23:11** Or redeemer
