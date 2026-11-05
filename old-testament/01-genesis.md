@@ -6,7 +6,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> When God began creating[^1-1-1] the heavens and the earth,
 
-<sup>2</sup> the earth was formless and void, and darkness was over the surface of the deep, while a wind from God[^1-2-1] was sweeping over the surface of the waters.
+<sup>2</sup> the earth was formless and void[^1-2-2], and darkness was over the surface of the deep, while a wind from God[^1-2-1] was sweeping over the surface of the waters.
 
 <sup>3</sup> And God said, “Let there be light,” and there was light.
 
@@ -70,11 +70,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Thus the heavens and the earth were completed in all their vast array.
 
-<sup>2</sup> On the sixth day[^2-2-1] God finished the work he had been doing, and on the seventh day he rested from all his work.
+<sup>2</sup> On the sixth day[^2-2-1] God finished the work he had been doing, and on the seventh day he rested[^2-2-2] from all his work.
 
 <sup>3</sup> Then God blessed the seventh day and sanctified it, because on that day he rested from all the work of creation that he had accomplished.
 
-<sup>4</sup> This is the account of the heavens and the earth when they were created. In the day that the LORD God made[^2-4-1] the earth and the heavens,
+<sup>4</sup> This is the account[^2-4-2] of the heavens and the earth when they were created. In the day that the LORD God made[^2-4-1] the earth and the heavens,
 
 <sup>5</sup> when no shrub of the field had yet appeared on the earth, nor had any plant of the field sprouted, for the LORD God had not yet sent rain upon the earth, and there was no one to cultivate the ground,
 
@@ -170,7 +170,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 4
 
-<sup>1</sup> Now the man had relations with his wife Eve, and she conceived and gave birth to Cain[^4-1-1]. “With the help of the LORD I have brought forth a man,” she said.
+<sup>1</sup> Now the man had relations with[^4-1-2] his wife Eve, and she conceived and gave birth to Cain[^4-1-1]. “With the help of the LORD I have brought forth a man,” she said.
 
 <sup>2</sup> Later she gave birth to Cain’s brother Abel. Now Abel was a keeper of sheep, while Cain was a tiller of the soil.
 
@@ -198,11 +198,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Behold, this day you have driven me from the ground, and from your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me may kill me.”
 
-<sup>15</sup> “Not so![^4-15-1]” replied the LORD. “If anyone slays Cain, then Cain will be avenged sevenfold.” And the LORD placed a mark on Cain, so that no one who found him would kill him.
+<sup>15</sup> “Not so![^4-15-1]” replied the LORD. “If anyone slays Cain, then Cain will be avenged sevenfold.” And the LORD placed a mark on Cain[^4-15-2], so that no one who found him would kill him.
 
 <sup>16</sup> So Cain went out from the presence of the LORD and settled in the land of Nod[^4-16-1], east of Eden.
 
-<sup>17</sup> And Cain had relations with his wife, and she conceived and gave birth to Enoch. Then Cain built a city and named it after his son Enoch.
+<sup>17</sup> And Cain had relations with[^4-17-1] his wife, and she conceived and gave birth to Enoch. Then Cain built a city and named it after his son Enoch.
 
 <sup>18</sup> Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech.
 
@@ -218,7 +218,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> If Cain is avenged sevenfold, then Lamech seventy-sevenfold.”
 
-<sup>25</sup> And Adam again had relations with his wife, and she gave birth to a son and named him Seth[^4-25-1], saying, “God has appointed for me another child in place of Abel, since Cain killed him.”
+<sup>25</sup> And Adam again had relations with[^4-25-2] his wife, and she gave birth to a son and named him Seth[^4-25-1], saying, “God has appointed for me another child[^4-25-3] in place of Abel, since Cain killed him.”
 
 <sup>26</sup> And to Seth also a son was born, and he called him Enosh. At that time people began to call upon the name of the LORD.
 
@@ -320,7 +320,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> And this is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high.
 
-<sup>16</sup> You are to make a roof[^6-16-1] for the ark, finish its walls a cubit from the top, place a door in the side of the ark, and build lower, middle, and upper decks.
+<sup>16</sup> You are to make a roof[^6-16-1] for the ark, finish its walls a cubit from the top[^6-16-2], place a door in the side of the ark, and build lower, middle, and upper decks.
 
 <sup>17</sup> And behold, I will bring floodwaters upon the earth to destroy every creature under the heavens that has the breath of life. Everything on the earth will perish.
 
@@ -450,7 +450,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> “Behold, I now establish my covenant with you and your descendants after you,
 
-<sup>10</sup> and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark.
+<sup>10</sup> and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark[^9-10-1].
 
 <sup>11</sup> And I establish my covenant with you: Never again will all life be cut off by the waters of a flood; never again will there be a flood to destroy the earth.”
 
@@ -500,7 +500,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> And the descendants of Javan: Elishah, Tarshish, the Kittites, and the Rodanites[^10-4-1].
 
-<sup>5</sup> Out from these the coastland peoples dispersed. Such were the descendants of Japheth[^10-5-1], in their territories, according to their languages, by clans within their nations.
+<sup>5</sup> Out from these the coastland peoples[^10-5-2] dispersed. Such were the descendants of Japheth[^10-5-1], in their territories, according to their languages, by clans within their nations.
 
 <sup>6</sup> The descendants of Ham: Cush, Mizraim, Put, and Canaan.
 
@@ -756,7 +756,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”
 
-<sup>2</sup> But Abram replied, “O Lord GOD, what can you give me, since I remain childless, and the heir of my house is Eliezer of Damascus[^15-2-1]?”
+<sup>2</sup> But Abram replied, “O Lord GOD, what can you give me, since I remain childless[^15-2-2], and the heir of my house is Eliezer of Damascus[^15-2-1]?”
 
 <sup>3</sup> Abram continued, “Behold, you have given me no offspring, so a slave born in my household will be my heir.”
 
@@ -868,7 +868,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> And Abraham said to God, “O that Ishmael might live before you!”
 
-<sup>19</sup> But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac[^17-19-1]. I will establish my covenant with him as an everlasting covenant for his descendants after him.
+<sup>19</sup> But God replied, “Your wife Sarah will indeed bear you a son, and you are to name him Isaac[^17-19-1]. I will establish my covenant with him as an everlasting covenant for his descendants after him[^17-19-2].
 
 <sup>20</sup> As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation.
 
@@ -1088,7 +1088,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> So the child grew and was weaned, and Abraham held a great feast on the day Isaac was weaned.
 
-<sup>9</sup> But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was playing with her son Isaac[^21-9-1],
+<sup>9</sup> But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was playing[^21-9-2] with her son Isaac[^21-9-1],
 
 <sup>10</sup> and she said to Abraham, “Expel the slave woman and her son, for the slave woman’s son will never share in the inheritance with my son Isaac!”
 
@@ -1264,7 +1264,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor.
 
-<sup>16</sup> Now the young woman was very beautiful, a virgin who had not had relations with any man. She went down to the spring, filled her jar, and came up again.
+<sup>16</sup> Now the young woman was very beautiful, a virgin who had not had relations with[^24-16-1] any man. She went down to the spring, filled her jar, and came up again.
 
 <sup>17</sup> So the servant ran to meet her and said, “Please let me have a little water from your jar.”
 
@@ -1412,7 +1412,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived.
 
-<sup>22</sup> But the children inside her struggled with each other, and she said, “If this is how it will be, why am I alive[^25-22-1]?” So Rebekah went to inquire of the LORD,
+<sup>22</sup> But the children inside her struggled with each other[^25-22-2], and she said, “If this is how it will be, why am I alive[^25-22-1]?” So Rebekah went to inquire of the LORD,
 
 <sup>23</sup> and he declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.”
 
@@ -1738,7 +1738,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> And Rachel’s servant Bilhah conceived again and bore Jacob a second son.
 
-<sup>8</sup> Then Rachel said, “In my great struggles, I have wrestled with my sister and won.” So she named him Naphtali[^30-8-1].
+<sup>8</sup> Then Rachel said, “In my great struggles[^30-8-2], I have wrestled with my sister and won.” So she named him Naphtali[^30-8-1].
 
 <sup>9</sup> When Leah saw that she had stopped having children, she gave her servant Zilpah to Jacob as a wife.
 
@@ -1762,7 +1762,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> Again Leah conceived and bore a sixth son to Jacob.
 
-<sup>20</sup> “God has given me a good gift,” she said. “This time my husband will honor me, because I have borne him six sons.” And she named him Zebulun[^30-20-1].
+<sup>20</sup> “God has given me a good gift,” she said. “This time my husband will honor me[^30-20-2], because I have borne him six sons.” And she named him Zebulun[^30-20-1].
 
 <sup>21</sup> After that, Leah gave birth to a daughter and named her Dinah.
 
@@ -1916,7 +1916,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>52</sup> This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me.
 
-<sup>53</sup> May the God of Abraham and the God of Nahor act as judge[^31-53-1] between us.” So Jacob swore by the Fear of his father Isaac.
+<sup>53</sup> May the God of Abraham and the God of Nahor act as judge[^31-53-1] between us.” So Jacob swore by the Fear of his father Isaac[^31-53-2].
 
 <sup>54</sup> Then Jacob offered a sacrifice on the mountain and invited his relatives to eat a meal. And after they had eaten, they spent the night on the mountain.
 
@@ -2108,7 +2108,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> So Jacob and everyone with him arrived in Luz (that is, Bethel) in the land of Canaan.
 
-<sup>7</sup> There Jacob built an altar, and he called that place El-bethel[^35-7-1], because it was there that God had revealed himself to Jacob as he fled from his brother.
+<sup>7</sup> There Jacob built an altar, and he called that place El-bethel[^35-7-1], because it was there that God had revealed himself[^35-7-2] to Jacob as he fled from his brother.
 
 <sup>8</sup> Now Deborah, Rebekah’s nurse, died and was buried under the oak below Bethel. So Jacob named it Allon-bacuth[^35-8-1].
 
@@ -2322,7 +2322,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> There Judah saw the daughter of a Canaanite man named Shua, and he took her as a wife and slept with her.
 
-<sup>3</sup> So she conceived and gave birth to a son, and Judah named him Er.
+<sup>3</sup> So she conceived and gave birth to a son, and Judah named him[^38-3-1] Er.
 
 <sup>4</sup> Again she conceived and gave birth to a son, and she named him Onan.
 
@@ -2374,7 +2374,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>28</sup> And as she was giving birth, one of them put out his hand; so the midwife took a scarlet thread and tied it around his wrist. “This one came out first,” she announced.
 
-<sup>29</sup> But when he pulled his hand back and his brother came out, she said, “You have broken out first!” So he was named Perez[^38-29-1].
+<sup>29</sup> But when he pulled his hand back and his brother came out, she said, “You have broken out first![^38-29-2]” So he was named Perez[^38-29-1].
 
 <sup>30</sup> Then his brother came out with the scarlet thread around his wrist, and he was named Zerah[^38-30-1].
 
@@ -2608,13 +2608,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> Although Joseph recognized his brothers, they did not recognize him.
 
-<sup>9</sup> Joseph remembered his dreams about them and said, “You are spies! You have come to see if our land is vulnerable.”
+<sup>9</sup> Joseph remembered his dreams about them and said, “You are spies! You have come to see if our land is vulnerable[^42-9-1].”
 
 <sup>10</sup> “Not so, my lord,” they replied. “Your servants have come to buy food.
 
 <sup>11</sup> We are all sons of one man. Your servants are honest men, not spies.”
 
-<sup>12</sup> “No,” he told them. “You have come to see if our land is vulnerable.”
+<sup>12</sup> “No,” he told them. “You have come to see if our land is vulnerable[^42-12-1].”
 
 <sup>13</sup> But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.”
 
@@ -3054,7 +3054,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> Reuben, you are my firstborn, my might, and the beginning of my strength, excelling in honor, excelling in power.
 
-<sup>4</sup> Uncontrolled as the waters, you will no longer excel, because you went up to your father’s bed, onto my couch[^49-4-1], and defiled it.
+<sup>4</sup> Uncontrolled as the waters[^49-4-2], you will no longer excel, because you went up to your father’s bed, onto my couch[^49-4-1], and defiled it.
 
 <sup>5</sup> Simeon and Levi are brothers; their swords are weapons of violence.
 
@@ -3088,7 +3088,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> Asher’s food[^49-20-1] will be rich; he shall provide royal delicacies.
 
-<sup>21</sup> Naphtali is a doe set free that bears beautiful fawns[^49-21-1].
+<sup>21</sup> Naphtali is a doe set free[^49-21-2] that bears beautiful fawns[^49-21-1].
 
 <sup>22</sup> Joseph is a fruitful shoot—a fruitful shoot[^49-22-1] by a spring, whose branches climb over the wall[^49-22-2].
 
@@ -3098,7 +3098,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>25</sup> by the God of your father who helps you, and by the Almighty[^49-25-1] who blesses you, with blessings of the heavens above, with blessings of the depths below, with blessings of the breasts and womb.
 
-<sup>26</sup> The blessings of your father have surpassed the blessings of the ancient mountains[^49-26-1] and the bounty of the everlasting hills. May they rest on the head of Joseph, on the brow of the one set apart from his brothers.
+<sup>26</sup> The blessings of your father have surpassed the blessings of the ancient mountains[^49-26-1] and the bounty of the everlasting hills. May they rest on the head of Joseph, on the brow of the one set apart from his brothers[^49-26-2].
 
 <sup>27</sup> Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder.”
 
@@ -3124,7 +3124,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that
 
-<sup>5</sup> my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”
+<sup>5</sup> my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug[^50-5-1] for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”
 
 <sup>6</sup> Pharaoh replied, “Go up and bury your father, as he made you swear to do.”
 
@@ -3146,7 +3146,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.”
 
-<sup>16</sup> So they sent word to Joseph, saying, “Before he died, your father commanded[^50-16-1],
+<sup>16</sup> So they sent word[^50-16-1] to Joseph, saying, “Before he died, your father commanded,
 
 <sup>17</sup> ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept.
 
@@ -3171,11 +3171,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 ---
 
 [^1-1-1]: **1:1** Or In the beginning God created
+[^1-2-2]: **1:2** Or unproductive and uninhabited
 [^1-2-1]: **1:2** Or while the spirit of God was hovering, or while a mighty wind
 [^1-26-1]: **1:26** Heb adam, here and in verse 27
 [^1-26-2]: **1:26** Syriac reads wild animals of the earth; Heb all the earth
 [^1-27-1]: **1:27** Heb him
 [^2-2-1]: **2:2** The Samaritan Pentateuch, the Greek and Syriac read sixth; Heb seventh
+[^2-2-2]: **2:2** Or ceased, here and in verse 3
+[^2-4-2]: **2:4** Heb generations
 [^2-4-1]: **2:4** Heb YHWH, here and elsewhere represented by LORD in capital letters
 [^2-7-1]: **2:7** Heb adamah (ground) sounds like adam (man)
 [^2-20-1]: **2:20** Or Adam
@@ -3184,45 +3187,55 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-20-1]: **3:20** Heb Eve sounds like the word for living
 [^3-21-1]: **3:21** Or Adam
 [^3-22-1]: **3:22** Or the human, here and in verses 23 and 24
+[^4-1-2]: **4:1** Heb knew
 [^4-1-1]: **4:1** Heb Cain sounds like the word for produced
 [^4-8-1]: **4:8** The Samaritan Pentateuch, the Greek, Syriac and Vulgate read Let us go out to the field; Hebrew lacks these words
 [^4-15-1]: **4:15** The Greek, Syriac and Vulgate read Not so!; Heb Therefore
+[^4-15-2]: **4:15** Or appointed a sign for Cain
 [^4-16-1]: **4:16** Heb Nod means wandering
+[^4-17-1]: **4:17** Heb knew
 [^4-20-1]: **4:20** Or ancestor, here and in verse 21
+[^4-25-2]: **4:25** Heb knew
 [^4-25-1]: **4:25** Heb Seth sounds like the word for appointed
+[^4-25-3]: **4:25** Heb seed
 [^5-1-1]: **5:1** Heb adam, here and in verse 2
 [^5-1-2]: **5:1** Heb him
 [^6-3-1]: **6:3** Meaning of Heb uncertain
 [^6-14-1]: **6:14** Meaning of Heb uncertain
 [^6-16-1]: **6:16** Or window
+[^6-16-2]: **6:16** Meaning of Heb uncertain
 [^7-14-1]: **7:14** The Greek (Septuagint) reads this; Hebrew adds every winged creature
 [^9-7-1]: **9:7** Some Greek manuscripts read have dominion over; Heb multiply in
+[^9-10-1]: **9:10** Hebrew adds ‘every animal of the earth’
 [^9-26-1]: **9:26** Heb Blessed be the LORD, the God of Shem
 [^9-27-1]: **9:27** Heb Japheth sounds like the verb for make room
 [^10-4-1]: **10:4** Some Hebrew manuscripts, the Samaritan Pentateuch and the Greek read Rodanites; Heb Dodanites
+[^10-5-2]: **10:5** Or island peoples
 [^10-5-1]: **10:5** Hebrew lacks These are the descendants of Japheth
 [^10-25-1]: **10:25** Heb Peleg means division
-[^11-2-1]: **11:2** Or eastward
+[^11-2-1]: **11:2** Or eastward, or in the east
 [^11-9-1]: **11:9** Heb Babel sounds like the verb for confuse
 [^12-3-1]: **12:3** Or by you all the families of the earth will bless themselves
-[^12-6-1]: **12:6** Or terebinth
-[^13-18-1]: **13:18** Or terebinths
+[^12-6-1]: **12:6** Or terebinth; or oak of the Teacher
+[^13-18-1]: **13:18** Or terebinths; the Greek and Syriac read ‘oak’
 [^14-3-1]: **14:3** Heb Salt Sea
 [^14-13-1]: **14:13** Or terebinths
 [^14-18-1]: **14:18** Heb El Elyon, here and in verses 19, 20, and 22
 [^14-22-1]: **14:22** The Greek and Syriac read God Most High; Heb the LORD God Most High
+[^15-2-2]: **15:2** Or I am dying childless
 [^15-2-1]: **15:2** Meaning of Heb uncertain
 [^15-6-1]: **15:6** Heb he
 [^15-13-1]: **15:13** Heb he
 [^16-11-1]: **16:11** Heb Ishmael means God hears
 [^16-13-1]: **16:13** Or God of seeing; or God who sees
-[^16-13-2]: **16:13** Meaning of Heb uncertain
+[^16-13-2]: **16:13** Or Truly here I have seen the one who looks after me; meaning of Heb uncertain
 [^16-14-1]: **16:14** Heb Beer-lahai-roi means well of the living one who sees me
 [^17-1-1]: **17:1** Traditional rendering of Heb El Shaddai
 [^17-4-1]: **17:4** Or ancestor, here and in verse 5
 [^17-5-1]: **17:5** Heb Abram means exalted father
 [^17-5-2]: **17:5** Heb Abraham sounds like father of a multitude
 [^17-19-1]: **17:19** Heb Isaac means he laughs
+[^17-19-2]: **17:19** The Greek adds ‘to be God to him and’
 [^18-1-1]: **18:1** Heb him
 [^18-1-2]: **18:1** Or terebinths
 [^18-18-1]: **18:18** Or and all the nations of the earth will bless themselves by him
@@ -3233,16 +3246,19 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-37-1]: **19:37** Heb Moab sounds like from the father
 [^19-37-2]: **19:37** Or ancestor, here and in verse 38
 [^19-38-1]: **19:38** Heb Ben-ammi means son of my kinsman
+[^21-9-2]: **21:9** Or laughing, or mocking
 [^21-9-1]: **21:9** The Greek and Vulgate read with her son Isaac; Hebrew lacks these words
 [^21-31-1]: **21:31** Heb Beer-sheba means well of seven or well of the oath
 [^21-33-1]: **21:33** Heb he
 [^21-33-2]: **21:33** Or the LORD, El Olam
 [^22-14-1]: **22:14** Or the LORD will see; Heb Yahweh-yireh
-[^22-14-2]: **22:14** Or he will be seen
-[^24-62-1]: **24:62** Syriac and the Aramaic Targum read from Beer-lahai-roi; Heb from coming to Beer-lahai-roi
-[^24-63-1]: **24:63** Meaning of Heb uncertain
+[^22-14-2]: **22:14** Or he will be seen; meaning of Heb uncertain
+[^24-16-1]: **24:16** Heb knew
+[^24-62-1]: **24:62** Syriac and the Aramaic Targum read from Beer-lahai-roi; Heb from coming to Beer-lahai-roi; meaning of Heb uncertain
+[^24-63-1]: **24:63** Or to meditate, or to mourn; meaning of Heb uncertain
 [^25-18-1]: **25:18** Heb he fell
 [^25-18-2]: **25:18** Or down in opposition to all his kin
+[^25-22-2]: **25:22** Or crushed each other
 [^25-22-1]: **25:22** Meaning of Heb uncertain
 [^25-26-1]: **25:26** Heb Jacob sounds like he takes by the heel or he supplants
 [^25-30-1]: **25:30** Heb Edom means red
@@ -3256,22 +3272,24 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-36-1]: **27:36** Heb Jacob sounds like he takes by the heel or he supplants
 [^27-40-1]: **27:40** Meaning of Heb uncertain
 [^28-3-1]: **28:3** Traditional rendering of Heb El Shaddai
-[^28-12-1]: **28:12** Or ramp
+[^28-12-1]: **28:12** Or ramp, or ladder
 [^28-13-1]: **28:13** Or standing above it
 [^28-14-1]: **28:14** Or will bless themselves by you and your offspring
 [^28-19-1]: **28:19** Heb Bethel means house of God
 [^29-13-1]: **29:13** Heb he
-[^29-17-1]: **29:17** Meaning of Heb uncertain
+[^29-17-1]: **29:17** Or tender eyes; meaning of Heb uncertain
 [^29-30-1]: **29:30** Heb him
 [^29-32-1]: **29:32** Heb Reuben sounds like see, a son
 [^29-33-1]: **29:33** Heb Simeon sounds like the verb for has heard
 [^29-34-1]: **29:34** Heb Levi sounds like the verb for will be joined
 [^29-35-1]: **29:35** Heb Judah sounds like the verb for I will praise
 [^30-6-1]: **30:6** Heb Dan means he judged
+[^30-8-2]: **30:8** Heb wrestlings of God; meaning of Heb uncertain
 [^30-8-1]: **30:8** Heb Naphtali sounds like the verb for I have wrestled
 [^30-11-1]: **30:11** Heb Gad means fortune
 [^30-13-1]: **30:13** Heb Asher means happy
 [^30-18-1]: **30:18** Heb Issachar sounds like the word for my hire
+[^30-20-2]: **30:20** Or will dwell with me; meaning of Heb uncertain
 [^30-20-1]: **30:20** Heb Zebulun sounds like the verb for honor
 [^30-24-1]: **30:24** Heb Joseph means he adds
 [^31-21-1]: **31:21** Heb the River
@@ -3281,6 +3299,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^31-47-2]: **31:47** Heb Galeed means heap of witness
 [^31-49-1]: **31:49** Hebrew lacks the pillar; supplied by conjecture
 [^31-53-1]: **31:53** Most Hebrew manuscripts add the God of their father; some Hebrew manuscripts and the Greek lack it
+[^31-53-2]: **31:53** Meaning of Heb uncertain
 [^32-2-1]: **32:2** Heb Mahanaim means two camps
 [^32-28-1]: **32:28** Heb he
 [^32-28-2]: **32:28** Heb Israel means the one who strives with God, or God strives
@@ -3291,6 +3310,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^33-20-1]: **33:20** Heb El-Elohe-Israel means God, the God of Israel
 [^34-5-1]: **34:5** Heb he
 [^35-7-1]: **35:7** Heb El-bethel means God of Bethel
+[^35-7-2]: **35:7** Or divine beings had revealed themselves
 [^35-8-1]: **35:8** Heb Allon-bacuth means oak of weeping
 [^35-11-1]: **35:11** Traditional rendering of Heb El Shaddai
 [^35-18-1]: **35:18** Heb Ben-oni means son of my sorrow
@@ -3302,17 +3322,21 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^36-24-1]: **36:24** Meaning of Heb uncertain
 [^36-30-1]: **36:30** Or chief by chief
 [^36-37-1]: **36:37** Heb the River
-[^37-3-1]: **37:3** Or a coat of many colors, here and in verses 23 and 32; meaning of Heb uncertain
+[^37-3-1]: **37:3** Or a coat of many colors, or a long robe with sleeves, here and in verses 23 and 32; meaning of Heb uncertain
+[^38-3-1]: **38:3** Some Hebrew manuscripts read ‘she named him’
 [^38-5-1]: **38:5** The Greek reads she; Heb he
 [^38-12-1]: **38:12** Heb when Judah was comforted
+[^38-29-2]: **38:29** Or Why have you made a breach for yourself?
 [^38-29-1]: **38:29** Heb Perez means a breach
 [^38-30-1]: **38:30** Heb Zerah means brightness, perhaps alluding to the scarlet thread
 [^41-22-1]: **41:22** The Greek, Syriac and Vulgate add I fell asleep a second time; Hebrew lacks these words
-[^41-43-1]: **41:43** Meaning of Heb uncertain
+[^41-43-1]: **41:43** Or Attention; meaning of Heb uncertain
 [^41-48-1]: **41:48** The Samaritan Pentateuch and the Greek add of plenty; Hebrew lacks it
 [^41-51-1]: **41:51** Heb Manasseh sounds like making to forget
 [^41-52-1]: **41:52** Heb Ephraim sounds like the word for fruitful
 [^41-56-1]: **41:56** The Greek and Vulgate read the storehouses; Heb all that was in them
+[^42-9-1]: **42:9** Heb nakedness
+[^42-12-1]: **42:12** Heb nakedness
 [^43-14-1]: **43:14** Traditional rendering of Heb El Shaddai
 [^44-4-1]: **44:4** The Greek and Vulgate add Why have you stolen my silver cup?; Hebrew lacks these words
 [^45-24-1]: **45:24** Or be agitated
@@ -3321,16 +3345,20 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^47-21-1]: **47:21** The Samaritan Pentateuch, the Greek and Vulgate read made slaves of them; Heb removed them to the cities
 [^48-3-1]: **48:3** Traditional rendering of Heb El Shaddai
 [^48-15-1]: **48:15** Or ancestors, here and in verse 16
-[^48-22-1]: **48:22** Or mountain slope
+[^48-22-1]: **48:22** Or mountain slope, or Shechem; Heb shoulder
+[^49-4-2]: **49:4** Meaning of Heb uncertain
 [^49-4-1]: **49:4** The Greek, Syriac and Targum read you went up; Heb he went up
 [^49-10-1]: **49:10** Or until Shiloh comes; or until he comes to Shiloh; or (with Syriac) until he comes to whom it belongs
 [^49-20-1]: **49:20** The Greek, Vulgate and Syriac read Asher’s; Heb From Asher
+[^49-21-2]: **49:21** Or a spreading terebinth; meaning of Heb uncertain
 [^49-21-1]: **49:21** Or that gives beautiful words
-[^49-22-1]: **49:22** Meaning of Heb uncertain
+[^49-22-1]: **49:22** Or a wild colt—a wild colt; meaning of Heb uncertain
 [^49-22-2]: **49:22** Meaning of Heb uncertain
 [^49-24-1]: **49:24** Heb the arms of his hands
 [^49-25-1]: **49:25** Traditional rendering of Heb Shaddai
 [^49-26-1]: **49:26** The Greek reads ancient mountains; Heb my progenitors to the boundaries of
+[^49-26-2]: **49:26** Or the prince among his brothers
+[^50-5-1]: **50:5** Or bought
 [^50-11-1]: **50:11** Heb Abel-mizraim means mourning of Egypt
-[^50-16-1]: **50:16** The Greek and Syriac read your father commanded; Heb they commanded
+[^50-16-1]: **50:16** The Greek and Syriac read ‘they approached’
 [^50-18-1]: **50:18** Heb also came

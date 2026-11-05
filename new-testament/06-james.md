@@ -62,7 +62,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Brothers and sisters, you must not mix favoritism with the faith of Jesus Christ, our Lord of glory.
 
-<sup>2</sup> Suppose a person comes into your meeting wearing a gold ring and fine clothes, and a poor person wearing dirty clothes comes in as well.
+<sup>2</sup> Suppose a person comes into your meeting[^2-2-1] wearing a gold ring and fine clothes, and a poor person wearing dirty clothes comes in as well.
 
 <sup>3</sup> If you take special notice of the one in fine clothes and say, “Here is a seat of honor,” but say to the poor one, “You must stand” or “Sit under my footstool,”
 
@@ -160,7 +160,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> You adulterous people![^4-4-1] Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world is made an enemy of God.
 
-<sup>5</sup> Or do you think the scripture speaks to no purpose? Does the spirit he caused to dwell in us[^4-5-1] yearn for envy?
+<sup>5</sup> Or do you think the scripture speaks to no purpose? Does the spirit he caused to dwell in us[^4-5-1] yearn for envy?[^4-5-2]
 
 <sup>6</sup> But he gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”
 
@@ -235,6 +235,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-17-1]: **1:17** Some manuscripts read variation due to a shadow of turning
 [^1-20-1]: **1:20** Or justice
 [^1-23-1]: **1:23** Gk at the face of his birth
+[^2-2-1]: **2:2** Gk synagogue
 [^2-11-1]: **2:11** Some manuscripts read a rebel against
 [^2-20-1]: **2:20** Some manuscripts read dead or empty
 [^2-21-1]: **2:21** Or ancestor
@@ -247,6 +248,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-18-1]: **3:18** Or justice
 [^4-4-1]: **4:4** Gk Adulterous women. Some manuscripts read Adulterous men and women.
 [^4-5-1]: **4:5** Some manuscripts read the spirit that dwells in us
+[^4-5-2]: **4:5** Or God yearns jealously for the spirit he caused to dwell in us; meaning of Gk uncertain
 [^4-12-1]: **4:12** Some manuscripts lack and judge
 [^5-3-1]: **5:3** Or will eat your flesh, since you have stored up fire
 [^5-8-1]: **5:8** Or is at hand

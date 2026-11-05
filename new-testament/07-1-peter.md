@@ -142,7 +142,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> For it is better, if it is God’s will, to suffer for doing good than for doing evil.
 
-<sup>18</sup> Christ himself suffered for sins[^3-18-1] once and for all, the righteous on behalf of the unrighteous, so that he might lead you to God[^3-18-2]. He was put to death in the flesh, yet made alive in the spirit,
+<sup>18</sup> Christ himself suffered for sins[^3-18-1] once and for all, the righteous on behalf of the unrighteous, so that he might lead you to God[^3-18-2]. He was put to death in the flesh, yet made alive in the spirit[^3-18-3],
 
 <sup>19</sup> in which he also went and proclaimed to the spirits who are in prison
 
@@ -251,6 +251,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-16-1]: **3:16** Some manuscripts read when they malign you as evildoers
 [^3-18-1]: **3:18** Some manuscripts read died
 [^3-18-2]: **3:18** Some manuscripts read us
+[^3-18-3]: **3:18** Or Spirit
 [^3-21-1]: **3:21** Or a pledge to God from a good conscience
 [^4-1-1]: **4:1** Some manuscripts add for us or for you
 [^4-4-1]: **4:4** Or they malign you
