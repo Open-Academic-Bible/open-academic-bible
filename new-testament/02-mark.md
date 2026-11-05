@@ -1506,7 +1506,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-27-1]: **14:27** Or stumble
 [^14-29-1]: **14:29** Or stumble
 [^14-36-1]: **14:36** Aramaic for Father
-[^14-38-1]: **14:38** Or into testing
+[^14-38-1]: **14:38** Or into testing or temptation
 [^14-61-1]: **14:61** Or the Christ
 [^14-68-1]: **14:68** Or forecourt
 [^14-68-2]: **14:68** Some manuscripts lack and the rooster crowed

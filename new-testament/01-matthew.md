@@ -344,7 +344,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> Who of you by worrying can add a single hour to your life[^6-27-1]?
 
-<sup>28</sup> And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin.
+<sup>28</sup> And why do you worry about clothes? Consider how the lilies of the field[^6-28-1] grow: They do not labor or spin.
 
 <sup>29</sup> Yet I tell you that not even Solomon in all his glory was adorned like one of these.
 
@@ -2255,7 +2255,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-4-1]: **6:4** Some manuscripts add openly
 [^6-6-1]: **6:6** Some manuscripts add openly
 [^6-11-1]: **6:11** Or our bread for tomorrow, or the bread we need
-[^6-13-1]: **6:13** Or us into testing
+[^6-13-1]: **6:13** Or us into testing or temptation
 [^6-13-2]: **6:13** Or from evil. Some manuscripts add, in some form, For the kingdom and the power and the glory are yours forever. Amen.
 [^6-15-1]: **6:15** Some manuscripts add their trespasses
 [^6-18-1]: **6:18** Some manuscripts add openly
@@ -2264,6 +2264,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-24-1]: **6:24** Gk mammon
 [^6-25-1]: **6:25** Some manuscripts lack or drink
 [^6-27-1]: **6:27** Or add one cubit to your height
+[^6-28-1]: **6:28** Or wildflowers
 [^6-33-1]: **6:33** Some manuscripts lack of God
 [^6-33-2]: **6:33** Or its
 [^7-13-1]: **7:13** Some manuscripts read for the road is wide and easy
@@ -2387,7 +2388,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^24-36-1]: **24:36** Some manuscripts lack nor the Son
 [^24-42-1]: **24:42** Some manuscripts read at what hour
 [^24-45-1]: **24:45** Gk to give them
-[^24-51-1]: **24:51** Or cut him off
+[^24-51-1]: **24:51** Or cut him off; Gk cut him in two
 [^25-1-1]: **25:1** Gk virgins
 [^25-1-2]: **25:1** Some manuscripts add and the bride
 [^25-7-1]: **25:7** Gk virgins
@@ -2402,7 +2403,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-31-1]: **26:31** Or stumble
 [^26-33-1]: **26:33** Or stumble
 [^26-33-2]: **26:33** Or I will never stumble
-[^26-41-1]: **26:41** Or into testing
+[^26-41-1]: **26:41** Or into testing or temptation
 [^26-50-1]: **26:50** Or Why are you here?
 [^26-63-1]: **26:63** Or the Christ
 [^26-68-1]: **26:68** Or Christ

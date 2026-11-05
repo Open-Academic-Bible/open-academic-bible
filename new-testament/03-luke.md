@@ -72,7 +72,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>34</sup> “How can this be,” Mary asked the angel, “since I am a virgin[^1-34-1]?”
 
-<sup>35</sup> The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the child to be born will be holy[^1-35-1], and he will be called Son of God.
+<sup>35</sup> The angel replied, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the child to be born will be holy[^1-35-1], and he will be called Son of God[^1-35-2].
 
 <sup>36</sup> Look, even Elizabeth your relative has conceived a son in her old age, and she who was called barren is in her sixth month.
 
@@ -912,7 +912,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>38</sup> Suddenly a man in the crowd cried out, “Teacher, I beg you to look at my son, for he is my only child.
 
-<sup>39</sup> A spirit keeps seizing him, and he[^9-39-1] screams abruptly. It throws him into convulsions so that he foams at the mouth. It keeps mauling him and rarely departs from him.
+<sup>39</sup> A spirit keeps seizing him, and he[^9-39-1] screams abruptly. It throws him into convulsions so that he foams at the mouth. It keeps mauling him and leaves him only with difficulty.
 
 <sup>40</sup> I begged your disciples to drive it out, but they were unable.”
 
@@ -1112,7 +1112,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>32</sup> The people of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now something greater than Jonah is here.
 
-<sup>33</sup> No one lights a lamp and puts it in a cellar or under a basket[^11-33-1]. Instead, it is put on a stand, so those who enter can see the light.
+<sup>33</sup> No one lights a lamp and puts it in a cellar[^11-33-2] or under a basket[^11-33-1]. Instead, it is put on a stand, so those who enter can see the light.
 
 <sup>34</sup> Your eye is the lamp of your body. When your eyes are good, your whole body also is full of light. But when they are bad, your body is full of darkness.
 
@@ -1210,7 +1210,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> So if you cannot do such a small thing, why do you worry about the rest?
 
-<sup>27</sup> Consider how the lilies grow[^12-27-1]: They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these.
+<sup>27</sup> Consider how the lilies[^12-27-2] grow[^12-27-1]: They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these.
 
 <sup>28</sup> If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, how much more will he clothe you, O you of little faith!
 
@@ -1364,7 +1364,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> When Jesus noticed how the guests chose the places of honor, he told them a parable:
 
-<sup>8</sup> “When you are invited to a wedding banquet, do not sit in the place of honor, in case someone more distinguished than you has been invited.
+<sup>8</sup> “When you are invited to a wedding banquet[^14-8-1], do not sit in the place of honor, in case someone more distinguished than you has been invited.
 
 <sup>9</sup> Then the host who invited both of you will come and tell you, ‘Give this person your seat.’ And in humiliation, you will have to take the last place.
 
@@ -2024,7 +2024,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> And he took the bread, gave thanks and broke it, and gave it to them, saying, “This is my body, given for you; do this in remembrance of me.”
 
-<sup>20</sup> In the same way, after supper he took the cup, saying, “This cup, poured out for you, is the new covenant in my blood[^22-20-1].
+<sup>20</sup> In the same way, after supper he took the cup, saying, “This cup, poured out for you[^22-20-2], is the new covenant in my blood[^22-20-1].
 
 <sup>21</sup> Look! The hand of my betrayer is with mine on the table.
 
@@ -2334,9 +2334,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>46</sup> And he told them, “This is what is written[^24-46-2]: The Messiah will suffer and rise[^24-46-1] from the dead on the third day,
 
-<sup>47</sup> and in his name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem.
+<sup>47</sup> and in his name repentance and forgiveness of sins will be proclaimed to all nations[^24-47-1], beginning in Jerusalem.
 
-<sup>48</sup> You are witnesses of these things.[^24-48-1]
+<sup>48</sup> You are witnesses of these things.
 
 <sup>49</sup> And behold, I am sending the promise of my Father upon you. But remain in the city until you have been clothed with power from on high.”
 
@@ -2356,6 +2356,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-32-1]: **1:32** Or ancestor
 [^1-34-1]: **1:34** Gk I do not know a man
 [^1-35-1]: **1:35** Some manuscripts add of you
+[^1-35-2]: **1:35** Or the child to be born will be called holy, Son of God
 [^1-38-1]: **1:38** Or servant
 [^1-45-1]: **1:45** Or because there will be a fulfillment of what was spoken to her
 [^1-46-1]: **1:46** Some manuscripts read Elizabeth
@@ -2387,7 +2388,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-9-1]: **4:9** Gk he
 [^4-27-1]: **4:27** Gk lepra refers to several skin diseases
 [^4-41-1]: **4:41** Or the Christ
-[^4-44-1]: **4:44** Some manuscripts read Galilee
+[^4-44-1]: **4:44** Or the land of the Jews. Some manuscripts read Galilee
 [^5-1-1]: **5:1** Gk he
 [^5-12-1]: **5:12** Gk lepra refers to several skin diseases
 [^5-13-1]: **5:13** Gk he
@@ -2411,7 +2412,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-22-1]: **7:22** Gk lepra refers to several skin diseases
 [^7-24-1]: **7:24** Gk he
 [^7-25-1]: **7:25** Or Why, then, did you go out? To see someone
-[^7-29-1]: **7:29** Or praised God
+[^7-29-1]: **7:29** Or praised God; Gk justified God
 [^7-36-1]: **7:36** Gk him
 [^7-43-1]: **7:43** Gk he
 [^8-3-1]: **8:3** Some manuscripts read him
@@ -2456,16 +2457,18 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-11-1]: **11:11** Some manuscripts add bread, will give a stone? Or if your child asks for
 [^11-13-1]: **11:13** Some manuscripts read the Father give the Holy Spirit from heaven
 [^11-19-1]: **11:19** Gk sons
+[^11-33-2]: **11:33** Or in a crevice
 [^11-33-1]: **11:33** Some manuscripts lack or under a basket
 [^12-5-1]: **12:5** Or power
 [^12-5-2]: **12:5** Gk Gehenna
 [^12-11-1]: **12:11** Gk how or what to say in your defense; some manuscripts lack or what
 [^12-25-1]: **12:25** Or add a cubit to your stature
+[^12-27-2]: **12:27** Or wildflowers
 [^12-27-1]: **12:27** Some manuscripts read Consider the lilies: they neither spin nor weave
 [^12-30-1]: **12:30** Or gentiles
 [^12-31-1]: **12:31** Some manuscripts read God’s
 [^12-39-1]: **12:39** Some manuscripts add would have watched and
-[^12-46-1]: **12:46** Or cut him off
+[^12-46-1]: **12:46** Or cut him off; Gk cut him in two
 [^13-1-1]: **13:1** Gk him
 [^13-22-1]: **13:22** Gk he
 [^13-35-1]: **13:35** Some manuscripts add desolate
@@ -2473,6 +2476,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-1-1]: **14:1** Gk he
 [^14-4-1]: **14:4** Gk he
 [^14-5-1]: **14:5** Some manuscripts read donkey
+[^14-8-1]: **14:8** Or a banquet
 [^14-16-1]: **14:16** Gk he
 [^14-24-1]: **14:24** Gk you is plural
 [^14-34-1]: **14:34** Or what can be seasoned with it?
@@ -2516,12 +2520,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-2-1]: **22:2** Gk him
 [^22-8-1]: **22:8** Gk he
 [^22-16-1]: **22:16** Some manuscripts read never eat it again
+[^22-20-2]: **22:20** Or This cup is the new covenant in my blood, which is poured out for you
 [^22-20-1]: **22:20** Some manuscripts lack, in whole or in part, 22:19b–20 (which is given for you … in my blood)
 [^22-31-1]: **22:31** Or has obtained permission
 [^22-34-1]: **22:34** Gk he
-[^22-40-1]: **22:40** Or into testing
+[^22-40-1]: **22:40** Or into testing or temptation
 [^22-44-1]: **22:44** Some manuscripts lack verses 43 and 44
-[^22-46-1]: **22:46** Or into testing
+[^22-46-1]: **22:46** Or into testing or temptation
 [^22-63-1]: **22:63** Gk him
 [^22-67-1]: **22:67** Or the Christ
 [^22-68-1]: **22:68** Some manuscripts add or release me
@@ -2558,7 +2563,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^24-42-1]: **24:42** Some manuscripts add and some honeycomb
 [^24-46-2]: **24:46** Some manuscripts read written, and thus it was necessary for the Messiah
 [^24-46-1]: **24:46** Or the Christ
-[^24-48-1]: **24:48** Or nations. Beginning from Jerusalem you are witnesses
+[^24-47-1]: **24:47** Or nations. Beginning from Jerusalem you are witnesses
 [^24-51-1]: **24:51** Some manuscripts lack and was carried up into heaven
 [^24-52-1]: **24:52** Some manuscripts lack worshiped him and
 [^24-53-1]: **24:53** Some manuscripts read praising and blessing God
