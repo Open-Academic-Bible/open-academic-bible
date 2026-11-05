@@ -168,7 +168,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> Then Abner said to David, “Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires.” So David dismissed Abner, and he went in peace.
 
-<sup>22</sup> Just then David’s soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David had sent him on his way in peace.
+<sup>22</sup> Just then David’s soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David[^3-22-1] had sent him on his way in peace.
 
 <sup>23</sup> When Joab and all his troops arrived, he was informed, “Abner son of Ner came to see the king, who sent him on his way in peace.”
 
@@ -178,7 +178,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> As soon as Joab had left David, he sent messengers after Abner, who brought him back from the well of Sirah. But David was unaware of it.
 
-<sup>27</sup> When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died on account of the blood of Joab’s brother Asahel.
+<sup>27</sup> When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died on account of the blood of Joab’s brother[^3-27-1] Asahel.
 
 <sup>28</sup> Afterward, David heard about this and said, “I and my kingdom are forever guiltless before the LORD concerning the blood of Abner son of Ner.
 
@@ -680,7 +680,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>31</sup> Then the king stood up, tore his clothes, and lay down on the ground. And all his servants stood by with their clothes torn.
 
-<sup>32</sup> But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon raped his sister Tamar.
+<sup>32</sup> But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon[^13-32-1] raped his sister Tamar.
 
 <sup>33</sup> So now, my lord the king, do not take to heart the report that all the sons of the king are dead. Only Amnon is dead.”
 
@@ -1132,7 +1132,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> As soon as Amasa’s body was removed from the road, all the men went on with Joab to pursue Sheba son of Bichri.
 
-<sup>14</sup> Sheba passed through all the tribes of Israel to Abel-beth-maacah[^20-14-1], and all the Bichrites[^20-14-2] gathered and followed him in.
+<sup>14</sup> Sheba[^20-14-1] passed through all the tribes of Israel to Abel-beth-maacah[^20-14-2], and all the Bichrites[^20-14-3] gathered and followed him in.
 
 <sup>15</sup> And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a siege ramp against the outer rampart of the city. As all the troops with Joab were battering the wall to topple it,
 
@@ -1178,7 +1178,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> And he delivered them into the hands of the Gibeonites, and they impaled them on the mountain before the LORD. So all seven of them fell together; they were put to death in the first days of the harvest, at the beginning of the barley harvest.
 
-<sup>10</sup> And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain from heaven poured down on the bodies, she did not allow the birds of the air to rest on them by day, nor the beasts of the field by night.
+<sup>10</sup> And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain from heaven poured down on the bodies[^21-10-1], she did not allow the birds of the air to rest on them by day, nor the beasts of the field by night.
 
 <sup>11</sup> When David was told what Saul’s concubine Rizpah, daughter of Aiah, had done,
 
@@ -1455,6 +1455,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-12-1]: **3:12** Meaning of Heb uncertain
 [^3-14-1]: **3:14** Hebrew reads ‘Ish-bosheth’
 [^3-15-1]: **3:15** Hebrew reads ‘Ish-bosheth’
+[^3-22-1]: **3:22** Heb he
+[^3-27-1]: **3:27** Heb his
 [^3-29-1]: **3:29** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^4-1-1]: **4:1** Hebrew lacks the name
 [^4-5-1]: **4:5** Hebrew reads ‘Ish-bosheth’
@@ -1493,6 +1495,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-18-2]: **13:18** Heb were clothed in robes
 [^13-21-1]: **13:21** A Dead Sea Scroll and the Greek add ‘but he would not punish his son Amnon, because he loved him, for he was his firstborn’; Hebrew lacks these words
 [^13-27-1]: **13:27** The Greek adds ‘Absalom made a feast like a king’s feast’, and a Dead Sea Scroll has a similar reading; Hebrew lacks it
+[^13-32-1]: **13:32** Heb he
 [^13-34-1]: **13:34** The Greek reads ‘the Horonaim road’; Hebrew reads ‘the road behind him’
 [^13-39-1]: **13:39** A Dead Sea Scroll and the Greek read ‘the heart of the king’; Hebrew reads ‘David the king’
 [^14-4-1]: **14:4** Some Hebrew manuscripts, the Greek, Syriac and Vulgate read ‘came’; Hebrew reads ‘said’
@@ -1518,11 +1521,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-14-1]: **19:14** Hebrew reads ‘he’
 [^19-18-1]: **19:18** Hebrew reads ‘the ford crossed’
 [^19-26-1]: **19:26** The Greek, Syriac and Vulgate read ‘your servant said to him, Saddle a donkey for me’; Hebrew reads ‘your servant said, I will saddle a donkey for myself’
-[^20-14-1]: **20:14** Hebrew reads ‘Abel and Beth-maacah’
-[^20-14-2]: **20:14** The Greek and Vulgate read ‘Bichrites’; Hebrew reads ‘Berites’
+[^20-14-1]: **20:14** Heb he
+[^20-14-2]: **20:14** Hebrew reads ‘Abel and Beth-maacah’
+[^20-14-3]: **20:14** The Greek and Vulgate read ‘Bichrites’; Hebrew reads ‘Berites’
 [^20-23-1]: **20:23** Hebrew reads ‘Joab to all the army, Israel’
 [^21-6-1]: **21:6** Hebrew reads ‘at Gibeah of Saul, the chosen of the LORD’
 [^21-8-1]: **21:8** Some Hebrew manuscripts and Syriac read ‘Merab’ (compare the Greek); Hebrew reads ‘Michal’
+[^21-10-1]: **21:10** Heb them
 [^21-16-1]: **21:16** Heb was belted anew
 [^21-19-1]: **21:19** 1 Chronicles 20:5 reads killed Lahmi the brother of Goliath the Gittite
 [^21-20-1]: **21:20** The Greek reads ‘the giants’; Hebrew reads ‘the Raphah’

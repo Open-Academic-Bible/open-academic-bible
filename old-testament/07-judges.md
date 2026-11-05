@@ -166,7 +166,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> Then Ehud approached him while he was sitting alone in the coolness of his upper room. “I have a word from God for you,” Ehud said, and the king rose from his seat.
 
-<sup>21</sup> And Ehud reached with his left hand, pulled the sword from his right thigh, and plunged it into Eglon’s belly.
+<sup>21</sup> And Ehud reached with his left hand, pulled the sword from his right thigh, and plunged it into Eglon’s[^3-21-1] belly.
 
 <sup>22</sup> Even the handle sank in after the blade, and Eglon’s fat closed in over it, so that Ehud did not withdraw the sword from his belly. And Eglon’s bowels emptied[^3-22-1].
 
@@ -366,7 +366,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>31</sup> But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.”
 
-<sup>32</sup> So on that day Gideon was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.
+<sup>32</sup> So on that day Gideon[^6-32-1] was called Jerubbaal, that is to say, “Let Baal contend with him,” because he had torn down Baal’s altar.
 
 <sup>33</sup> Then all the Midianites, Amalekites, and other people of the east gathered together, crossed over the Jordan, and camped in the Valley of Jezreel.
 
@@ -1289,6 +1289,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-31-1]: **1:31** Hebrew reads ‘Ahlab’
 [^2-3-1]: **2:3** The Greek, Old Latin and Vulgate read ‘adversaries’; Hebrew reads ‘sides’
 [^2-5-1]: **2:5** Heb Bochim means weepers
+[^3-21-1]: **3:21** Heb his
 [^3-22-1]: **3:22** Meaning of Heb uncertain
 [^3-23-1]: **3:23** Meaning of Heb uncertain
 [^3-24-1]: **3:24** Heb covering his feet
@@ -1303,6 +1304,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-28-1]: **5:28** The Greek and Targum read ‘gazed’; Hebrew reads ‘exclaimed’
 [^6-10-1]: **6:10** A Dead Sea Scroll lacks 6:7–10
 [^6-26-1]: **6:26** Meaning of Heb uncertain
+[^6-32-1]: **6:32** Heb he
 [^7-3-1]: **7:3** Hebrew adds ‘and leave Mount Gilead’
 [^7-5-1]: **7:5** Hebrew has ‘with their hands to their mouths’ in 7:6, with those who lapped
 [^7-22-1]: **7:22** Some Hebrew manuscripts read ‘Zeredah’

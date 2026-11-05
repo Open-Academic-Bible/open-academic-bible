@@ -286,7 +286,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Israel was a luxuriant vine, yielding fruit for himself. The more his fruit increased, the more he increased the altars. The better his land produced, the better he made the pillars.
 
-<sup>2</sup> Their hearts are devious; now they must bear their guilt. The LORD will break down their altars and demolish their pillars.
+<sup>2</sup> Their hearts are devious; now they must bear their guilt. The LORD[^10-2-1] will break down their altars and demolish their pillars.
 
 <sup>3</sup> Surely now they will say, “We have no king, for we do not revere the LORD. What can a king do for us?”
 
@@ -461,6 +461,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-1-1]: **9:1** The Greek reads ‘as the nations do’; Hebrew reads ‘to exultation’
 [^9-6-1]: **9:6** Meaning of Heb uncertain
 [^9-13-1]: **9:13** Meaning of Heb uncertain
+[^10-2-1]: **10:2** Heb he
 [^10-5-1]: **10:5** The Greek and Syriac read ‘calf’; Hebrew reads ‘calves’
 [^10-5-2]: **10:5** Heb exult
 [^10-6-1]: **10:6** Heb to a king who will contend

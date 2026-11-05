@@ -862,7 +862,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,
 
-<sup>14</sup> and he failed to inquire of the LORD. So the LORD put him to death and turned the kingdom over to David son of Jesse.
+<sup>14</sup> and he failed to inquire of the LORD. So the LORD[^10-14-1] put him to death and turned the kingdom over to David son of Jesse.
 
 ## Chapter 11
 
@@ -1110,7 +1110,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 15
 
-<sup>1</sup> David constructed buildings for himself in the city of David, and he prepared a place for the ark of God and pitched a tent for it.
+<sup>1</sup> David constructed[^15-1-1] buildings for himself in the city of David, and he prepared a place for the ark of God and pitched a tent for it.
 
 <sup>2</sup> Then David said, “No one but the Levites may carry the ark of God, because the LORD has chosen them to carry the ark of the LORD and to minister before him forever.”
 
@@ -1242,7 +1242,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>36</sup> Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then all the people said, “Amen!” and “Praise the LORD!”
 
-<sup>37</sup> So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,
+<sup>37</sup> So David[^16-37-1] left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,
 
 <sup>38</sup> along with Obed-edom and his sixty-eight relatives[^16-38-1]. Obed-edom son of Jeduthun, and also Hosah, were to be gatekeepers.
 
@@ -1988,6 +1988,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-41-1]: **9:41** Hebrew lacks ‘and Ahaz’
 [^9-44-1]: **9:44** Or his firstborn
 [^10-7-1]: **10:7** Heb they
+[^10-14-1]: **10:14** Heb he
 [^11-11-1]: **11:11** Or a Hachmonite
 [^11-11-2]: **11:11** Heb Thirty
 [^11-20-1]: **11:20** The Greek, Vulgate and Targum read ‘Abishai’; Hebrew reads ‘Abshai’
@@ -2006,11 +2007,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-7-1]: **13:7** Or and his brother
 [^13-11-1]: **13:11** Heb Perez-uzzah means bursting out against Uzzah
 [^14-11-1]: **14:11** Heb Baal-perazim means lord of bursting forth
+[^15-1-1]: **15:1** Heb he
 [^15-13-1]: **15:13** Hebrew lacks ‘carry it’
 [^15-13-2]: **15:13** Meaning of Heb uncertain
 [^15-21-1]: **15:21** Or set for the eighth (octave)
 [^16-3-1]: **16:3** Meaning of Heb uncertain
 [^16-19-1]: **16:19** Heb in it
+[^16-37-1]: **16:37** Heb he
 [^16-38-1]: **16:38** The Greek, Syriac and Vulgate read ‘his’; Hebrew reads ‘their’
 [^17-5-1]: **17:5** The Greek reads ‘in a tent and in a dwelling’; Hebrew reads ‘from tent to tent and from dwelling to dwelling’
 [^17-17-1]: **17:17** Meaning of Heb uncertain

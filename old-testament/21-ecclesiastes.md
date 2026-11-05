@@ -170,7 +170,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> For someone may go from prison to the kingship, even if born poor in that kingdom.
 
-<sup>15</sup> I saw that all who lived and walked under the sun followed this second one, the youth who succeeded the king.
+<sup>15</sup> I saw that all who lived and walked under the sun followed this second one, the youth who succeeded the king[^4-15-1].
 
 <sup>16</sup> There is no limit to all the people he led[^4-16-1]. Yet the successor will not be celebrated by those who come even later. This too is futile and a pursuit of the wind.
 
@@ -477,6 +477,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-25-1]: **2:25** The Greek and Syriac read ‘him’; Hebrew reads ‘me’
 [^3-15-1]: **3:15** Heb what is pursued
 [^3-18-1]: **3:18** Meaning of Heb uncertain
+[^4-15-1]: **4:15** Heb him
 [^4-16-1]: **4:16** Heb who were before them
 [^5-1-1]: **5:1** Heb they do not know how to do evil
 [^5-7-1]: **5:7** Meaning of Heb uncertain

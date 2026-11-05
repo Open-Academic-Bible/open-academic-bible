@@ -1658,7 +1658,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> Surely God will bring you down to everlasting ruin; he will snatch you up and tear you away from your tent; he will uproot you from the land of the living. Selah
 
-<sup>6</sup> The righteous will see and fear; they will mock the evildoer, saying,
+<sup>6</sup> The righteous will see and fear; they will mock the evildoer[^52-6-1], saying,
 
 <sup>7</sup> “Look at the one who did not make God a refuge, but trusted in the abundance of wealth and took refuge in riches[^52-7-1].”
 
@@ -3700,7 +3700,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>31</sup> It was credited to him as righteousness for endless generations to come.
 
-<sup>32</sup> At the waters of Meribah they angered the LORD, and trouble came to Moses because of them.
+<sup>32</sup> At the waters of Meribah they angered the LORD[^106-32-1], and trouble came to Moses because of them.
 
 <sup>33</sup> For they embittered his spirit, and Moses spoke rashly with his lips.
 
@@ -5327,6 +5327,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^51-12-1]: **51:12** Or generous
 [^51-17-1]: **51:17** Or my sacrifice, O God, is a broken spirit
 [^52-1-1]: **52:1** Syriac reads ‘against the godly’; Hebrew reads ‘the kindness of God’
+[^52-6-1]: **52:6** Heb him
 [^52-7-1]: **52:7** Syriac and the Aramaic Targum read ‘in riches’; Hebrew reads ‘in his destruction’
 [^52-9-1]: **52:9** Heb wait for
 [^53-5-1]: **53:5** The Greek (Septuagint) and Syriac read ‘the godless’; Hebrew reads ‘him who encamps against you’
@@ -5425,6 +5426,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^106-20-1]: **106:20** Some Greek manuscripts read ‘the glory of God’; Hebrew reads ‘their glory’
 [^106-22-1]: **106:22** Or Sea of Reeds
 [^106-27-1]: **106:27** Syriac reads ‘to disperse’; Hebrew reads ‘to cause to fall’
+[^106-32-1]: **106:32** Heb him
 [^107-3-1]: **107:3** Heb sea
 [^107-17-1]: **107:17** Heb fools
 [^108-1-1]: **108:1** Some Hebrew manuscripts, the Greek and Syriac read ‘my heart is steadfast’ twice; the standard Hebrew lacks the repeat

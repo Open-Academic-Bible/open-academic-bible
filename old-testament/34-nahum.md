@@ -48,7 +48,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 
 <sup>6</sup> The river gates are thrown open and the palace collapses.
 
-<sup>7</sup> It is decreed[^2-7-1] that the city be exiled; her slave women moan like doves as they are led away, beating upon their breasts.
+<sup>7</sup> It is decreed[^2-7-1] that the city[^2-7-2] be exiled; her slave women moan like doves as they are led away, beating upon their breasts.
 
 <sup>8</sup> Like a pool of water, Nineveh is draining away[^2-8-1]. “Stop! Stop!” they cry, but no one turns back.
 
@@ -109,6 +109,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3)
 [^2-3-1]: **2:3** Heb cypresses
 [^2-5-1]: **2:5** Meaning of Heb uncertain
 [^2-7-1]: **2:7** Meaning of Heb uncertain
+[^2-7-2]: **2:7** Heb it
 [^2-8-1]: **2:8** Heb a pool, from the days that she has become, and they
 [^3-8-1]: **3:8** Or No-amon
 [^3-9-1]: **3:9** The Greek and Syriac read ‘her’; Hebrew reads ‘your’

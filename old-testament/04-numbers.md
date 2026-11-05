@@ -326,7 +326,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> In order that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go in and assign each man his task and what he is to carry.
 
-<sup>20</sup> But the Kohathites are not to go in and look at the holy objects, even for a moment, or they will die.”
+<sup>20</sup> But the Kohathites[^4-20-1] are not to go in and look at the holy objects, even for a moment, or they will die.”
 
 <sup>21</sup> And the LORD said to Moses,
 
@@ -684,7 +684,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>88</sup> All the livestock sacrificed for the peace offering totaled twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering for the altar after it was anointed.
 
-<sup>89</sup> When Moses entered the tent of meeting to speak with the LORD, he would hear the voice speaking to him from between the two cherubim above the cover on the ark of the testimony, and so the voice spoke to him[^7-89-1].
+<sup>89</sup> When Moses entered the tent of meeting to speak with the LORD[^7-89-1], he would hear the voice speaking to him from between the two cherubim above the cover on the ark of the testimony, and so the voice spoke to him[^7-89-2].
 
 ## Chapter 8
 
@@ -1424,7 +1424,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> Then the priest must wash his clothes and bathe his body in water; after that he may enter the camp, but he will be ceremonially unclean until evening.
 
-<sup>8</sup> The one who burned the heifer must also wash his clothes and bathe his body in water, and he too will be ceremonially unclean until evening.
+<sup>8</sup> The one who burned the heifer[^19-8-1] must also wash his clothes and bathe his body in water, and he too will be ceremonially unclean until evening.
 
 <sup>9</sup> Then someone who is ceremonially clean is to gather up the ashes of the heifer and store them in a ceremonially clean place outside the camp. They must be kept by the congregation of Israel for preparing the water of purification; it is a purification offering.
 
@@ -1678,13 +1678,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> “Stay here by your burnt offering while I am gone,” Balaam said to Balak. “Perhaps the LORD will meet with me. And whatever he reveals to me, I will tell you.” So Balaam went off to a barren height,
 
-<sup>4</sup> and God met with him. “I have set up seven altars,” Balaam said, “and on each altar I have offered a bull and a ram.”
+<sup>4</sup> and God met with him. “I have set up seven altars,” Balaam said[^23-4-1], “and on each altar I have offered a bull and a ram.”
 
 <sup>5</sup> Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and give him this message.”
 
-<sup>6</sup> So he returned to Balak, who was standing there beside his burnt offering, with all the officials of Moab.
+<sup>6</sup> So he returned to Balak[^23-6-1], who was standing there beside his burnt offering, with all the officials of Moab.
 
-<sup>7</sup> And Balaam lifted up an oracle, saying: “Balak brought me from Aram, the king of Moab from the mountains of the east. ‘Come,’ he said, ‘put a curse on Jacob for me; come and denounce Israel!’
+<sup>7</sup> And Balaam[^23-7-1] lifted up an oracle, saying: “Balak brought me from Aram, the king of Moab from the mountains of the east. ‘Come,’ he said, ‘put a curse on Jacob for me; come and denounce Israel!’
 
 <sup>8</sup> How can I curse those whom God has not cursed? How can I denounce those whom the LORD has not denounced?
 
@@ -1700,13 +1700,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> So Balak took him to the field of Zophim, to the top of Pisgah, where he built seven altars and offered a bull and a ram on each altar.
 
-<sup>15</sup> Balaam said to Balak, “Stay here beside your burnt offering while I meet the LORD over there.”
+<sup>15</sup> Balaam[^23-15-1] said to Balak, “Stay here beside your burnt offering while I meet the LORD over there.”
 
 <sup>16</sup> And the LORD met with Balaam and put a message in his mouth, saying, “Return to Balak and speak what I tell you.”
 
 <sup>17</sup> So he returned to Balak, who was standing there by his burnt offering with the officials of Moab. “What did the LORD say?” Balak asked.
 
-<sup>18</sup> Then Balaam lifted up an oracle, saying: “Arise, O Balak, and listen; give ear to me, O son of Zippor.
+<sup>18</sup> Then Balaam[^23-18-1] lifted up an oracle, saying: “Arise, O Balak, and listen; give ear to me, O son of Zippor.
 
 <sup>19</sup> God is not a human being, that he should lie, or a mortal, that he should change his mind. Does he speak and not act? Does he promise and not fulfill?
 
@@ -2659,12 +2659,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-11-1]: **4:11** Meaning of Heb uncertain
 [^4-12-1]: **4:12** Meaning of Heb uncertain
 [^4-14-1]: **4:14** Meaning of Heb uncertain
+[^4-20-1]: **4:20** Heb they
 [^4-25-1]: **4:25** Meaning of Heb uncertain
 [^5-2-1]: **5:2** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^5-21-1]: **5:21** Heb \*makes your thigh fall and your belly swell\*
 [^5-22-1]: **5:22** Heb \*make the belly swell and the thigh fall\*
 [^5-27-1]: **5:27** Heb \*make her belly swell and her thigh fall\*
-[^7-89-1]: **7:89** Or and he would speak to him
+[^7-89-1]: **7:89** Heb him
+[^7-89-2]: **7:89** Or and he would speak to him
 [^9-3-1]: **9:3** Heb \*between the two evenings\*
 [^9-5-1]: **9:5** Heb \*between the two evenings\*
 [^9-11-1]: **9:11** Heb \*between the two evenings\*
@@ -2685,6 +2687,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^16-1-1]: **16:1** Some Hebrew manuscripts, the Samaritan Pentateuch, a Dead Sea Scroll and the Greek (Septuagint) read \*son of Reuben\*; Hebrew reads \*sons of Reuben\*
 [^18-17-1]: **18:17** Or a gift
 [^19-5-1]: **19:5** Or dung
+[^19-8-1]: **19:8** Heb it
 [^19-16-1]: **19:16** Hebrew lacks \*of natural causes\*
 [^20-13-1]: **20:13** Heb \*Meribah\* means quarrel
 [^20-26-1]: **20:26** Hebrew lacks \*to his people\*
@@ -2704,7 +2707,12 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-11-1]: **22:11** Some Hebrew manuscripts, the Samaritan Pentateuch, a Dead Sea Scroll and the Greek (Septuagint) read \*a people has come out\*; Hebrew reads \*the people that is coming out\*
 [^22-32-1]: **22:32** Meaning of Heb uncertain
 [^23-2-1]: **23:2** Some Hebrew manuscripts and the Greek (Septuagint) read as here; Hebrew reads \*Balak and Balaam offered\*
+[^23-4-1]: **23:4** Heb he
+[^23-6-1]: **23:6** Heb him
+[^23-7-1]: **23:7** Heb he
 [^23-10-1]: **23:10** Or fourth part
+[^23-15-1]: **23:15** Heb he
+[^23-18-1]: **23:18** Heb he
 [^23-28-1]: **23:28** Or Jeshimon
 [^24-3-1]: **24:3** Or closed or open
 [^24-4-1]: **24:4** Traditional rendering of Heb \*Shaddai\*

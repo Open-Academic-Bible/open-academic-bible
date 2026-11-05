@@ -850,7 +850,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> But Pharaoh asked him, “What have you lacked here with me that you suddenly want to go back to your own country?” “Nothing,” Hadad replied, “but please let me go.”
 
-<sup>23</sup> And God raised up against Solomon another adversary, Rezon the son of Eliada, who had fled from his master, Hadadezer king of Zobah,
+<sup>23</sup> And God raised up against Solomon[^11-23-1] another adversary, Rezon the son of Eliada, who had fled from his master, Hadadezer king of Zobah,
 
 <sup>24</sup> and had gathered men to himself. When David killed the Zobaites, Rezon captained a band of raiders and went to Damascus, where they settled and made him king there.
 
@@ -998,7 +998,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’” The old prophet was lying to him,
 
-<sup>19</sup> but the man of God went back with him, ate bread in his house, and drank water.
+<sup>19</sup> but the man of God[^13-19-1] went back with him, ate bread in his house, and drank water.
 
 <sup>20</sup> While they were sitting at the table, the word of the LORD came to the prophet who had brought him back,
 
@@ -1006,7 +1006,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> but you went back and ate bread and drank water in the place where he told you not to do so, your body shall never reach your ancestral tomb.’”
 
-<sup>23</sup> And after the man of God had finished eating and drinking, the old prophet who had brought him back saddled the donkey for him.
+<sup>23</sup> And after the man of God[^13-23-1] had finished eating and drinking, the old prophet who had brought him back saddled the donkey for him.
 
 <sup>24</sup> As he went on his way, a lion met him on the road and killed him, and his body was left lying in the road, with the donkey and the lion standing beside it.
 
@@ -1150,7 +1150,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> Then Baasha son of Ahijah of the house of Issachar conspired against Nadab, and Baasha struck him down at Gibbethon of the Philistines while Nadab and all Israel were besieging the city.
 
-<sup>28</sup> In the third year of Asa’s reign over Judah, Baasha killed Nadab and reigned in his place.
+<sup>28</sup> In the third year of Asa’s reign over Judah, Baasha killed Nadab[^15-28-1] and reigned in his place.
 
 <sup>29</sup> As soon as Baasha became king, he struck down the entire household of Jeroboam. He did not leave to Jeroboam anyone who breathed, but destroyed them all according to the word that the LORD had spoken through his servant Ahijah the Shilonite,
 
@@ -1418,7 +1418,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> So Elijah departed and found Elisha son of Shaphat. He was plowing with twelve teams of oxen, and he was with the twelfth team. Elijah passed by him and threw his cloak around him.
 
-<sup>20</sup> So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”
+<sup>20</sup> So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied[^19-20-1], “for what have I done to you?”
 
 <sup>21</sup> So Elisha turned back from him, took his pair of oxen, and slaughtered them. Using the oxen’s equipment for fuel, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.
 
@@ -1604,17 +1604,17 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”
 
-<sup>17</sup> So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
+<sup>17</sup> So Micaiah[^22-17-1] declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
 
 <sup>18</sup> Then the king of Israel said to Jehoshaphat, “Did I not tell you that he never prophesies good for me, but only bad?”
 
-<sup>19</sup> Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right and on his left.
+<sup>19</sup> Micaiah[^22-19-1] continued, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right and on his left.
 
 <sup>20</sup> And the LORD said, ‘Who will entice Ahab to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.
 
 <sup>21</sup> Then a spirit came forward, stood before the LORD, and said, ‘I will entice him.’ ‘By what means?’ asked the LORD.
 
-<sup>22</sup> And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’
+<sup>22</sup> And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD[^22-22-1]. ‘Go and do it.’
 
 <sup>23</sup> So you see, the LORD has put a lying spirit in the mouths of all these prophets of yours, and the LORD has pronounced disaster against you.”
 
@@ -1716,20 +1716,28 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-8-1]: **10:8** The Greek and Syriac read ‘wives’; Hebrew reads ‘men’
 [^10-22-1]: **10:22** Or baboons
 [^11-15-1]: **11:15** The Greek and Syriac read ‘was destroying’; Hebrew reads ‘was in’
+[^11-23-1]: **11:23** Heb him
 [^11-27-1]: **11:27** Hebrew lacks ‘in the wall’
 [^11-33-1]: **11:33** The Greek, Syriac and Vulgate read ‘he has’; Hebrew reads ‘they have’
 [^11-33-2]: **11:33** The Greek, Syriac and Vulgate read ‘has’; Hebrew reads ‘have’
 [^12-28-1]: **12:28** The Greek reads ‘to the people’; Hebrew reads ‘to them’
 [^12-30-1]: **12:30** Hebrew reads ‘went to the one as far as Dan’
 [^12-31-1]: **12:31** The Greek and Vulgate read ‘houses’; Hebrew reads ‘a house’
+[^13-19-1]: **13:19** Heb he
+[^13-23-1]: **13:23** Heb he
 [^13-29-1]: **13:29** The Greek reads ‘to the city’; Hebrew reads ‘he came to the town of the old prophet’
 [^14-14-1]: **14:14** Meaning of Heb uncertain
 [^14-24-1]: **14:24** Heb qadesh, here and in 15:12 and 22:46, literally consecrated one; traditionally rendered male shrine prostitutes
 [^15-26-1]: **15:26** Or ancestor
+[^15-28-1]: **15:28** Heb him
 [^17-1-1]: **17:1** The Greek reads ‘of Tishbe’; Hebrew reads ‘of the settlers’
 [^18-1-1]: **18:1** Hebrew lacks ‘of the drought’
 [^19-3-1]: **19:3** The Greek reads ‘was afraid’; Hebrew reads ‘saw’
+[^19-20-1]: **19:20** Heb he
 [^20-6-1]: **20:6** The Greek, Syriac and Vulgate read ‘pleases them’; Hebrew reads ‘pleases you’
 [^20-11-1]: **20:11** The Greek reads ‘Enough!’; Hebrew reads ‘Tell him’
 [^20-17-1]: **20:17** Hebrew lacks ‘scouts’
 [^20-35-1]: **20:35** Hebrew reads ‘one of the sons of the prophets’
+[^22-17-1]: **22:17** Heb he
+[^22-19-1]: **22:19** Heb he
+[^22-22-1]: **22:22** Heb he

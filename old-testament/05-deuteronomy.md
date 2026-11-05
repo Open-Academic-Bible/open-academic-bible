@@ -1030,7 +1030,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> You are to give them the firstfruits of your grain, new wine, and oil, and the first wool sheared from your flock.
 
-<sup>5</sup> For the LORD your God has chosen Levi and his sons out of all your tribes to stand and minister in his name for all time.
+<sup>5</sup> For the LORD your God has chosen Levi[^18-5-1] and his sons out of all your tribes to stand and minister in his name for all time.
 
 <sup>6</sup> Now if a Levite moves from any town of residence throughout Israel and comes in all earnestness to the place the LORD will choose,
 
@@ -1058,7 +1058,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> I will raise up for them a prophet like you from among their fellow Israelites. I will put my words in that prophet’s mouth, and the prophet will tell them everything I command.
 
-<sup>19</sup> And I will hold accountable anyone who does not listen to my words that the prophet speaks in my name.
+<sup>19</sup> And I will hold accountable anyone who does not listen to my words that the prophet[^18-19-1] speaks in my name.
 
 <sup>20</sup> But if any prophet dares to speak a message in my name that I have not ordered the prophet to speak, or to speak in the name of other gods, that prophet must be put to death.”
 
@@ -1780,7 +1780,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> So that very day Moses wrote down this song and taught it to the Israelites.
 
-<sup>23</sup> Then the LORD commissioned Joshua son of Nun and said, “Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you.”
+<sup>23</sup> Then the LORD[^31-23-1] commissioned Joshua son of Nun and said, “Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you.”
 
 <sup>24</sup> When Moses had finished writing in a book the words of this law from beginning to end,
 
@@ -2025,7 +2025,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^16-13-1]: **16:13** Or Tabernacles
 [^16-16-1]: **16:16** Or Tabernacles
 [^18-1-1]: **18:1** Or gifts
+[^18-5-1]: **18:5** Heb him
 [^18-8-1]: **18:8** Meaning of Heb uncertain
+[^18-19-1]: **18:19** Heb he
 [^19-3-1]: **19:3** Or prepare roads to them
 [^21-17-1]: **21:17** Heb two-thirds
 [^22-30-1]: **22:30** Heb uncover his father’s skirt
@@ -2045,6 +2047,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^30-20-1]: **30:20** Or ancestors
 [^31-1-1]: **31:1** A Dead Sea Scroll and the Greek read ‘finished speaking’; Hebrew reads ‘went and spoke’
 [^31-10-1]: **31:10** Or Tabernacles
+[^31-23-1]: **31:23** Heb he
 [^32-5-1]: **32:5** Meaning of Heb uncertain
 [^32-8-1]: **32:8** Heb Elyon
 [^32-8-2]: **32:8** A Dead Sea Scroll reads ‘gods’ (compare the Greek); Hebrew reads ‘the Israelites’

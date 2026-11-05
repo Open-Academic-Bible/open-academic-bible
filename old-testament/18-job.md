@@ -64,7 +64,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> So the accuser left the presence of the LORD and infected Job with terrible boils from the soles of his feet to the crown of his head.
 
-<sup>8</sup> And Job took a piece of broken pottery to scrape himself as he sat among the ashes.
+<sup>8</sup> And Job[^2-8-1] took a piece of broken pottery to scrape himself as he sat among the ashes.
 
 <sup>9</sup> Then Job’s wife said to him, “Do you still retain your integrity? Curse God and die![^2-9-1]”
 
@@ -568,7 +568,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> Is wisdom found with the elderly, and understanding with long life?
 
-<sup>13</sup> Wisdom and strength belong to God; counsel and understanding are his.
+<sup>13</sup> Wisdom and strength belong to God[^12-13-1]; counsel and understanding are his.
 
 <sup>14</sup> What he tears down cannot be rebuilt; the man he imprisons cannot be released.
 
@@ -1000,7 +1000,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> In the midst of their plenty, they will be distressed; the full force of misery will fall on them.
 
-<sup>23</sup> When they have filled their stomachs, God will vent his fury upon them, raining it down on them as they eat.
+<sup>23</sup> When they have filled their stomachs, God will[^20-23-1] vent his fury upon them, raining it down on them as they eat.
 
 <sup>24</sup> Though they run from an iron weapon, a bronze-tipped arrow will pierce them.
 
@@ -1010,7 +1010,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> The heavens will expose their iniquity, and the earth will rise against them.
 
-<sup>28</sup> The possessions of their houses will be removed, flowing away on the day of God’s wrath.
+<sup>28</sup> The possessions of their houses will be removed, flowing away on the day of God’s[^20-28-1] wrath.
 
 <sup>29</sup> This is the lot God gives the wicked, the inheritance God has appointed for them.”
 
@@ -1048,7 +1048,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> Still, their prosperity is not in their own hands, so I stay far from the counsel of the wicked.
 
-<sup>17</sup> How often is the lamp of the wicked put out? Does disaster come upon them? Does God, in his anger, apportion destruction?
+<sup>17</sup> How often is the lamp of the wicked put out? Does disaster come upon them? Does God[^21-17-1], in his anger, apportion destruction?
 
 <sup>18</sup> Are they like straw before the wind, like chaff swept away by a storm?
 
@@ -1226,7 +1226,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> They mistreat the childless woman[^24-21-1] and show no kindness to the widow.
 
-<sup>22</sup> Yet by his power God keeps the mighty alive; they rise up even as they despair of life.
+<sup>22</sup> Yet by his power God keeps[^24-22-1] the mighty alive; they rise up even as they despair of life.
 
 <sup>23</sup> He grants them security and sustains them; his eyes are on their ways.
 
@@ -1238,7 +1238,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Then Bildad the Shuhite replied:
 
-<sup>2</sup> “Dominion and awe belong to God; he establishes harmony in the heights of heaven.
+<sup>2</sup> “Dominion and awe belong to God[^25-2-1]; he establishes harmony in the heights of heaven.
 
 <sup>3</sup> Can his troops be numbered? On whom does his light not rise?
 
@@ -1680,7 +1680,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>25</sup> then his flesh is refreshed like a child’s; he returns to the days of his youth.
 
-<sup>26</sup> He prays to God and finds favor; he sees God’s face and shouts for joy, and God repays that person for his righteousness.
+<sup>26</sup> He prays to God and finds favor; he sees God’s face and shouts for joy, and God repays[^33-26-1] that person for his righteousness.
 
 <sup>27</sup> Then such a person sings before others, saying: ‘I have sinned and perverted what was right; yet I did not get what I deserved.
 
@@ -2232,6 +2232,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-6-2]: **1:6** Heb the satan
 [^2-1-1]: **2:1** Heb sons of God
 [^2-1-2]: **2:1** Heb the satan
+[^2-8-1]: **2:8** Heb he
 [^2-9-1]: **2:9** Heb Bless
 [^3-8-1]: **3:8** Heb day
 [^3-24-1]: **3:24** Heb before
@@ -2273,6 +2274,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^12-5-1]: **12:5** Meaning of Heb uncertain
 [^12-6-1]: **12:6** Or whom God brought forth by his hand; meaning of Heb uncertain
 [^12-8-1]: **12:8** Or speak to the earth
+[^12-13-1]: **12:13** Heb him
 [^12-24-1]: **12:24** Hebrew adds ‘of the people’
 [^13-3-1]: **13:3** Traditional rendering of Heb Shaddai
 [^13-14-1]: **13:14** The Greek reads ‘I will take’; Hebrew reads ‘Why should I take … in my hand?’
@@ -2291,7 +2293,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^18-13-1]: **18:13** Heb It consumes the limbs of his skin
 [^19-12-1]: **19:12** Heb their way
 [^19-25-1]: **19:25** Or redeemer
+[^20-23-1]: **20:23** Heb he
+[^20-28-1]: **20:28** Heb his
 [^21-15-1]: **21:15** Traditional rendering of Heb Shaddai
+[^21-17-1]: **21:17** Heb he
 [^21-20-1]: **21:20** Traditional rendering of Heb Shaddai
 [^22-3-1]: **22:3** Traditional rendering of Heb Shaddai
 [^22-9-1]: **22:9** The Greek, Syriac, Aramaic and Latin (Vulgate) read ‘you crushed’; Hebrew reads ‘were crushed’
@@ -2311,7 +2316,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^24-2-1]: **24:2** The Greek reads ‘the wicked’; Hebrew reads ‘they’
 [^24-11-1]: **24:11** Meaning of Heb uncertain
 [^24-21-1]: **24:21** The Greek and Aramaic read ‘harm’; Hebrew reads ‘feed on’ or ‘associate with’
+[^24-22-1]: **24:22** Heb he
 [^24-24-1]: **24:24** The Greek reads ‘like the mallow’; Hebrew reads ‘like all others’
+[^25-2-1]: **25:2** Heb him
 [^26-7-1]: **26:7** Or the North
 [^27-2-1]: **27:2** Traditional rendering of Heb Shaddai
 [^27-10-1]: **27:10** Traditional rendering of Heb Shaddai
@@ -2346,6 +2353,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^32-9-1]: **32:9** The Greek, Syriac and Latin (Vulgate) read ‘the old’; Hebrew reads ‘the many’
 [^33-4-1]: **33:4** Traditional rendering of Heb Shaddai
 [^33-13-1]: **33:13** The Greek reads ‘my’; Hebrew reads ‘his’
+[^33-26-1]: **33:26** Heb he
 [^33-30-1]: **33:30** Syriac reads ‘to see the light of life’; Hebrew reads ‘to be lighted with the light of life’
 [^34-10-1]: **34:10** Traditional rendering of Heb Shaddai
 [^34-12-1]: **34:12** Traditional rendering of Heb Shaddai

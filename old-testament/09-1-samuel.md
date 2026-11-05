@@ -214,7 +214,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> The messenger answered, “Israel has fled before the Philistines, and there has been a great slaughter[^4-17-1] among the people. Your two sons, Hophni and Phinehas, are both dead, and the ark of God has been captured.”
 
-<sup>18</sup> As soon as the ark of God was mentioned, Eli fell backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years.
+<sup>18</sup> As soon as the ark of God was mentioned, Eli fell[^4-18-1] backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years.
 
 <sup>19</sup> Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and about to give birth. When she heard the news of the capture of God’s ark and the deaths of her father-in-law and her husband, she collapsed and gave birth, for her labor pains overtook her.
 
@@ -588,7 +588,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, however, remained at Gilgal, and all his troops were quaking in fear.
 
-<sup>8</sup> And Saul waited seven days for the time appointed by Samuel, but Samuel did not come to Gilgal, and the troops began to desert Saul.
+<sup>8</sup> And Saul waited seven days for the time appointed by Samuel, but Samuel did not come to Gilgal, and the troops began to desert Saul[^13-8-1].
 
 <sup>9</sup> So he said, “Bring me the burnt offering and the peace offerings.” And he offered up the burnt offering.
 
@@ -646,7 +646,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> So the men of the outpost called out to Jonathan and his armor-bearer, “Come on up, and we will teach you a lesson!” “Follow me,” Jonathan told his armor-bearer, “for the LORD has delivered them into the hand of Israel.”
 
-<sup>13</sup> So Jonathan climbed up on his hands and feet, with his armor-bearer behind him. And the Philistines fell before Jonathan, and his armor-bearer followed and finished them off.
+<sup>13</sup> So Jonathan climbed up on his hands and feet, with his armor-bearer behind him. And the Philistines[^14-13-1] fell before Jonathan, and his armor-bearer followed and finished them off.
 
 <sup>14</sup> In that first assault, Jonathan and his armor-bearer struck down about twenty men within a strip about half a furrow long in an acre of land[^14-14-1].
 
@@ -786,7 +786,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>29</sup> Moreover, the Glory of Israel does not lie or change his mind, for he is not a mortal, that he should change his mind.”
 
-<sup>30</sup> “I have sinned,” Saul replied. “Please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God.”
+<sup>30</sup> “I have sinned,” Saul[^15-30-1] replied. “Please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God.”
 
 <sup>31</sup> So Samuel went back with Saul, and Saul worshiped the LORD.
 
@@ -840,7 +840,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> And Jesse took a donkey loaded with bread, a skin of wine, and one young goat and sent them to Saul with his son David.
 
-<sup>21</sup> When David came to Saul and entered his service, Saul loved him very much, and David became his armor-bearer.
+<sup>21</sup> When David came to Saul and entered his service, Saul loved[^16-21-1] him very much, and David became his armor-bearer.
 
 <sup>22</sup> Then Saul sent word to Jesse, saying, “Let David remain in my service, for I am pleased with him.”
 
@@ -966,7 +966,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 18
 
-<sup>1</sup> After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.
+<sup>1</sup> After David[^18-1-1] had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.
 
 <sup>2</sup> And from that day Saul kept David with him and did not let him return to his father’s house.
 
@@ -1719,6 +1719,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-2-1]: **4:2** Meaning of Heb uncertain
 [^4-7-1]: **4:7** Or A god has entered
 [^4-17-1]: **4:17** Heb plague
+[^4-18-1]: **4:18** Heb he
 [^5-4-1]: **5:4** The Greek, Syriac, Aramaic Targum and Vulgate read only the trunk of Dagon; Hebrew lacks the trunk of
 [^5-8-1]: **5:8** The Greek reads The people of Gath replied, “Let the ark of God be brought over to us”; Heb They replied, “Let the ark of the God of Israel be brought around to Gath”
 [^5-8-2]: **5:8** The Greek adds to Gath; Hebrew lacks these words
@@ -1762,6 +1763,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^12-15-1]: **12:15** The Greek reads and your king; Heb and your ancestors
 [^13-1-1]: **13:1** The number is lacking in the Hebrew text; some Greek manuscripts lack the whole verse
 [^13-1-2]: **13:1** Meaning of Heb uncertain; two is not the whole number, something has dropped out
+[^13-8-1]: **13:8** Heb him
 [^13-15-1]: **13:15** The Greek reads left Gilgal and went on his way; Heb went up from Gilgal to Gibeah of Benjamin
 [^13-15-2]: **13:15** The Greek adds The remaining troops went up after Saul to join the fighting force, from Gilgal toward Gibeah of Benjamin; Hebrew lacks these words
 [^13-18-1]: **13:18** Heb the border road
@@ -1771,6 +1773,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-4-1]: **14:4** Heb Between the passes
 [^14-7-1]: **14:7** Hebrew adds Turn after Do all that is in your heart; the Greek lacks it
 [^14-7-2]: **14:7** The Greek adds as your heart is, so is mine; Hebrew lacks these words
+[^14-13-1]: **14:13** Heb They
 [^14-14-1]: **14:14** Heb yoke
 [^14-16-1]: **14:16** The Greek reads surging back and forth; Heb melting away, and they went here and there
 [^14-23-1]: **14:23** The Greek and Old Latin add Saul had about ten thousand men with him, and the fighting spread across the hill country of Ephraim; Hebrew lacks these words
@@ -1779,12 +1782,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-33-1]: **14:33** The Greek reads before me here; Heb to me today
 [^14-41-1]: **14:41** The Greek and Old Latin read this longer prayer, with Urim and Thummim; Hebrew has a shorter text
 [^15-9-1]: **15:9** Heb the second ones
+[^15-30-1]: **15:30** Heb he
 [^15-32-1]: **15:32** Meaning of Heb uncertain
 [^15-32-2]: **15:32** The Greek, Syriac and Old Latin read Surely death is bitter; Heb Surely the bitterness of death is past
+[^16-21-1]: **16:21** Heb he
 [^17-4-1]: **17:4** A Dead Sea Scroll and the Greek read four; Heb six
 [^17-8-1]: **17:8** Meaning of Heb uncertain
 [^17-12-1]: **17:12** The Greek and Syriac read advanced in years; Heb among men
 [^17-52-1]: **17:52** The Greek and Syriac read Gath; Heb a valley
+[^18-1-1]: **18:1** Heb he
 [^18-6-1]: **18:6** Or triangles or three-stringed instruments
 [^18-21-1]: **18:21** Heb by two
 [^18-27-1]: **18:27** The Greek reads one hundred; Heb two hundred

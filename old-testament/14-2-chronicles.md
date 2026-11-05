@@ -212,7 +212,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> And there I have placed the ark, which contains the covenant of the LORD that he made with the children of Israel.”
 
-<sup>12</sup> Then Solomon stood before the altar of the LORD in front of the whole assembly of Israel and spread out his hands.
+<sup>12</sup> Then Solomon[^6-12-1] stood before the altar of the LORD in front of the whole assembly of Israel and spread out his hands.
 
 <sup>13</sup> Now Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high and had placed it in the middle of the courtyard. He stood on it, knelt down before the whole assembly of Israel, spread out his hands toward heaven,
 
@@ -616,7 +616,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> So the LORD struck down the Cushites before Asa and Judah, and the Cushites fled.
 
-<sup>13</sup> Then Asa and his army pursued them as far as Gerar. The Cushites fell and could not recover, for they were crushed before the LORD and his army. So the people of Judah carried off a great amount of plunder
+<sup>13</sup> Then Asa and his army pursued them as far as Gerar. The Cushites fell and could not recover, for they were crushed before the LORD and his army. So the people of Judah[^14-13-1] carried off a great amount of plunder
 
 <sup>14</sup> and attacked all the cities around Gerar, because the terror of the LORD had fallen upon them. They plundered all the cities, since there was much plunder there.
 
@@ -764,17 +764,17 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”
 
-<sup>16</sup> So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
+<sup>16</sup> So Micaiah[^18-16-1] declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”
 
 <sup>17</sup> Then the king of Israel said to Jehoshaphat, “Did I not tell you that he never prophesies good for me, but only bad?”
 
-<sup>18</sup> Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing on his right and on his left.
+<sup>18</sup> Micaiah[^18-18-1] continued, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing on his right and on his left.
 
 <sup>19</sup> And the LORD said, ‘Who will entice Ahab king of Israel to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.
 
 <sup>20</sup> Then a spirit came forward, stood before the LORD, and said, ‘I will entice him.’ ‘By what means?’ asked the LORD.
 
-<sup>21</sup> And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’
+<sup>21</sup> And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD[^18-21-1]. ‘Go and do it.’
 
 <sup>22</sup> So you see, the LORD has put a lying spirit in the mouths of these prophets of yours, and the LORD has pronounced disaster against you.”
 
@@ -976,7 +976,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> So they went throughout Judah and gathered the Levites from all the cities of Judah and the heads of the families of Israel. And when they came to Jerusalem,
 
-<sup>3</sup> the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the sons of David.
+<sup>3</sup> the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada[^23-3-1]. “He must reign, just as the LORD promised concerning the sons of David.
 
 <sup>4</sup> This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,
 
@@ -1102,7 +1102,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Therefore the anger of the LORD burned against Amaziah, and he sent him a prophet, who said, “Why have you sought this people’s gods, which could not deliver them from your hand?”
 
-<sup>16</sup> While he was still speaking, the king asked, “Have we made you the counselor to the king? Stop! Why be struck down?” So the prophet stopped, but he said, “I know that God has determined to destroy you, because you have done this and have not heeded my advice.”
+<sup>16</sup> While he was still speaking, the king asked[^25-16-1], “Have we made you the counselor to the king? Stop! Why be struck down?” So the prophet stopped, but he said, “I know that God has determined to destroy you, because you have done this and have not heeded my advice.”
 
 <sup>17</sup> Then Amaziah king of Judah took counsel and sent word to the king of Israel Jehoash son of Jehoahaz, the son of Jehu. “Come, let us meet face to face,” he said.
 
@@ -1436,7 +1436,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Many people assembled and stopped up all the springs and the stream that flowed through the land. “Why should the kings of Assyria come and find plenty of water?” they said.
 
-<sup>5</sup> Then Hezekiah worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it[^32-5-1]. He also built an outer wall and strengthened the Millo in the city of David, and he produced an abundance of weapons and shields.
+<sup>5</sup> Then Hezekiah[^32-5-1] worked resolutely to rebuild all the broken sections of the wall and to raise up towers on it[^32-5-2]. He also built an outer wall and strengthened the Millo in the city of David, and he produced an abundance of weapons and shields.
 
 <sup>6</sup> Hezekiah appointed military commanders over the people and gathered the people in the square of the city gate. Then he encouraged them, saying,
 
@@ -1656,7 +1656,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> After all this, when Josiah had set the temple in order, Neco king of Egypt marched up to fight at Carchemish by the Euphrates, and Josiah went out to confront him.
 
-<sup>21</sup> But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or he will destroy you!”
+<sup>21</sup> But Neco[^35-21-1] sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or he will destroy you!”
 
 <sup>22</sup> Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the plain of Megiddo.
 
@@ -1727,6 +1727,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-16-1]: **3:16** Heb chains in the inner sanctuary
 [^4-5-1]: **4:5** Heb bath is a measure of volume
 [^5-9-1]: **5:9** The Greek and some Hebrew manuscripts read ‘from the holy place’; Hebrew reads ‘from the ark’
+[^6-12-1]: **6:12** Heb he
 [^7-19-1]: **7:19** Heb you is plural in this verse
 [^8-13-1]: **8:13** Or Tabernacles
 [^8-16-1]: **8:16** The Greek, Syriac, and Vulgate read ‘from’; Hebrew reads ‘to’
@@ -1737,11 +1738,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-21-1]: **9:21** Or baboons
 [^13-11-1]: **13:11** Heb pure table
 [^13-19-1]: **13:19** Or Ephrain
+[^14-13-1]: **14:13** Heb They
 [^14-15-1]: **14:15** Meaning of Heb uncertain
 [^15-8-1]: **15:8** Syriac and Vulgate read ‘the prophecy of Azariah son of Oded’; Hebrew reads ‘the prophecy, the prophet Oded’
 [^15-8-2]: **15:8** Heb the portico of the LORD
 [^16-1-1]: **16:1** Hebrew lacks ‘the territory of’
 [^17-3-1]: **17:3** The Greek lacks ‘David’; Hebrew reads ‘his father David’
+[^18-16-1]: **18:16** Heb he
+[^18-18-1]: **18:18** Heb he
+[^18-21-1]: **18:21** Heb he
 [^20-1-1]: **20:1** Heb Ammonites
 [^20-2-1]: **20:2** A Hebrew manuscript reads ‘Edom’; other Hebrew texts read ‘Aram’
 [^20-9-1]: **20:9** Or the sword of judgment
@@ -1750,11 +1755,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-2-1]: **21:2** The Greek and Syriac read ‘Judah’; Hebrew reads ‘Israel’
 [^22-2-1]: **22:2** The Syriac reads ‘twenty-two’; compare 2 Kings 8:26
 [^22-11-1]: **22:11** Or children
+[^23-3-1]: **23:3** Heb he
 [^24-6-1]: **24:6** The Vulgate reads ‘on’; Hebrew reads ‘and’
 [^24-20-1]: **24:20** Heb clothed itself with
 [^24-25-1]: **24:25** The Greek and Vulgate read ‘son’; Hebrew reads ‘sons’
 [^24-27-1]: **24:27** Heb founding
 [^25-4-1]: **25:4** Or parents, in both places
+[^25-16-1]: **25:16** Heb he
 [^25-19-1]: **25:19** A Greek manuscript, the Old Latin, the Targum, and the Vulgate read ‘I’; Hebrew reads ‘you’
 [^25-28-1]: **25:28** The Greek, Syriac, and Vulgate read ‘city of David’; Hebrew reads ‘city of Judah’
 [^26-5-1]: **26:5** The Greek reads ‘fear’; Hebrew reads ‘visions’
@@ -1765,7 +1772,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^29-2-1]: **29:2** Or ancestor
 [^29-34-1]: **29:34** Heb upright in heart
 [^30-16-1]: **30:16** Hebrew lacks ‘which they received’
-[^32-5-1]: **32:5** The Vulgate reads ‘raise up towers on it’; Hebrew reads ‘and raised on the towers’
+[^32-5-1]: **32:5** Heb he
+[^32-5-2]: **32:5** The Vulgate reads ‘raise up towers on it’; Hebrew reads ‘and raised on the towers’
 [^32-22-1]: **32:22** The Greek and Vulgate read ‘gave them rest’; Hebrew reads ‘guided them’
 [^32-28-1]: **32:28** The Greek and Vulgate read ‘pens for the flocks’; Hebrew reads ‘flocks for folds’
 [^33-6-1]: **33:6** Heb sons; compare 2 Kings 21:6
@@ -1774,6 +1782,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^34-6-1]: **34:6** Meaning of Heb uncertain
 [^35-5-1]: **35:5** Meaning of Heb uncertain
 [^35-11-1]: **35:11** Hebrew lacks ‘handed to them’
+[^35-21-1]: **35:21** Heb he
 [^35-24-1]: **35:24** Or the chariot of his deputy
 [^36-9-1]: **36:9** Some Hebrew and Greek manuscripts and the Syriac read ‘eighteen’; compare 2 Kings 24:8
 [^36-10-1]: **36:10** Or relative

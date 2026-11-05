@@ -446,7 +446,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> The whole assembly that had returned from exile made booths and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated like this. And there was great rejoicing.
 
-<sup>18</sup> Day after day, from the first day to the last, Ezra read from the book of the law of God. The Israelites kept the feast for seven days, and on the eighth day they held an assembly, according to the ordinance.
+<sup>18</sup> Day after day, from the first day to the last, Ezra[^8-18-1] read from the book of the law of God. The Israelites kept the feast for seven days, and on the eighth day they held an assembly, according to the ordinance.
 
 ## Chapter 9
 
@@ -869,6 +869,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-16-1]: **6:16** Or saw
 [^7-68-1]: **7:68** Hebrew lacks ‘They had 736 horses, 245 mules,’; the Greek and the margins of some Hebrew manuscripts include it
 [^8-14-1]: **8:14** Or tabernacles
+[^8-18-1]: **8:18** Heb he
 [^9-1-1]: **9:1** Heb on them
 [^9-6-1]: **9:6** The Greek adds ‘And Ezra said’; Hebrew lacks these words
 [^9-9-1]: **9:9** Or Sea of Reeds

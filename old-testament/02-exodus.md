@@ -1360,7 +1360,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> and they saw the God of Israel. Under his feet was a work like a pavement made of sapphire, as clear as the sky itself.
 
-<sup>11</sup> But God did not lay his hand on the nobles of Israel; they saw him, and they ate and drank.
+<sup>11</sup> But God[^24-11-1] did not lay his hand on the nobles of Israel; they saw him, and they ate and drank.
 
 <sup>12</sup> Then the LORD said to Moses, “Come up to me on the mountain and stay here, so that I may give you the tablets of stone, with the law and commandments I have written for their instruction.”
 
@@ -1874,7 +1874,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> It is a sign between me and the Israelites forever; for in six days the LORD made the heavens and the earth, but on the seventh day he rested and was refreshed.’”
 
-<sup>18</sup> When the LORD had finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone inscribed by the finger of God.
+<sup>18</sup> When the LORD[^31-18-1] had finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone inscribed by the finger of God.
 
 ## Chapter 32
 
@@ -1966,7 +1966,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> Then, whenever Moses went out to the tent, all the people would stand at the entrances to their own tents and watch Moses until he entered the tent.
 
-<sup>9</sup> As Moses entered the tent, the pillar of cloud would come down and remain at the entrance, and the LORD would speak with Moses.
+<sup>9</sup> As Moses entered the tent, the pillar of cloud would come down and remain at the entrance, and the LORD[^33-9-1] would speak with Moses.
 
 <sup>10</sup> When all the people saw the pillar of cloud standing at the entrance to the tent, they would stand up and bow down, each one at the entrance to their own tent.
 
@@ -1984,7 +1984,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> So the LORD said to Moses, “I will do this very thing you have asked, for you have found favor in my sight, and I know you by name.”
 
-<sup>18</sup> Then Moses said, “Please show me your glory.”
+<sup>18</sup> Then Moses[^33-18-1] said, “Please show me your glory.”
 
 <sup>19</sup> “I will cause all my goodness to pass before you,” the LORD replied, “and I will proclaim my name—the LORD[^33-19-1]—in your presence. I will be gracious to whom I am gracious, and I will have compassion on whom I have compassion.”
 
@@ -2506,7 +2506,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>37</sup> If the cloud was not lifted, they would not set out until the day it was taken up.
 
-<sup>38</sup> For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the house of Israel through all their journeys.
+<sup>38</sup> For the cloud of the LORD was over the tabernacle by day, and fire was in the cloud[^40-38-1] by night, in the sight of all the house of Israel through all their journeys.
 
 ---
 
@@ -2557,6 +2557,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^23-25-1]: **23:25** The Greek and Vulgate read ‘I will bless’; Hebrew reads ‘he will bless’
 [^23-28-1]: **23:28** Meaning of Heb uncertain
 [^23-31-1]: **23:31** Or Sea of Reeds
+[^24-11-1]: **24:11** Heb he
 [^25-5-1]: **25:5** Meaning of Heb uncertain
 [^26-14-1]: **26:14** Meaning of Heb uncertain
 [^28-18-1]: **28:18** Or lapis lazuli
@@ -2567,8 +2568,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^29-41-1]: **29:41** Or a gift
 [^30-20-1]: **30:20** Or a gift
 [^31-3-1]: **31:3** Or the spirit of God
+[^31-18-1]: **31:18** Heb he
 [^32-4-1]: **32:4** Or fashioned it with an engraving tool; meaning of Heb uncertain
 [^33-3-1]: **33:3** Hebrew lacks ‘Go up’
+[^33-9-1]: **33:9** Heb he
+[^33-18-1]: **33:18** Heb he
 [^33-19-1]: **33:19** Heb \*YHWH\*; see the note at 3:15
 [^34-5-1]: **34:5** Heb \*YHWH\*; see the note at 3:15
 [^34-7-1]: **34:7** Or for thousands
@@ -2585,3 +2589,4 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^39-23-1]: **39:23** Meaning of Heb uncertain
 [^39-24-1]: **39:24** The Samaritan Pentateuch, the Greek, Syriac and Vulgate add ‘finely spun linen’; Hebrew lacks these words
 [^39-34-1]: **39:34** Meaning of Heb uncertain
+[^40-38-1]: **40:38** Heb it

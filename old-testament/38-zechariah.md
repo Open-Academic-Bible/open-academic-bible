@@ -428,7 +428,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> On that day the LORD will become king over all the earth—there will be one LORD, and his name one.
 
-<sup>10</sup> All the land from Geba to Rimmon south of Jerusalem will be turned into a plain, but Jerusalem will be raised up and will remain in her place, from the Benjamin Gate to the site of the First Gate to the Corner Gate, and from the Tower of Hananel to the royal winepresses.
+<sup>10</sup> All the land from Geba to Rimmon south of Jerusalem will be turned into a plain, but Jerusalem[^14-10-1] will be raised up and will remain in her place, from the Benjamin Gate to the site of the First Gate to the Corner Gate, and from the Tower of Hananel to the royal winepresses.
 
 <sup>11</sup> People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely.
 
@@ -494,6 +494,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-5-2]: **14:5** Meaning of Heb uncertain
 [^14-6-1]: **14:6** Heb there will not be light
 [^14-6-2]: **14:6** Meaning of Heb uncertain
+[^14-10-1]: **14:10** Heb it
 [^14-16-1]: **14:16** Or Tabernacles
 [^14-18-1]: **14:18** Or Tabernacles
 [^14-19-1]: **14:19** Or Tabernacles

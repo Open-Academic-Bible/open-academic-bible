@@ -296,7 +296,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> But Ahaz replied, “I will not ask; I will not test the LORD.”
 
-<sup>13</sup> Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of people? Will you try the patience of my God as well?
+<sup>13</sup> Then Isaiah[^7-13-1] said, “Hear now, O house of David! Is it not enough to try the patience of people? Will you try the patience of my God as well?
 
 <sup>14</sup> Therefore the Lord himself will give you a sign: Behold, the young woman is expecting a child and will give birth to a son, and she will call him Immanuel[^7-14-1].
 
@@ -364,7 +364,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> for instruction and for testimony?” Surely those who talk this way have no light of dawn!
 
-<sup>21</sup> They will roam the land, dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their gods[^8-21-1].
+<sup>21</sup> They will roam the land[^8-21-1], dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their gods[^8-21-2].
 
 <sup>22</sup> Then they will look to the earth and see only distress and darkness and the gloom of anguish. And they will be driven into utter darkness[^8-22-1].
 
@@ -580,7 +580,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> For the LORD will have compassion on Jacob; once again he will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.
 
-<sup>2</sup> The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations as slaves, both men and women, in the LORD’s land. They will make captives of their captors and rule over their oppressors.
+<sup>2</sup> The nations will escort Israel and bring it to its homeland. Then the house of Israel will possess the nations[^14-2-1] as slaves, both men and women, in the LORD’s land. They will make captives of their captors and rule over their oppressors.
 
 <sup>3</sup> On the day that the LORD gives you rest from your pain and torment, and from the hard labor into which you were forced,
 
@@ -1930,7 +1930,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> It is I who made the earth and created humankind upon it. It was my hands that stretched out the heavens, and I ordained all their host.
 
-<sup>13</sup> I will raise up Cyrus in righteousness, and I will make all his ways straight. He will rebuild my city and set my exiles free, but not for payment or reward, says the LORD of hosts.”
+<sup>13</sup> I will raise up Cyrus[^45-13-1] in righteousness, and I will make all his ways straight. He will rebuild my city and set my exiles free, but not for payment or reward, says the LORD of hosts.”
 
 <sup>14</sup> This is what the LORD says: “The products of Egypt and the merchandise of Cush, along with the Sabeans, men of stature, will come over to you and will be yours; they will trudge behind you; they will come over in chains and bow down to you. They will confess to you: ‘God is indeed with you, and there is no other; there is no other god.’”
 
@@ -2330,7 +2330,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> Come, all you beasts of the field; eat greedily, all you beasts of the forest.
 
-<sup>10</sup> Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber.
+<sup>10</sup> Israel’s[^56-10-1] watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber.
 
 <sup>11</sup> Like ravenous dogs, they are never satisfied. They are shepherds with no discernment; they all turn to their own way, each one seeking his own gain:
 
@@ -2734,6 +2734,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-13-1]: **6:13** Meaning of Heb uncertain
 [^7-3-1]: **7:3** Heb Shear-jashub means a remnant will return
 [^7-6-1]: **7:6** Or cut it off
+[^7-13-1]: **7:13** Heb he
 [^7-14-1]: **7:14** Heb Immanuel means God is with us
 [^7-19-1]: **7:19** Meaning of Heb uncertain
 [^8-1-1]: **8:1** Heb Maher-shalal-hash-baz means the spoil speeds, the prey hastens
@@ -2741,7 +2742,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-6-1]: **8:6** Hebrew reads ‘rejoicing in’
 [^8-9-1]: **8:9** The Greek reads ‘Take notice’; Hebrew reads ‘Be shattered’
 [^8-9-2]: **8:9** Dead Sea Scrolls lack the repeated ‘prepare for battle, and be shattered’; Hebrew repeats it
-[^8-21-1]: **8:21** Or curse by their king and their gods
+[^8-21-1]: **8:21** Heb it
+[^8-21-2]: **8:21** Or curse by their king and their gods
 [^8-22-1]: **8:22** Meaning of Heb uncertain
 [^9-3-1]: **9:3** Hebrew reads ‘multiplied the nation’
 [^9-7-1]: **9:7** Meaning of Heb uncertain; the Greek (Septuagint) is followed here
@@ -2759,6 +2761,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^12-2-2]: **12:2** Or song
 [^12-6-1]: **12:6** Or O inhabitant of Zion
 [^13-6-1]: **13:6** Heb Shaddai, traditionally rendered ‘Almighty’
+[^14-2-1]: **14:2** Heb them
 [^14-4-1]: **14:4** Meaning of Heb uncertain
 [^14-13-1]: **14:13** Or in the far north
 [^14-19-1]: **14:19** Hebrew reads ‘like a loathed branch’
@@ -2864,6 +2867,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^45-8-1]: **45:8** A Dead Sea Scroll reads ‘that salvation may sprout’; Hebrew reads ‘that they may bring forth salvation’
 [^45-9-1]: **45:9** Hebrew reads ‘with the potsherds or with the potters’
 [^45-11-1]: **45:11** Hebrew reads ‘Ask me of things to come’
+[^45-13-1]: **45:13** Heb him
 [^46-8-1]: **46:8** Meaning of Heb uncertain
 [^47-3-1]: **47:3** Meaning of Heb uncertain
 [^47-13-1]: **47:13** Meaning of Heb uncertain
@@ -2892,6 +2896,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^53-10-1]: **53:10** Meaning of Heb uncertain
 [^53-11-1]: **53:11** A Dead Sea Scroll and the Greek add ‘light’ after ‘see’; Hebrew lacks it
 [^54-11-1]: **54:11** Or lapis lazuli
+[^56-10-1]: **56:10** Heb his
 [^56-12-1]: **56:12** A Dead Sea Scroll, the Syriac, Vulgate and Targum read ‘let us get’; Hebrew reads ‘let me get’
 [^57-3-1]: **57:3** Heb an adulterer and she prostitutes herself
 [^57-8-1]: **57:8** Meaning of Heb uncertain

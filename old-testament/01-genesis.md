@@ -778,7 +778,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> As the sun was setting, Abram fell into a deep sleep, and suddenly great terror and darkness overwhelmed him.
 
-<sup>13</sup> Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.
+<sup>13</sup> Then the LORD[^15-13-1] said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.
 
 <sup>14</sup> But I will judge the nation they serve as slaves, and afterward they will depart with many possessions.
 
@@ -888,7 +888,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 18
 
-<sup>1</sup> Then the LORD appeared to Abraham by the oaks of Mamre[^18-1-1] in the heat of the day, while he was sitting at the entrance of his tent.
+<sup>1</sup> Then the LORD appeared to Abraham[^18-1-1] by the oaks of Mamre[^18-1-2] in the heat of the day, while he was sitting at the entrance of his tent.
 
 <sup>2</sup> And Abraham looked up and saw three men standing nearby. When he saw them, he ran from the entrance of his tent to meet them and bowed low to the ground.
 
@@ -1136,7 +1136,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>32</sup> After they had made the covenant at Beersheba, Abimelech and Phicol the commander of his army got up and returned to the land of the Philistines.
 
-<sup>33</sup> And Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the LORD, the Eternal God[^21-33-1].
+<sup>33</sup> And Abraham[^21-33-1] planted a tamarisk tree in Beersheba, and there he called upon the name of the LORD, the Eternal God[^21-33-2].
 
 <sup>34</sup> And Abraham resided in the land of the Philistines for a long time.
 
@@ -1442,7 +1442,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.
 
-<sup>2</sup> The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you.
+<sup>2</sup> The LORD appeared to Isaac[^26-2-1] and said, “Do not go down to Egypt. Settle in the land where I tell you.
 
 <sup>3</sup> Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham.
 
@@ -1676,7 +1676,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> He told Rachel that he was Rebekah’s son, a relative of her father, and she ran and told her father.
 
-<sup>13</sup> When Laban heard the news about his sister’s son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob told him all that had happened.
+<sup>13</sup> When Laban heard the news about his sister’s son Jacob, he ran out to meet him. He embraced him and kissed him and brought him to his home, where Jacob[^29-13-1] told him all that had happened.
 
 <sup>14</sup> Then Laban declared, “You are indeed my own flesh and blood.” After Jacob had stayed with him a month,
 
@@ -1710,7 +1710,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>29</sup> Laban also gave his servant girl Bilhah to his daughter Rachel as her maidservant.
 
-<sup>30</sup> Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban another seven years.
+<sup>30</sup> Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban[^29-30-1] another seven years.
 
 <sup>31</sup> When the LORD saw that Leah was unloved, he opened her womb; but Rachel was barren.
 
@@ -1874,7 +1874,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>31</sup> “I was afraid,” Jacob answered, “for I thought you would take your daughters from me by force.
 
-<sup>32</sup> If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the gods.
+<sup>32</sup> If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the gods[^31-32-1].
 
 <sup>33</sup> So Laban went into Jacob’s tent, then Leah’s tent, and then the tents of the two maidservants, but he found nothing. Then he left Leah’s tent and entered Rachel’s tent.
 
@@ -1978,7 +1978,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> “What is your name?” the man asked. “Jacob,” he replied.
 
-<sup>28</sup> Then the man said, “Your name will no longer be Jacob, but Israel[^32-28-1], because you have struggled with God and with humans[^32-28-2], and you have prevailed.”
+<sup>28</sup> Then the man[^32-28-1] said, “Your name will no longer be Jacob, but Israel[^32-28-2], because you have struggled with God and with humans[^32-28-3], and you have prevailed.”
 
 <sup>29</sup> And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there.
 
@@ -2040,7 +2040,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> So Shechem told his father Hamor, “Get me this girl as a wife.”
 
-<sup>5</sup> Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.
+<sup>5</sup> Jacob heard that Shechem[^34-5-1] had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.
 
 <sup>6</sup> Meanwhile, Shechem’s father Hamor came to speak with Jacob.
 
@@ -3213,6 +3213,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-22-1]: **14:22** The Greek and Syriac read God Most High; Heb the LORD God Most High
 [^15-2-1]: **15:2** Meaning of Heb uncertain
 [^15-6-1]: **15:6** Heb he
+[^15-13-1]: **15:13** Heb he
 [^16-11-1]: **16:11** Heb Ishmael means God hears
 [^16-13-1]: **16:13** Or God of seeing; or God who sees
 [^16-13-2]: **16:13** Meaning of Heb uncertain
@@ -3222,7 +3223,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-5-1]: **17:5** Heb Abram means exalted father
 [^17-5-2]: **17:5** Heb Abraham sounds like father of a multitude
 [^17-19-1]: **17:19** Heb Isaac means he laughs
-[^18-1-1]: **18:1** Or terebinths
+[^18-1-1]: **18:1** Heb him
+[^18-1-2]: **18:1** Or terebinths
 [^18-18-1]: **18:18** Or and all the nations of the earth will bless themselves by him
 [^18-19-1]: **18:19** Heb known
 [^18-22-1]: **18:22** Or while the LORD remained standing before Abraham
@@ -3233,7 +3235,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-38-1]: **19:38** Heb Ben-ammi means son of my kinsman
 [^21-9-1]: **21:9** The Greek and Vulgate read with her son Isaac; Hebrew lacks these words
 [^21-31-1]: **21:31** Heb Beer-sheba means well of seven or well of the oath
-[^21-33-1]: **21:33** Or the LORD, El Olam
+[^21-33-1]: **21:33** Heb he
+[^21-33-2]: **21:33** Or the LORD, El Olam
 [^22-14-1]: **22:14** Or the LORD will see; Heb Yahweh-yireh
 [^22-14-2]: **22:14** Or he will be seen
 [^24-62-1]: **24:62** Syriac and the Aramaic Targum read from Beer-lahai-roi; Heb from coming to Beer-lahai-roi
@@ -3243,6 +3246,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^25-22-1]: **25:22** Meaning of Heb uncertain
 [^25-26-1]: **25:26** Heb Jacob sounds like he takes by the heel or he supplants
 [^25-30-1]: **25:30** Heb Edom means red
+[^26-2-1]: **26:2** Heb him
 [^26-20-1]: **26:20** Heb Esek means contention
 [^26-21-1]: **26:21** Heb Sitnah means enmity
 [^26-22-1]: **26:22** Heb Rehoboth means broad places or room
@@ -3256,7 +3260,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^28-13-1]: **28:13** Or standing above it
 [^28-14-1]: **28:14** Or will bless themselves by you and your offspring
 [^28-19-1]: **28:19** Heb Bethel means house of God
+[^29-13-1]: **29:13** Heb he
 [^29-17-1]: **29:17** Meaning of Heb uncertain
+[^29-30-1]: **29:30** Heb him
 [^29-32-1]: **29:32** Heb Reuben sounds like see, a son
 [^29-33-1]: **29:33** Heb Simeon sounds like the verb for has heard
 [^29-34-1]: **29:34** Heb Levi sounds like the verb for will be joined
@@ -3269,18 +3275,21 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^30-20-1]: **30:20** Heb Zebulun sounds like the verb for honor
 [^30-24-1]: **30:24** Heb Joseph means he adds
 [^31-21-1]: **31:21** Heb the River
+[^31-32-1]: **31:32** Heb them
 [^31-42-1]: **31:42** Meaning of Heb uncertain
 [^31-47-1]: **31:47** Aramaic Jegar-sahadutha means heap of witness
 [^31-47-2]: **31:47** Heb Galeed means heap of witness
 [^31-49-1]: **31:49** Hebrew lacks the pillar; supplied by conjecture
 [^31-53-1]: **31:53** Most Hebrew manuscripts add the God of their father; some Hebrew manuscripts and the Greek lack it
 [^32-2-1]: **32:2** Heb Mahanaim means two camps
-[^32-28-1]: **32:28** Heb Israel means the one who strives with God, or God strives
-[^32-28-2]: **32:28** Or with divine and human beings
+[^32-28-1]: **32:28** Heb he
+[^32-28-2]: **32:28** Heb Israel means the one who strives with God, or God strives
+[^32-28-3]: **32:28** Or with divine and human beings
 [^32-30-1]: **32:30** Heb Peniel means the face of God
 [^33-17-1]: **33:17** Heb Succoth means booths
 [^33-19-1]: **33:19** Heb one hundred qesitah
 [^33-20-1]: **33:20** Heb El-Elohe-Israel means God, the God of Israel
+[^34-5-1]: **34:5** Heb he
 [^35-7-1]: **35:7** Heb El-bethel means God of Bethel
 [^35-8-1]: **35:8** Heb Allon-bacuth means oak of weeping
 [^35-11-1]: **35:11** Traditional rendering of Heb El Shaddai

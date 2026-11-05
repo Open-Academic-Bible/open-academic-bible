@@ -236,7 +236,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 5
 
-<sup>1</sup> “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.
+<sup>1</sup> “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city[^5-1-1].
 
 <sup>2</sup> Although they say, ‘As surely as the LORD lives,’ they are swearing falsely.”
 
@@ -2498,7 +2498,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> As Sodom and Gomorrah were overthrown along with their neighbors,” says the LORD, “no one will dwell there; no man will abide there.
 
-<sup>19</sup> Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Edom from her land. I will place over it the one I choose[^49-19-1]. For who is like me, and who can challenge me? What shepherd can stand against me?”
+<sup>19</sup> Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Edom[^49-19-1] from her land. I will place over it the one I choose[^49-19-2]. For who is like me, and who can challenge me? What shepherd can stand against me?”
 
 <sup>20</sup> Therefore hear the plans that the LORD has drawn up against Edom and the strategies he has devised against the people of Teman: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them.
 
@@ -2850,6 +2850,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-5-1]: **4:5** Or Cry aloud, take your weapons; Heb Cry aloud, fill (your hand)
 [^4-11-1]: **4:11** Or the trails
 [^4-19-1]: **4:19** Or for you, my soul, have heard
+[^5-1-1]: **5:1** Heb her
 [^5-26-1]: **5:26** Meaning of Heb uncertain
 [^5-31-1]: **5:31** Or the priests rule by their own authority
 [^6-2-1]: **6:2** Or I will destroy the daughter of Zion, the lovely pasture
@@ -2967,7 +2968,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^49-3-3]: **49:3** The Greek, Vulgate, and Syriac read ‘Milcom’; Hebrew reads ‘their king’
 [^49-4-1]: **49:4** The Greek has ‘saying’; Hebrew lacks it
 [^49-16-1]: **49:16** Or of Sela
-[^49-19-1]: **49:19** Meaning of Heb uncertain
+[^49-19-1]: **49:19** Heb him
+[^49-19-2]: **49:19** Meaning of Heb uncertain
 [^49-21-1]: **49:21** Or Sea of Reeds
 [^49-23-1]: **49:23** Heb there is trouble in the sea
 [^49-25-1]: **49:25** Heb is not forsaken

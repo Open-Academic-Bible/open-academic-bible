@@ -178,7 +178,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> “As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.
 
-<sup>2</sup> When the days of the siege have ended, you are to burn up a third of the hair inside the city; you are also to take a third and slash it with the sword all around the city; and you are to scatter a third to the wind. For I will unleash a sword behind them.
+<sup>2</sup> When the days of the siege have ended, you are to burn up a third of the hair inside the city; you are also to take a third and slash it with the sword all around the city[^5-2-1]; and you are to scatter a third to the wind. For I will unleash a sword behind them.
 
 <sup>3</sup> But you are to take a few strands of hair and secure them in the folds of your garment.
 
@@ -1024,7 +1024,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> it is sharpened for the slaughter, polished to flash like lightning! And how shall we rejoice[^21-10-1]? You have scorned the rod and every correction.
 
-<sup>11</sup> The sword is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer.
+<sup>11</sup> The sword[^21-11-1] is appointed to be polished, to be grasped in the hand. It is sharpened and polished, to be placed in the hand of the slayer.
 
 <sup>12</sup> Cry out and wail, O son of man, for the sword is wielded against my people; it is against all the princes of Israel! They are tossed to the sword with my people; therefore strike your thigh.
 
@@ -1528,7 +1528,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Egypt will be the lowliest of kingdoms and will never again exalt itself above the nations. For I will diminish Egypt so that it will never again rule over the nations.
 
-<sup>16</sup> Egypt will never again be an object of trust for the house of Israel, but will remind them of their iniquity in turning to the Egyptians. Then they will know that I am the Lord GOD.”
+<sup>16</sup> Egypt will[^29-16-1] never again be an object of trust for the house of Israel, but will remind them of their iniquity in turning to the Egyptians. Then they will know that I am the Lord GOD.”
 
 <sup>17</sup> In the twenty-seventh year, on the first day of the first month, the word of the LORD came to me, saying,
 
@@ -1672,7 +1672,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> Whom do you surpass in beauty? Go down and be placed with the uncircumcised!
 
-<sup>20</sup> They will fall among those slain by the sword. Egypt is given over to the sword! Let them drag her away along with all her multitudes.
+<sup>20</sup> They will fall among those slain by the sword. Egypt is[^32-20-1] given over to the sword! Let them drag her away along with all her multitudes.
 
 <sup>21</sup> Mighty chiefs will speak from the midst of Sheol about Egypt and her allies: ‘They have come down and lie with the uncircumcised, with those slain by the sword.’
 
@@ -1682,7 +1682,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> Elam is there with all her multitudes around her grave. All of them are slain, fallen by the sword—those who went down uncircumcised to the earth below, who once spread their terror in the land of the living. They bear their disgrace with those who descend to the Pit.
 
-<sup>25</sup> Among the slain they prepare a resting place for Elam with all her hordes, with her graves all around her. All of them are uncircumcised, slain by the sword, although their terror was once spread in the land of the living. They bear their disgrace with those who descend to the Pit. They are placed among the slain.
+<sup>25</sup> Among the slain they prepare a resting place for Elam[^32-25-1] with all her hordes, with her graves all around her. All of them are uncircumcised, slain by the sword, although their terror was once spread in the land of the living. They bear their disgrace with those who descend to the Pit. They are placed among the slain.
 
 <sup>26</sup> Meshech and Tubal are there with all their multitudes, with their graves all around them. All of them are uncircumcised, slain by the sword, because they spread their terror in the land of the living.
 
@@ -2040,7 +2040,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> The fish of the sea, the birds of the air, the beasts of the field, every creature that crawls upon the ground, and all people on the face of the earth will tremble at my presence. The mountains will be thrown down, the cliffs will collapse, and every wall will fall to the ground.
 
-<sup>21</sup> And I will summon a sword against Gog on all my mountains[^38-21-1], declares the Lord GOD, and everyone’s sword will be against a comrade.
+<sup>21</sup> And I will summon a sword against Gog[^38-21-1] on all my mountains[^38-21-2], declares the Lord GOD, and everyone’s sword will be against a comrade.
 
 <sup>22</sup> I will execute judgment upon him with plague and bloodshed. I will pour out torrents of rain, hailstones, fire, and sulfur on him and on his troops and on the many nations with him.
 
@@ -2655,6 +2655,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-12-1]: **3:12** Hebrew reads ‘and blessed be the glory of the LORD’; the reading ‘as it rose’ is a scholarly conjecture
 [^3-15-1]: **3:15** Some Hebrew manuscripts and the Syriac lack ‘and where they sat’; the standard Hebrew text has these words
 [^4-16-1]: **4:16** Heb staff of bread
+[^5-2-1]: **5:2** Heb it
 [^5-15-1]: **5:15** A Dead Sea Scroll, the Greek, Syriac, Vulgate and Targum read ‘you will be’; Hebrew reads ‘it will be’
 [^5-16-1]: **5:16** Heb staff of bread
 [^6-6-1]: **6:6** The Syriac, Vulgate and Targum read ‘and ruined’; Hebrew reads ‘and will bear their punishment’
@@ -2704,6 +2705,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-11-1]: **19:11** Heb Its strong branches became rulers’ scepters
 [^20-29-1]: **20:29** Heb Bamah means high place
 [^21-10-1]: **21:10** Meaning of Heb uncertain
+[^21-11-1]: **21:11** Heb It
 [^21-13-1]: **21:13** Meaning of Heb uncertain
 [^21-15-1]: **21:15** Meaning of Heb uncertain
 [^21-20-1]: **21:20** The Greek and Syriac read ‘and to’; Hebrew reads ‘Judah in’
@@ -2754,6 +2756,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^29-6-1]: **29:6** The Greek, Syriac and Vulgate read ‘you were’; Hebrew reads ‘they were’
 [^29-7-1]: **29:7** The Syriac reads ‘give way’; Hebrew reads ‘stand’
 [^29-9-1]: **29:9** The Greek, Syriac and Vulgate read ‘you’; Hebrew reads ‘he’
+[^29-16-1]: **29:16** Heb It
 [^30-3-1]: **30:3** Hebrew lacks ‘of doom’
 [^30-5-1]: **30:5** The Greek, Syriac and Vulgate read ‘Libya’; Hebrew reads ‘Cub’
 [^30-5-2]: **30:5** Meaning of Heb uncertain
@@ -2764,6 +2767,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^32-5-1]: **32:5** Symmachus, the Syriac and Vulgate read ‘your carcass’; Hebrew reads ‘your height’
 [^32-9-1]: **32:9** The Greek reads ‘carry you captive’; Hebrew reads ‘bring your destruction’
 [^32-17-1]: **32:17** The Greek reads ‘in the first month’; Hebrew lacks these words
+[^32-20-1]: **32:20** Heb It
+[^32-25-1]: **32:25** Heb it
 [^32-27-1]: **32:27** The Greek and Old Latin read ‘of old’; Hebrew reads ‘of the uncircumcised’
 [^32-27-2]: **32:27** Hebrew reads ‘their iniquities were upon their bones’
 [^32-32-1]: **32:32** Hebrew reads ‘I’
@@ -2783,7 +2788,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^38-12-1]: **38:12** Heb navel
 [^38-13-1]: **38:13** Heb young lions
 [^38-14-1]: **38:14** The Greek reads ‘you will rouse yourself’; Hebrew reads ‘will you not know?’
-[^38-21-1]: **38:21** Heb to or for
+[^38-21-1]: **38:21** Heb him
+[^38-21-2]: **38:21** Heb to or for
 [^39-11-1]: **39:11** Or of the Abarim
 [^39-11-2]: **39:11** Hamon-gog means the horde of Gog
 [^39-14-1]: **39:14** Heb travelers

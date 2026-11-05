@@ -220,7 +220,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> Elisha turned away and paced back and forth across the room. Then he got on the bed and stretched himself out over the boy again, and the boy sneezed seven times and opened his eyes.
 
-<sup>36</sup> Elisha summoned Gehazi and said, “Call the Shunammite woman.” So he called her and she came. Then Elisha said, “Pick up your son.”
+<sup>36</sup> Elisha summoned[^4-36-1] Gehazi and said, “Call the Shunammite woman.” So he called her and she came. Then Elisha said, “Pick up your son.”
 
 <sup>37</sup> She came in, fell at his feet, and bowed to the ground. Then she picked up her son and went out.
 
@@ -246,7 +246,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”
 
-<sup>4</sup> And Naaman went and told his master what the girl from the land of Israel had said.
+<sup>4</sup> And Naaman[^5-4-1] went and told his master what the girl from the land of Israel had said.
 
 <sup>5</sup> “Go now,” said the king of Aram, “and I will send you with a letter to the king of Israel.” So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.
 
@@ -284,7 +284,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>22</sup> “Everything is all right,” Gehazi replied. “My master has sent me to say, ‘Look, two young men from the sons of the prophets have just now come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.’”
 
-<sup>23</sup> But Naaman insisted, “Please, take two talents.” And he urged Gehazi to accept them. Then he tied up two talents of silver in two bags along with two sets of clothing and gave them to two of his servants, who carried them ahead of Gehazi.
+<sup>23</sup> But Naaman insisted, “Please, take two talents.” And he urged Gehazi to accept them. Then he tied up two talents of silver in two bags along with two sets of clothing and gave them to two of his servants, who carried them ahead of Gehazi[^5-23-1].
 
 <sup>24</sup> When Gehazi came to the hill, he took the gifts from the servants[^5-24-1] and stored them in the house. Then he dismissed the men, and they departed.
 
@@ -330,7 +330,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha.
 
-<sup>18</sup> As the Arameans came down against him, Elisha prayed to the LORD, “Please strike these people with blindness.” So he struck them with blindness, according to the word of Elisha.
+<sup>18</sup> As the Arameans[^6-18-1] came down against him, Elisha prayed to the LORD, “Please strike these people with blindness.” So he struck them with blindness, according to the word of Elisha.
 
 <sup>19</sup> And Elisha told them, “This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking.” And he led them to Samaria.
 
@@ -476,7 +476,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> and when he arrived, the army commanders were sitting there. “I have a message for you, commander,” he said. “For which of us?” asked Jehu. “For you, commander,” he replied.
 
-<sup>6</sup> So Jehu got up and went into the house, where the young prophet poured the oil on his head and declared, “This is what the LORD, the God of Israel, says: ‘I anoint you king over the LORD’s people Israel.
+<sup>6</sup> So Jehu[^9-6-1] got up and went into the house, where the young prophet poured the oil on his head and declared, “This is what the LORD, the God of Israel, says: ‘I anoint you king over the LORD’s people Israel.
 
 <sup>7</sup> And you are to strike down the house of your master Ahab, so that I may avenge the blood of my servants the prophets and the blood of all the servants of the LORD shed by the hand of Jezebel.
 
@@ -1497,15 +1497,20 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-17-1]: **3:17** The Greek reads ‘your army’; Hebrew reads ‘your cattle’
 [^3-24-1]: **3:24** Meaning of Heb uncertain
 [^4-34-1]: **4:34** Hebrew lacks ‘on the bed’
+[^4-36-1]: **4:36** Heb he
 [^5-1-1]: **5:1** Heb tsaraat; the terms leper and leprosy can refer to several diseases
+[^5-4-1]: **5:4** Heb he
 [^5-12-1]: **5:12** Some Hebrew manuscripts read ‘Amanah’
+[^5-23-1]: **5:23** Heb him
 [^5-24-1]: **5:24** Hebrew lacks ‘the gifts’
 [^6-11-1]: **6:11** The Greek and the Aramaic Targum suggest ‘betraying us to’; Hebrew reads ‘is with’
+[^6-18-1]: **6:18** Heb they
 [^6-33-1]: **6:33** Hebrew reads ‘the messenger’
 [^7-3-1]: **7:3** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^7-13-1]: **7:13** Meaning of Heb uncertain
 [^8-16-1]: **8:16** Hebrew adds ‘while Jehoshaphat was king of Judah’; the Greek and Syriac lack these words
 [^8-21-1]: **8:21** Meaning of Heb uncertain
+[^9-6-1]: **9:6** Heb he
 [^9-13-1]: **9:13** Meaning of Heb uncertain
 [^9-22-1]: **9:22** Or idolatries
 [^9-27-1]: **9:27** The Syriac and Vulgate read ‘they shot him’; Hebrew lacks these words

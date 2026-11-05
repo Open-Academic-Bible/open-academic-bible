@@ -382,7 +382,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>31</sup> just as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the book of the law of Moses: “an altar of uncut stones on which no iron tool has been used.” And on it they offered burnt offerings to the LORD, and they sacrificed peace offerings.
 
-<sup>32</sup> And there in the presence of the Israelites, Joshua inscribed on the stones a copy of the law of Moses, which he had written.
+<sup>32</sup> And there in the presence of the Israelites, Joshua[^8-32-1] inscribed on the stones a copy of the law of Moses, which he had written.
 
 <sup>33</sup> All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.
 
@@ -758,7 +758,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> And the western border was the coastline of the Great Sea. These are the boundaries around the clans of the descendants of Judah.
 
-<sup>13</sup> According to the LORD’s command to him, Joshua gave Caleb son of Jephunneh a portion among the descendants of Judah—Kiriath-arba, that is, Hebron. (Arba was the forefather of Anak.)
+<sup>13</sup> According to the LORD’s command to him, Joshua[^15-13-1] gave Caleb son of Jephunneh a portion among the descendants of Judah—Kiriath-arba, that is, Hebron. (Arba was the forefather of Anak.)
 
 <sup>14</sup> And Caleb drove out from there the three sons of Anak—the descendants of Sheshai, Ahiman, and Talmai, the children of Anak.
 
@@ -1380,6 +1380,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-26-1]: **7:26** Heb Achor means trouble
 [^8-17-1]: **8:17** Hebrew adds ‘or Bethel’
 [^8-30-1]: **8:30** A Dead Sea Scroll places 8:30–35 before 5:1
+[^8-32-1]: **8:32** Heb he
 [^9-4-1]: **9:4** Some Hebrew manuscripts, the Greek and Syriac read ‘set out as envoys’; meaning of Hebrew uncertain
 [^9-14-1]: **9:14** The Greek (Septuagint) reads ‘leaders’; Hebrew reads ‘men’
 [^10-2-1]: **10:2** Some Hebrew manuscripts, a Syriac manuscript and the Vulgate read ‘he’; the standard Hebrew text reads ‘they’
@@ -1388,6 +1389,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-8-1]: **13:8** Hebrew reads ‘with it’
 [^13-14-1]: **13:14** Or gifts
 [^13-26-1]: **13:26** The Greek, Syriac and Vulgate read ‘Debir’; Hebrew reads ‘Lidebir’
+[^15-13-1]: **15:13** Heb he
 [^17-11-1]: **17:11** Meaning of Heb uncertain
 [^18-15-1]: **18:15** Meaning of Heb uncertain
 [^18-18-1]: **18:18** The Greek (Septuagint) reads ‘Beth-arabah’; Hebrew reads ‘the slope opposite the Arabah’
