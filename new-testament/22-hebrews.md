@@ -8,7 +8,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> But in these last days he has spoken to us by a Son[^1-2-1], whom he appointed heir of all things, and through whom he also made the worlds.
 
-<sup>3</sup> The Son is the reflection of God’s glory and the exact representation of his being, upholding all things[^1-3-1] by his powerful word. After he had provided purification for sins[^1-3-2], he sat down at the right hand of the Majesty on high.
+<sup>3</sup> The Son is the reflection[^1-3-3] of God’s glory and the exact representation of his being, upholding all things[^1-3-1] by his powerful word. After he had provided purification for sins[^1-3-2], he sat down at the right hand of the Majesty on high.
 
 <sup>4</sup> So he became as far superior to the angels as the name he has inherited is excellent beyond theirs.
 
@@ -330,7 +330,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> For if the blood of goats and bulls and the ashes of a heifer sprinkled on the defiled sanctify them for the cleansing of the flesh,
 
-<sup>14</sup> how much more will the blood of Christ, who through the eternal Spirit[^9-14-1] offered himself unblemished to God, cleanse our conscience[^9-14-2] of works that are dead, so that we may serve the living God!
+<sup>14</sup> how much more will the blood of Christ, who through the eternal Spirit[^9-14-1][^9-14-3] offered himself unblemished to God, cleanse our conscience[^9-14-2] of works that are dead, so that we may serve the living God!
 
 <sup>15</sup> Therefore he is the mediator of a new covenant[^9-15-1], so that those who are called may receive the promised eternal inheritance, now that he has died to redeem them from the transgressions committed under the first covenant.
 
@@ -462,7 +462,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> For he was looking forward to the city with foundations, whose architect and builder is God.
 
-<sup>11</sup> By faith, together with Sarah, he received the power to father a child, even though he was past the age, because he regarded the one who had promised as faithful[^11-11-1].
+<sup>11</sup> By faith, together with Sarah, he received the power to father a child[^11-11-2], even though he was past the age, because he regarded the one who had promised as faithful[^11-11-1].
 
 <sup>12</sup> And so from one person, who was as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.
 
@@ -637,6 +637,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 ---
 
 [^1-2-1]: **1:2** Or the Son
+[^1-3-3]: **1:3** Or radiance
 [^1-3-1]: **1:3** Or carrying all things along
 [^1-3-2]: **1:3** Some manuscripts add our
 [^1-8-1]: **1:8** Or God is your throne
@@ -689,11 +690,12 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-11-1]: **8:11** Some manuscripts read neighbor
 [^8-12-1]: **8:12** Some manuscripts add and their lawless deeds
 [^9-1-1]: **9:1** Some manuscripts add even
-[^9-2-1]: **9:2** Gk the setting out of the loaves
+[^9-2-1]: **9:2** Gk the setting out of the loaves; that is, the bread of the Presence
 [^9-5-1]: **9:5** Or the place of atonement
 [^9-9-1]: **9:9** Gk parable
 [^9-11-1]: **9:11** Some manuscripts read good things to come
 [^9-14-1]: **9:14** Some manuscripts read Holy Spirit
+[^9-14-3]: **9:14** Or spirit
 [^9-14-2]: **9:14** Some manuscripts read your
 [^9-15-1]: **9:15** Gk the same word means both covenant and will
 [^9-16-1]: **9:16** Gk the same word means both covenant and will
@@ -707,6 +709,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-1-1]: **11:1** Or reality
 [^11-1-2]: **11:1** Or evidence
 [^11-3-1]: **11:3** Or was not made out of visible things
+[^11-11-2]: **11:11** Gk power for the deposit of seed
 [^11-11-1]: **11:11** Some manuscripts read By faith Sarah herself received power to conceive, even when she was past the age, since she considered
 [^11-23-1]: **11:23** Some manuscripts add By faith Moses, when he was grown, killed the Egyptian, because he observed the humiliation of his brothers and sisters
 [^11-26-1]: **11:26** Or the Messiah
