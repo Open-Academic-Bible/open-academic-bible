@@ -618,7 +618,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> the king of Tappuah, one; the king of Hepher, one;
 
-<sup>18</sup> the king of Aphek, one; the king of Lasharon, one;
+<sup>18</sup> the king of Aphek, one; the king of Lasharon[^12-18-1], one;
 
 <sup>19</sup> the king of Madon, one; the king of Hazor, one;
 
@@ -1385,6 +1385,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-14-1]: **9:14** The Greek (Septuagint) reads ‘leaders’; Hebrew reads ‘men’
 [^10-2-1]: **10:2** Some Hebrew manuscripts, a Syriac manuscript and the Vulgate read ‘he’; the standard Hebrew text reads ‘they’
 [^12-4-1]: **12:4** Hebrew reads ‘and the boundary of King Og’
+[^12-18-1]: **12:18** Heb to the Sharon
 [^12-23-1]: **12:23** The Greek (Septuagint) reads ‘Galilee’; Hebrew reads ‘Gilgal’
 [^13-8-1]: **13:8** Hebrew reads ‘with it’
 [^13-14-1]: **13:14** Or gifts

@@ -6,7 +6,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.
 
-<sup>2</sup> The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon[^1-2-1] and Chilion[^1-2-2]. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.
+<sup>2</sup> The man’s name was Elimelech[^1-2-3], his wife’s name was Naomi, and the names of his two sons were Mahlon[^1-2-1] and Chilion[^1-2-2]. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.
 
 <sup>3</sup> Then Naomi’s husband Elimelech died, and she was left with her two sons,
 
@@ -114,7 +114,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!
 
-<sup>9</sup> “Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment over me, for you are our next of kin[^3-9-1].”
+<sup>9</sup> “Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment[^3-9-2] over me, for you are our next of kin[^3-9-1].”
 
 <sup>10</sup> Then Boaz said, “May the LORD bless you, my daughter. You have shown more kindness now than before, because you have not run after the younger men, whether rich or poor.
 
@@ -182,6 +182,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ---
 
+[^1-2-3]: **1:2** Heb Elimelech means my God is king
 [^1-2-1]: **1:2** Heb Mahlon may mean sickly
 [^1-2-2]: **1:2** Heb Chilion may mean frail
 [^1-20-1]: **1:20** Heb Naomi means pleasant
@@ -191,6 +192,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-21-2]: **1:21** Traditional rendering of Heb Shaddai
 [^2-7-1]: **2:7** Meaning of Heb uncertain
 [^2-20-1]: **2:20** Or one with the right to redeem
+[^3-9-2]: **3:9** Heb wing
 [^3-9-1]: **3:9** Or one with the right to redeem, here and in verses 12 and 13
 [^3-16-1]: **3:16** Heb Who are you, my daughter?
 [^4-1-1]: **4:1** Or one with the right to redeem, here and in verses 3, 6, 8 and 14

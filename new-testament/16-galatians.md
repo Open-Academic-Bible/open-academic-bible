@@ -100,7 +100,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.
 
-<sup>2</sup> I would like to learn just one thing from you: Did you receive the Spirit by works of the law, or by believing what you heard?
+<sup>2</sup> I would like to learn just one thing from you: Did you receive the Spirit by works of the law, or by believing what you heard[^3-2-1]?
 
 <sup>3</sup> Are you so foolish? After starting in the Spirit, are you now finishing in the flesh?
 
@@ -144,7 +144,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>23</sup> Before this faith came, we were held in custody under the law, locked up until faith should be revealed.
 
-<sup>24</sup> So the law became our disciplinarian until Christ came, in order that we might be reckoned righteous[^3-24-1] by faith.
+<sup>24</sup> So the law became our disciplinarian until Christ came[^3-24-2], in order that we might be reckoned righteous[^3-24-1] by faith.
 
 <sup>25</sup> Now that faith has come, we are no longer under a disciplinarian.
 
@@ -306,7 +306,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> For neither circumcision nor uncircumcision[^6-15-1] means anything. What counts is a new creation.
 
-<sup>16</sup> Peace and mercy to all who walk by this rule, and upon the Israel of God.
+<sup>16</sup> Peace and mercy to all who walk by this rule, and upon the Israel of God[^6-16-1].
 
 <sup>17</sup> From now on let no one cause me trouble, for I bear on my body the marks of Jesus.
 
@@ -325,13 +325,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-16-3]: **2:16** Or faith in Christ
 [^2-20-1]: **2:20** Or by faith in the Son of God
 [^2-21-1]: **2:21** Or justification
+[^3-2-1]: **3:2** Or by the message of faith
 [^3-5-1]: **3:5** Gk he
 [^3-11-1]: **3:11** Or The one who is righteous through faith will live
 [^3-15-1]: **3:15** Or covenant
 [^3-22-1]: **3:22** Or through faith in Jesus Christ
+[^3-24-2]: **3:24** Or to bring us to Christ
 [^3-24-1]: **3:24** Or be justified
 [^3-26-1]: **3:26** Or children
-[^4-3-1]: **4:3** Or spirits
+[^4-3-1]: **4:3** Or elemental spirits; or elements
 [^4-6-1]: **4:6** Or children
 [^4-6-2]: **4:6** Some manuscripts read your
 [^4-7-1]: **4:7** Or child, here and in the next clause
@@ -347,3 +349,4 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-2-1]: **6:2** Some manuscripts read in this way fulfill
 [^6-14-1]: **6:14** Or through whom
 [^6-15-1]: **6:15** Some manuscripts add in Christ Jesus
+[^6-16-1]: **6:16** Or even upon the Israel of God
