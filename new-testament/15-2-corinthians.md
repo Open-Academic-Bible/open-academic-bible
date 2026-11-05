@@ -170,7 +170,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> For in this tent we groan, longing to be clothed with our heavenly dwelling,
 
-<sup>3</sup> if indeed, when we are clothed[^5-3-1],, we will not be found naked.
+<sup>3</sup> if indeed, when we are clothed[^5-3-1], we will not be found naked.
 
 <sup>4</sup> For while we are in this tent, we groan under our burdens, because we do not wish to be unclothed but clothed, so that our mortality may be swallowed up by life.
 
