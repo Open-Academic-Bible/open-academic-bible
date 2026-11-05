@@ -10,7 +10,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> regarding his Son, who was a descendant of David according to the flesh,
 
-<sup>4</sup> and who was declared Son of God in power, in keeping with the spirit of holiness[^1-4-1], through the resurrection from the dead: Jesus Christ our Lord.
+<sup>4</sup> and who was declared Son of God in power, in keeping with the spirit of holiness[^1-4-1], through the resurrection from the dead[^1-4-2]: Jesus Christ our Lord.
 
 <sup>5</sup> Through him and for the sake of his name we received grace and apostleship, to bring about the obedience of faith among all the gentiles.
 
@@ -36,7 +36,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes[^1-16-1], to the Jew first and also to the Greek.
 
-<sup>17</sup> For in the gospel the righteousness of God is revealed from faith to faith, as it is written: “The righteous person will live by faith.[^1-17-1]”
+<sup>17</sup> For in the gospel the righteousness of God is revealed from faith to faith[^1-17-2], as it is written: “The righteous person will live by faith.[^1-17-1]”
 
 <sup>18</sup> The wrath of God is being revealed from heaven against all the godlessness and injustice of people who suppress the truth by their injustice.
 
@@ -178,7 +178,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> and are justified freely by his grace through the redemption that is in Christ Jesus.
 
-<sup>25</sup> God presented him as an atoning sacrifice[^3-25-1] in his blood through faith, in order to demonstrate his righteousness, because in his forbearance he had passed over the sins committed beforehand.
+<sup>25</sup> God presented him as an atoning sacrifice[^3-25-1] in his blood through faith[^3-25-2], in order to demonstrate his righteousness, because in his forbearance he had passed over the sins committed beforehand.
 
 <sup>26</sup> He did this to demonstrate his righteousness at the present time, so as to be just and to justify the one who shares the faith of Jesus[^3-26-1].
 
@@ -194,7 +194,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ## Chapter 4
 
-<sup>1</sup> What then shall we say that Abraham, our forefather according to the flesh, has gained?[^4-1-1]
+<sup>1</sup> What then shall we say that Abraham, our forefather according to the flesh, has gained[^4-1-2]?[^4-1-1]
 
 <sup>2</sup> If Abraham was indeed justified by works, he had something to boast about, but not before God.
 
@@ -456,7 +456,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>33</sup> Who will bring any charge against God’s elect? It is God who justifies.
 
-<sup>34</sup> Who is to condemn? Christ, who died[^8-34-1], and more than that was raised, is at the right hand of God and also intercedes for us.
+<sup>34</sup> Who is to condemn? Christ, who died[^8-34-1], and more than that was raised, is at the right hand of God and also intercedes for us[^8-34-2].
 
 <sup>35</sup> Who shall separate us from the love of Christ? Shall trouble or distress or persecution or famine or nakedness or danger or sword?
 
@@ -570,7 +570,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> But not all of them obeyed the good news[^10-16-1]. For Isaiah says, “Lord, who has believed our message[^10-16-2]?”
 
-<sup>17</sup> Consequently, faith[^10-17-2] comes by hearing, and hearing by the word of Christ[^10-17-1].
+<sup>17</sup> Consequently, faith[^10-17-2] comes by hearing[^10-17-3], and hearing by the word of Christ[^10-17-1].
 
 <sup>18</sup> But I ask, did they not hear? Indeed they did: “Their voice has gone out into all the earth, their words to the ends of the world.”
 
@@ -858,7 +858,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Greet Mary, who has worked very hard for you.
 
-<sup>7</sup> Greet Andronicus and Junia[^16-7-1], my fellow Israelites and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was.
+<sup>7</sup> Greet Andronicus and Junia[^16-7-1], my fellow Israelites[^16-7-2] and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was.
 
 <sup>8</sup> Greet Ampliatus, my beloved in the Lord.
 
@@ -866,7 +866,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.
 
-<sup>11</sup> Greet Herodion, my fellow Israelite. Greet those from the household of Narcissus who are in the Lord.
+<sup>11</sup> Greet Herodion, my fellow Israelite[^16-11-1]. Greet those from the household of Narcissus who are in the Lord.
 
 <sup>12</sup> Greet Tryphena and Tryphosa, women who have worked hard in the Lord. Greet my beloved Persis, who has worked very hard in the Lord.
 
@@ -886,7 +886,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.[^16-20-1][^16-20-2]
 
-<sup>21</sup> Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow Israelites.
+<sup>21</sup> Timothy, my fellow worker, sends you greetings, as do Lucius, Jason, and Sosipater, my fellow Israelites[^16-21-1].
 
 <sup>22</sup> I, Tertius, who wrote down this letter, greet you in the Lord.[^16-22-1]
 
@@ -902,8 +902,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 [^1-1-1]: **1:1** Or servant
 [^1-4-1]: **1:4** Or Spirit
+[^1-4-2]: **1:4** Gk resurrection of the dead
 [^1-9-1]: **1:9** Gk my spirit in the gospel
 [^1-16-1]: **1:16** Or trusts
+[^1-17-2]: **1:17** Or from faithfulness to faith
 [^1-17-1]: **1:17** Or The person who is righteous through faith will live
 [^1-26-1]: **1:26** Gk use
 [^1-27-1]: **1:27** Gk use
@@ -915,7 +917,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-22-1]: **3:22** Or through faith in Jesus Christ
 [^3-22-2]: **3:22** Or trust
 [^3-25-1]: **3:25** Or a place of atonement
+[^3-25-2]: **3:25** Or through faithfulness
 [^3-26-1]: **3:26** Or the one who has faith in Jesus
+[^4-1-2]: **4:1** Gk found
 [^4-1-1]: **4:1** Some manuscripts read say about Abraham
 [^4-3-1]: **4:3** Or trusted in
 [^4-11-2]: **4:11** Or trust
@@ -953,6 +957,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-28-1]: **8:28** Some manuscripts read God makes all things work together, or in all things God works
 [^8-29-1]: **8:29** Gk among many brothers
 [^8-34-1]: **8:34** Some manuscripts read Christ Jesus
+[^8-34-2]: **8:34** Or Is it Christ, who died, and more than that was raised, who is at the right hand of God and also intercedes for us?
 [^9-5-1]: **9:5** Or Christ, who is God over all, blessed forever; or Christ. May he who is God over all be blessed forever
 [^9-10-1]: **9:10** Or ancestor
 [^9-28-1]: **9:28** Some manuscripts read for he will finish his work and cut it short in righteousness, because the Lord will make the sentence shortened on the earth
@@ -966,6 +971,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-16-1]: **10:16** Or gospel
 [^10-16-2]: **10:16** Or trusted
 [^10-17-2]: **10:17** Or trust
+[^10-17-3]: **10:17** Or the message heard
 [^10-17-1]: **10:17** Or about Christ; some manuscripts read of God
 [^11-6-1]: **11:6** Some manuscripts add But if it is by works, it is no longer on the basis of grace; otherwise work would no longer be work
 [^11-11-1]: **11:11** Or transgression
@@ -997,9 +1003,12 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^16-1-1]: **16:1** Or minister
 [^16-5-1]: **16:5** Gk first fruits
 [^16-7-1]: **16:7** Or Junias; some manuscripts read Julia
+[^16-7-2]: **16:7** Gk relatives
+[^16-11-1]: **16:11** Gk relative
 [^16-18-1]: **16:18** Gk their own belly
 [^16-20-1]: **16:20** Some manuscripts add Christ
 [^16-20-2]: **16:20** Some manuscripts lack this sentence
+[^16-21-1]: **16:21** Gk relatives
 [^16-22-1]: **16:22** Or I Tertius, writing this letter in the Lord, greet you
 [^16-23-1]: **16:23** Some manuscripts add verse 24: The grace of our Lord Jesus Christ be with all of you. Amen.
 [^16-27-1]: **16:27** Some manuscripts lack 16:25–27, or include it after 14:23 or 15:33; others put 16:24 after 16:27

@@ -828,7 +828,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> Meanwhile those scattered by the persecution that began with Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the message only to Jews.
 
-<sup>20</sup> But some of them, men from Cyprus and Cyrene, went to Antioch and began speaking to the Hellenists[^11-20-1] as well, proclaiming the good news about the Lord Jesus.
+<sup>20</sup> But some of them, men from Cyprus and Cyrene, went to Antioch and began speaking to the Hellenists[^11-20-1][^11-20-2] as well, proclaiming the good news about the Lord Jesus.
 
 <sup>21</sup> The hand of the Lord was with them, and a great number of people believed and turned to the Lord.
 
@@ -1106,7 +1106,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> It is my judgment, therefore, that we should not cause trouble for the gentiles who are turning to God.
 
-<sup>20</sup> Instead, we should write and tell them to abstain from things polluted by idols, from sexual immorality, from anything strangled[^15-20-1], and from blood.
+<sup>20</sup> Instead, we should write and tell them to abstain from things polluted by idols, from sexual immorality, from anything strangled[^15-20-1], and from blood[^15-20-2].
 
 <sup>21</sup> For Moses has been proclaimed in every city from ancient times and is read in the synagogues on every Sabbath.”
 
@@ -1124,7 +1124,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>28</sup> It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:
 
-<sup>29</sup> you must abstain from what is sacrificed to idols, from blood, from anything strangled[^15-29-1], and from sexual immorality. You will do well to avoid these things. Farewell.
+<sup>29</sup> you must abstain from what is sacrificed to idols, from blood[^15-29-2], from anything strangled[^15-29-1], and from sexual immorality. You will do well to avoid these things. Farewell.
 
 <sup>30</sup> So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter.
 
@@ -1174,7 +1174,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> From there we went to the Roman colony of Philippi, the leading city of that district of Macedonia. And we stayed there several days.
 
-<sup>13</sup> On the Sabbath we went outside the city gate along the river, where we thought there was a place of prayer[^16-13-1]. After sitting down, we spoke to the women who had gathered there.
+<sup>13</sup> On the Sabbath we went outside the city gate along the river, where we thought there was a place of prayer[^16-13-1][^16-13-2]. After sitting down, we spoke to the women who had gathered there.
 
 <sup>14</sup> Among those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul’s message.
 
@@ -1570,7 +1570,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law.
 
-<sup>25</sup> As for the gentile believers, we have written to them our decision that they must abstain from what is sacrificed to idols, from blood, from anything strangled[^21-25-1], and from sexual immorality.”
+<sup>25</sup> As for the gentile believers, we have written to them our decision that they must abstain from what is sacrificed to idols, from blood[^21-25-2], from anything strangled[^21-25-1], and from sexual immorality.”
 
 <sup>26</sup> So the next day Paul took the men and purified himself along with them. Then he entered the temple to give notice of the date when their purification would be complete and the offering would be made for each of them.
 
@@ -1902,7 +1902,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>27</sup> King Agrippa, do you believe the prophets? I know you do.”
 
-<sup>28</sup> Then Agrippa said to Paul, “Can you persuade me in such a short time to become a Christian?”
+<sup>28</sup> Then Agrippa said to Paul, “Can you persuade me in such a short time to become a Christian?[^26-28-1]”
 
 <sup>29</sup> “Short time or long,” Paul replied, “I wish to God that not only you but all who hear me this day may become what I am, except for these chains.”
 
@@ -2138,6 +2138,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-2-1]: **11:2** Gk the circumcised
 [^11-12-1]: **11:12** Or without hesitation
 [^11-20-1]: **11:20** Some manuscripts read Greeks
+[^11-20-2]: **11:20** Or Greek-speaking Gentiles
 [^12-9-1]: **12:9** Gk he
 [^12-20-1]: **12:20** Gk he
 [^12-25-1]: **12:25** Some manuscripts read from Jerusalem
@@ -2161,13 +2162,16 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-13-1]: **15:13** Gk Men, brothers
 [^15-18-1]: **15:18** Some manuscripts read things. Verse 18: Known to God from of old are all his works.’
 [^15-20-1]: **15:20** Some manuscripts lack from anything strangled
+[^15-20-2]: **15:20** Or bloodshed
 [^15-24-1]: **15:24** Some manuscripts add saying, ‘You must be circumcised and keep the law,’
+[^15-29-2]: **15:29** Or bloodshed
 [^15-29-1]: **15:29** Some manuscripts lack from anything strangled
 [^15-33-1]: **15:33** Some manuscripts add verse 34: But it seemed good to Silas to remain there
 [^15-40-1]: **15:40** Some manuscripts read of God
 [^16-1-1]: **16:1** Gk he
 [^16-11-1]: **16:11** Some manuscripts lack So
 [^16-13-1]: **16:13** Some manuscripts read where, according to the custom,
+[^16-13-2]: **16:13** Or synagogue
 [^16-17-1]: **16:17** Some manuscripts read to us
 [^16-32-1]: **16:32** Some manuscripts read word of God
 [^17-3-1]: **17:3** Or the Christ
@@ -2195,6 +2199,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^21-1-1]: **21:1** Some manuscripts add and Myra
 [^21-7-1]: **21:7** Or continued
 [^21-9-1]: **21:9** Gk four daughters, virgins,
+[^21-25-2]: **21:25** Or bloodshed
 [^21-25-1]: **21:25** Some manuscripts lack from anything strangled
 [^21-28-1]: **21:28** Gk Men, Israelites
 [^21-35-1]: **21:35** Gk he
@@ -2220,6 +2225,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-14-1]: **26:14** Or Aramaic
 [^26-16-1]: **26:16** Some manuscripts read the things that you have seen
 [^26-23-1]: **26:23** Or the Christ
+[^26-28-1]: **26:28** Or you almost persuade me to become a Christian
 [^27-16-1]: **27:16** Some manuscripts read Clauda
 [^27-37-1]: **27:37** Some manuscripts read about seventy-six
 [^27-41-1]: **27:41** Gk place of two seas
