@@ -548,7 +548,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Simon, whom he named Peter, and his brother Andrew; James and John; Philip and Bartholomew;
 
-<sup>15</sup> Matthew and Thomas; James son of Alphaeus and Simon called the Zealot;
+<sup>15</sup> Matthew and Thomas; James son of Alphaeus and Simon called the Zealot[^6-15-1];
 
 <sup>16</sup> Judas son of James, and Judas Iscariot, who became a traitor.
 
@@ -2401,6 +2401,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-1-1]: **6:1** Some manuscripts read On the second-first Sabbath
 [^6-1-2]: **6:1** Gk he
 [^6-2-1]: **6:2** Some manuscripts add to do
+[^6-15-1]: **6:15** Or the zealous one
 [^6-35-1]: **6:35** Some manuscripts read despairing of no one
 [^6-48-1]: **6:48** Some manuscripts read because it was founded on the rock
 [^7-1-1]: **7:1** Gk he

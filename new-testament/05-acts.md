@@ -28,7 +28,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> Then they returned to Jerusalem from the Mount of Olives, which is near the city, a Sabbath day’s journey away.
 
-<sup>13</sup> When they arrived, they went to the upper room where they were staying: Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James[^1-13-1].
+<sup>13</sup> When they arrived, they went to the upper room where they were staying: Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot[^1-13-2], and Judas son of James[^1-13-1].
 
 <sup>14</sup> With one accord they all continued in prayer, along with some women, including Mary the mother of Jesus, and with his brothers.
 
@@ -492,7 +492,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>45</sup> And our ancestors who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,
 
-<sup>46</sup> who found favor in the sight of God and asked to provide a dwelling place for the house of Jacob[^7-46-1].
+<sup>46</sup> who found favor in the sight of God and asked to provide[^7-46-2] a dwelling place for the house of Jacob[^7-46-1].
 
 <sup>47</sup> But it was Solomon who built the house for him.
 
@@ -1034,7 +1034,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> They called Barnabas Zeus and Paul Hermes, because he was the chief speaker.
 
-<sup>13</sup> The priest of Zeus, whose temple was just outside the city[^14-13-1], brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.
+<sup>13</sup> The priest of Zeus, whose temple was just outside the city[^14-13-1], brought bulls and wreaths to the city gates[^14-13-2], hoping to offer a sacrifice along with the crowds.
 
 <sup>14</sup> But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,
 
@@ -1160,7 +1160,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> So the churches were strengthened in the faith and grew daily in numbers.
 
-<sup>6</sup> After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia.
+<sup>6</sup> After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia[^16-6-1].
 
 <sup>7</sup> And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them.
 
@@ -1178,7 +1178,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Among those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul’s message.
 
-<sup>15</sup> And when she and her household had been baptized, she urged us, “If you have judged me faithful to the Lord, come and stay at my house.” And she persuaded us.
+<sup>15</sup> And when she and her household had been baptized, she urged us, “If you have judged me faithful to the Lord[^16-15-1], come and stay at my house.” And she persuaded us.
 
 <sup>16</sup> One day as we were going to the place of prayer, we were met by a slave girl with a spirit of divination, who earned a large income for her masters by fortune-telling.
 
@@ -1268,13 +1268,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.
 
-<sup>19</sup> So they took Paul and brought him to the Areopagus, where they asked him, “May we know what this new teaching is that you are presenting?
+<sup>19</sup> So they took Paul and brought him to the Areopagus[^17-19-1], where they asked him, “May we know what this new teaching is that you are presenting?
 
 <sup>20</sup> For you are bringing some strange notions to our ears, and we want to know what they mean.”
 
 <sup>21</sup> Now all the Athenians and foreigners who lived there spent their time doing nothing more than hearing and articulating new ideas.
 
-<sup>22</sup> Then Paul stood up in the meeting of the Areopagus and said, “Athenians, I see that in every way you are very religious.
+<sup>22</sup> Then Paul stood up in the meeting of the Areopagus and said, “Athenians, I see that in every way you are very religious[^17-22-1].
 
 <sup>23</sup> For as I walked around and examined your objects of worship, I even found an altar with this inscription: ‘To an unknown god.’ Therefore what you worship as something unknown, I now proclaim to you.
 
@@ -1424,7 +1424,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>32</sup> Meanwhile the assembly was in turmoil. Some were shouting one thing and some another, and most of them did not even know why they were there.
 
-<sup>33</sup> The Jews in the crowd pushed Alexander forward to explain himself, and he motioned for silence so he could make his defense to the people.
+<sup>33</sup> Some in the crowd instructed Alexander[^19-33-1], whom the Jews had pushed forward, and he motioned for silence so he could make his defense to the people.
 
 <sup>34</sup> But when they realized that he was a Jew, they all shouted in unison for about two hours: “Great is Artemis of the Ephesians!”
 
@@ -1652,7 +1652,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> the commander ordered that Paul be brought into the barracks. He directed that Paul be flogged and interrogated to determine the reason for this outcry against him.
 
-<sup>25</sup> But as they stretched him out to strap him down[^22-25-1], Paul said to the centurion standing there, “Is it lawful for you to flog a Roman citizen without a trial?”
+<sup>25</sup> But as they stretched him out to strap him down[^22-25-1], Paul said to the centurion standing there, “Is it lawful for you to flog a Roman citizen without a trial[^22-25-2]?”
 
 <sup>26</sup> On hearing this, the centurion went and reported it to the commander. “What are you going to do?” he said. “This man is a Roman citizen.”
 
@@ -1764,7 +1764,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> I do confess to you, however, that I worship the God of our ancestors according to the Way, which they call a sect. I believe everything that is laid down by the law and written in the prophets,
 
-<sup>15</sup> and I have the same hope in God that they themselves cherish, that there will be a resurrection of both the righteous[^24-15-1] and the unrighteous.
+<sup>15</sup> and I have the same hope in God that they themselves cherish[^24-15-2], that there will be a resurrection of both the righteous[^24-15-1] and the unrighteous.
 
 <sup>16</sup> In this hope, I strive always to maintain a clear conscience before God and people.
 
@@ -1946,7 +1946,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> Passing to the lee of a small island called Cauda[^27-16-1], we barely managed to secure the lifeboat.
 
-<sup>17</sup> After hoisting it up, the crew used ropes to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along.
+<sup>17</sup> After hoisting it up, the crew used ropes[^27-17-1] to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along.
 
 <sup>18</sup> We were tossed so violently that the next day the men began to jettison the cargo.
 
@@ -2069,6 +2069,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-3-1]: **1:3** Or death
 [^1-4-1]: **1:4** Or eating
 [^1-5-1]: **1:5** Or by
+[^1-13-2]: **1:13** Or the zealous one
 [^1-13-1]: **1:13** Or the brother of
 [^1-16-1]: **1:16** Gk Men, brothers
 [^1-25-1]: **1:25** Some manuscripts read the share
@@ -2117,6 +2118,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-16-1]: **7:16** Gk they
 [^7-27-1]: **7:27** Gk him
 [^7-44-1]: **7:44** Gk he
+[^7-46-2]: **7:46** Gk find
 [^7-46-1]: **7:46** Some manuscripts read the God of Jacob
 [^8-5-1]: **8:5** Some manuscripts read a city
 [^8-5-2]: **8:5** Or the Christ
@@ -2156,6 +2158,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-1-2]: **14:1** Gk they
 [^14-10-1]: **14:10** Gk he
 [^14-13-1]: **14:13** Or The priest of Zeus-Outside-the-City
+[^14-13-2]: **14:13** Or the temple gates
 [^14-15-1]: **14:15** Gk Men
 [^14-26-1]: **14:26** Or committed in the grace of God to the work
 [^15-7-1]: **15:7** Gk Men, brothers
@@ -2169,14 +2172,18 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-33-1]: **15:33** Some manuscripts add verse 34: But it seemed good to Silas to remain there
 [^15-40-1]: **15:40** Some manuscripts read of God
 [^16-1-1]: **16:1** Gk he
+[^16-6-1]: **16:6** Or the Phrygian and Galatian region
 [^16-11-1]: **16:11** Some manuscripts lack So
 [^16-13-1]: **16:13** Some manuscripts read where, according to the custom,
 [^16-13-2]: **16:13** Or synagogue
+[^16-15-1]: **16:15** Or a believer in the Lord
 [^16-17-1]: **16:17** Some manuscripts read to us
 [^16-32-1]: **16:32** Some manuscripts read word of God
 [^17-3-1]: **17:3** Or the Christ
 [^17-3-2]: **17:3** Or the Christ
 [^17-17-1]: **17:17** Or civic center
+[^17-19-1]: **17:19** Or before the council of the Areopagus
+[^17-22-1]: **17:22** Or superstitious
 [^17-26-1]: **17:26** Gk From one; some manuscripts read From one blood
 [^17-27-1]: **17:27** Some manuscripts read the Lord
 [^18-1-1]: **18:1** Gk he
@@ -2188,6 +2195,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^18-28-1]: **18:28** Or the Christ
 [^19-9-1]: **19:9** Some manuscripts read of a certain Tyrannus, from eleven o’clock in the morning to four in the afternoon
 [^19-31-1]: **19:31** Gk Asiarchs
+[^19-33-1]: **19:33** Meaning of Gk uncertain
 [^19-37-1]: **19:37** Some manuscripts read your goddess
 [^19-39-1]: **19:39** Some manuscripts read about other matters
 [^20-4-1]: **20:4** Some manuscripts add as far as Asia
@@ -2209,6 +2217,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-8-1]: **22:8** Gk the Nazorean
 [^22-18-1]: **22:18** Gk him
 [^22-25-1]: **22:25** Or up for the lashes
+[^22-25-2]: **22:25** Gk uncondemned
 [^22-27-1]: **22:27** Gk him
 [^22-30-1]: **22:30** Gk he
 [^23-1-1]: **23:1** Gk Men, brothers
@@ -2218,6 +2227,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^24-2-1]: **24:2** Gk he
 [^24-5-1]: **24:5** Gk Nazoreans
 [^24-6-1]: **24:6** Some manuscripts add and we would have judged him according to our law. 7But the commander Lysias came and with great violence took him out of our hands, 8commanding his accusers to come before you.
+[^24-15-2]: **24:15** Gk await
 [^24-15-1]: **24:15** Some manuscripts read of the dead, both of the righteous and the unrighteous
 [^25-3-1]: **25:3** Gk him
 [^25-18-1]: **25:18** Some manuscripts read with the crime or with anything
@@ -2227,6 +2237,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-23-1]: **26:23** Or the Christ
 [^26-28-1]: **26:28** Or you almost persuade me to become a Christian
 [^27-16-1]: **27:16** Some manuscripts read Clauda
+[^27-17-1]: **27:17** Gk used helps
 [^27-37-1]: **27:37** Some manuscripts read about seventy-six
 [^27-41-1]: **27:41** Gk place of two seas
 [^28-13-1]: **28:13** Some manuscripts read made a circuit
