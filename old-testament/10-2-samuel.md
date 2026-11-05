@@ -422,7 +422,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Thus David reigned over all Israel and administered justice and righteousness for all his people:
 
-<sup>16</sup> Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;
+<sup>16</sup> Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder[^8-16-1];
 
 <sup>17</sup> Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was the scribe;
 
@@ -1482,6 +1482,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-23-3]: **7:23** Hebrew adds ‘for your land’
 [^8-2-1]: **8:2** Heb one full length
 [^8-13-1]: **8:13** The Greek, Syriac and some Hebrew manuscripts read ‘Edomites’; Hebrew reads ‘Arameans’
+[^8-16-1]: **8:16** Or herald, here and throughout
 [^8-18-1]: **8:18** Syriac, the Targum and the Vulgate read ‘was over’; Hebrew lacks it
 [^9-11-1]: **9:11** The Greek reads ‘David’s table’; Hebrew reads ‘my table’
 [^10-16-1]: **10:16** Heb the River

@@ -1342,7 +1342,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Thus David reigned over all Israel and administered justice and righteousness for all his people:
 
-<sup>15</sup> Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;
+<sup>15</sup> Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder[^18-15-1];
 
 <sup>16</sup> Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Shavsha was the scribe;
 
@@ -2021,6 +2021,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-27-1]: **17:27** Or and it is blessed forever
 [^18-3-1]: **18:3** Meaning of Heb uncertain
 [^18-6-1]: **18:6** The Greek and Vulgate (compare the Syriac) read ‘garrisons’; Hebrew lacks the word
+[^18-15-1]: **18:15** Or herald
 [^19-16-1]: **19:16** Heb the River
 [^20-2-1]: **20:2** The Greek and Vulgate read ‘Milcom’; Hebrew reads ‘their king’
 [^20-3-1]: **20:3** Hebrew reads ‘and he sawed’

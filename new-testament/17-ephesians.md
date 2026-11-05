@@ -30,7 +30,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> And in him, having heard and believed the word of truth—the gospel of your salvation—you were sealed with the promised Holy Spirit,
 
-<sup>14</sup> which is the pledge of our inheritance[^1-14-1] for the redemption of those who are God’s possession, to the praise of his glory.
+<sup>14</sup> which is the pledge[^1-14-2] of our inheritance[^1-14-1] for the redemption of those who are God’s possession, to the praise of his glory.
 
 <sup>15</sup> For this reason, ever since I heard about your faith in the Lord Jesus and your love[^1-15-1] for all the saints,
 
@@ -114,7 +114,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> Though I am less than the least of all the saints, this grace was given me: to preach to the gentiles the unsearchable riches of Christ,
 
-<sup>9</sup> and to illuminate for everyone[^3-9-1] the stewardship of this mystery, which for ages past was kept hidden in[^3-9-2] God, who created all things.
+<sup>9</sup> and to illuminate for everyone[^3-9-1] the stewardship[^3-9-3] of this mystery, which for ages past was kept hidden in[^3-9-2] God, who created all things.
 
 <sup>10</sup> His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms,
 
@@ -238,7 +238,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Pay careful attention, then, to how you walk, not as unwise but as wise,
 
-<sup>16</sup> redeeming the time, because the days are evil.
+<sup>16</sup> redeeming the time[^5-16-1], because the days are evil.
 
 <sup>17</sup> Therefore do not be foolish, but understand what the Lord’s will is.
 
@@ -298,7 +298,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> Put on the full armor of God, so that you can make your stand against the devil’s schemes.
 
-<sup>12</sup> For our struggle[^6-12-1] is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.
+<sup>12</sup> For our struggle[^6-12-1] is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness[^6-12-2], and against the spiritual forces of evil in the heavenly realms.
 
 <sup>13</sup> Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand.
 
@@ -330,6 +330,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-5-1]: **1:5** Or (taking in love from 1:4 with this verse) In love he marked us out beforehand
 [^1-5-2]: **1:5** Or sonship
 [^1-11-1]: **1:11** Or been made a heritage
+[^1-14-2]: **1:14** Or first installment
 [^1-14-1]: **1:14** Some manuscripts read who
 [^1-15-1]: **1:15** Some manuscripts lack and your love
 [^2-2-1]: **2:2** Gk according to the aeon
@@ -345,6 +346,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-2-1]: **3:2** Or if indeed
 [^3-3-1]: **3:3** Or wrote before in brief
 [^3-9-1]: **3:9** Some manuscripts read to bring to light
+[^3-9-3]: **3:9** Or plan
 [^3-9-2]: **3:9** Or by
 [^3-12-1]: **3:12** Or the faith of him
 [^3-13-1]: **3:13** Or that I not lose heart
@@ -363,6 +365,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-2-1]: **5:2** Some manuscripts read you
 [^5-6-1]: **5:6** Gk sons of disobedience
 [^5-9-1]: **5:9** Some manuscripts read of the Spirit
+[^5-16-1]: **5:16** Or making the most of the time
 [^5-22-1]: **5:22** Gk lacks submit
 [^5-30-1]: **5:30** Some manuscripts add of his flesh and of his bones
 [^5-33-1]: **5:33** Or fear
@@ -371,6 +374,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-9-1]: **6:9** Gk the same word is used for master and Lord
 [^6-9-2]: **6:9** Gk the same word is used for master and Lord
 [^6-12-1]: **6:12** Some manuscripts read your
+[^6-12-2]: **6:12** Gk the world rulers of this darkness
 [^6-16-1]: **6:16** Or In all circumstances
 [^6-19-1]: **6:19** Some manuscripts lack of the gospel
 [^6-24-1]: **6:24** Or Grace immortal be with all who love

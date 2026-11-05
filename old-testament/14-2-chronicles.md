@@ -110,7 +110,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> He made encircling chains[^3-16-1] and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.
 
-<sup>17</sup> Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin, and the pillar on the north he named Boaz.
+<sup>17</sup> Then he set up the pillars in front of the temple, one on the south and one on the north. The pillar on the south he named Jachin[^3-17-1], and the pillar on the north he named Boaz[^3-17-2].
 
 ## Chapter 4
 
@@ -400,7 +400,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.
 
-<sup>21</sup> For the king had the ships of Tarshish that went with Huram’s servants, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes[^9-21-1], and peacocks.
+<sup>21</sup> For the king had the ships of Tarshish[^9-21-2] that went with Huram’s servants, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes[^9-21-1], and peacocks.
 
 <sup>22</sup> So King Solomon surpassed all the kings of the earth in riches and wisdom.
 
@@ -916,7 +916,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.
 
-<sup>7</sup> Yet the LORD was unwilling to destroy the house of David, because of the covenant he had made with David, and since he had promised to maintain a lamp for David and his descendants forever.
+<sup>7</sup> Yet the LORD was unwilling to destroy the house of David, because of the covenant he had made with David, and since he had promised to maintain a lamp[^21-7-1] for David and his descendants forever.
 
 <sup>8</sup> In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.
 
@@ -1562,7 +1562,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> He tore down the altars and Asherah poles, crushed the idols to powder, and cut to pieces all the incense altars throughout the land of Israel. Then he returned to Jerusalem.
 
-<sup>8</sup> Now in the eighteenth year of his reign, in order to cleanse the land and the temple, Josiah sent Shaphan son of Azaliah, Maaseiah the governor of the city, and Joah son of Joahaz, the recorder, to repair the house of the LORD his God.
+<sup>8</sup> Now in the eighteenth year of his reign, in order to cleanse the land and the temple, Josiah sent Shaphan son of Azaliah, Maaseiah the governor of the city, and Joah son of Joahaz, the recorder[^34-8-1], to repair the house of the LORD his God.
 
 <sup>9</sup> So they went to Hilkiah the high priest and gave him the money that had been brought into the house of God, which the Levites who guarded the doors had collected from the people of Manasseh and Ephraim, from all the remnant of Israel, from all Judah and Benjamin, and from the people of Jerusalem.
 
@@ -1725,6 +1725,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-3-1]: **3:3** The Syriac reads ‘measurements’; Hebrew reads ‘foundations’
 [^3-4-1]: **3:4** Meaning of Heb uncertain
 [^3-16-1]: **3:16** Heb chains in the inner sanctuary
+[^3-17-1]: **3:17** Heb Jachin means he establishes
+[^3-17-2]: **3:17** Heb Boaz perhaps means in strength
 [^4-5-1]: **4:5** Heb bath is a measure of volume
 [^5-9-1]: **5:9** The Greek and some Hebrew manuscripts read ‘from the holy place’; Hebrew reads ‘from the ark’
 [^6-12-1]: **6:12** Heb he
@@ -1735,6 +1737,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-11-1]: **9:11** Meaning of Heb uncertain
 [^9-15-1]: **9:15** Hebrew lacks ‘shekels’
 [^9-16-1]: **9:16** Hebrew lacks ‘shekels’
+[^9-21-2]: **9:21** Or ocean-going ships, here and throughout
 [^9-21-1]: **9:21** Or baboons
 [^9-26-1]: **9:26** Heb the River
 [^13-11-1]: **13:11** Heb pure table
@@ -1754,6 +1757,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^20-25-1]: **20:25** The Greek reads ‘livestock’; Hebrew reads ‘among them’
 [^20-26-1]: **20:26** Heb beracah means blessing
 [^21-2-1]: **21:2** The Greek and Syriac read ‘Judah’; Hebrew reads ‘Israel’
+[^21-7-1]: **21:7** Meaning of Heb uncertain
 [^22-2-1]: **22:2** The Syriac reads ‘twenty-two’; compare 2 Kings 8:26
 [^22-11-1]: **22:11** Or children
 [^23-3-1]: **23:3** Heb he
@@ -1781,6 +1785,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^33-19-1]: **33:19** A Hebrew manuscript and the Greek read ‘the seers’; other Hebrew texts read ‘Hozai’
 [^34-2-1]: **34:2** Or ancestor, here and in verse 3
 [^34-6-1]: **34:6** Meaning of Heb uncertain
+[^34-8-1]: **34:8** Or herald
 [^35-5-1]: **35:5** Meaning of Heb uncertain
 [^35-11-1]: **35:11** Hebrew lacks ‘handed to them’
 [^35-21-1]: **35:21** Heb he

@@ -268,7 +268,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> and these were his chief officials: Azariah son of Zadok was the priest;
 
-<sup>3</sup> Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder;
+<sup>3</sup> Elihoreph and Ahijah, the sons of Shisha, were secretaries; Jehoshaphat son of Ahilud was the recorder[^4-3-1];
 
 <sup>4</sup> Benaiah son of Jehoiada was in charge of the army; Zadok and Abiathar were priests;
 
@@ -490,7 +490,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> On the capitals of both pillars, just above the rounded projection next to the network, were the two hundred pomegranates in rows encircling each capital.
 
-<sup>21</sup> Thus he set up the pillars at the portico of the temple. The pillar to the south he named Jachin, and the pillar to the north he named Boaz.
+<sup>21</sup> Thus he set up the pillars at the portico of the temple. The pillar to the south he named Jachin[^7-21-1], and the pillar to the north he named Boaz[^7-21-2].
 
 <sup>22</sup> And the tops of the pillars were shaped like lilies. So the work of the pillars was completed.
 
@@ -788,7 +788,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> All King Solomon’s drinking cups were gold, and all the utensils of the House of the Forest of Lebanon were pure gold. There was no silver, because it was accounted as nothing in the days of Solomon.
 
-<sup>22</sup> For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes[^10-22-1], and peacocks.
+<sup>22</sup> For the king had the ships of Tarshish[^10-22-2] at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes[^10-22-1], and peacocks.
 
 <sup>23</sup> So King Solomon surpassed all the kings of the earth in riches and wisdom.
 
@@ -876,7 +876,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> But I will take ten tribes of the kingdom from the hand of his son and give them to you.
 
-<sup>36</sup> I will give one tribe to his son, so that my servant David will always have a lamp before me in Jerusalem, the city where I chose to put my name.
+<sup>36</sup> I will give one tribe to his son, so that my servant David will always have a lamp[^11-36-1] before me in Jerusalem, the city where I chose to put my name.
 
 <sup>37</sup> But as for you, I will take you, and you shall reign over all that your heart desires, and you will be king over Israel.
 
@@ -1102,7 +1102,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> And Abijam walked in all the sins that his father before him had committed, and his heart was not as fully devoted to the LORD his God as the heart of his father David had been.
 
-<sup>4</sup> Nevertheless, for the sake of David, the LORD his God gave him a lamp in Jerusalem by raising up a son to succeed him and to make Jerusalem strong.
+<sup>4</sup> Nevertheless, for the sake of David, the LORD his God gave him a lamp[^15-4-1] in Jerusalem by raising up a son to succeed him and to make Jerusalem strong.
 
 <sup>5</sup> For David had done what was right in the eyes of the LORD and had not turned aside from anything the LORD commanded all the days of his life, except in the matter of Uriah the Hittite.
 
@@ -1326,7 +1326,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> So Ahab summoned all the Israelites and assembled the prophets on Mount Carmel.
 
-<sup>21</sup> Then Elijah approached all the people and said, “How long will you waver between two opinions? If the LORD is God, follow him. But if Baal is God, follow him.” But the people did not answer a word.
+<sup>21</sup> Then Elijah approached all the people and said, “How long will you waver[^18-21-1] between two opinions? If the LORD is God, follow him. But if Baal is God, follow him.” But the people did not answer a word.
 
 <sup>22</sup> Then Elijah said to the people, “I am the only remaining prophet of the LORD, but Baal has four hundred and fifty prophets.
 
@@ -1338,7 +1338,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> And they took the bull that was given them, prepared it, and called on the name of Baal from morning until noon, shouting, “O Baal, answer us!” But there was no sound, and no one answered as they limped about the altar they had made.
 
-<sup>27</sup> At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!”
+<sup>27</sup> At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied[^18-27-1], or on a journey. Perhaps he is sleeping and must be awakened!”
 
 <sup>28</sup> So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them.
 
@@ -1687,6 +1687,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-5-2]: **2:5** The Greek reads ‘my’; Hebrew reads ‘his’
 [^2-5-3]: **2:5** The Greek reads ‘my’; Hebrew reads ‘his’
 [^2-5-1]: **2:5** The Greek reads ‘innocent blood’; Hebrew reads ‘blood of war’
+[^4-3-1]: **4:3** Or herald
 [^4-21-2]: **4:21** Heb the River
 [^4-21-1]: **4:21** The Greek lacks verses 20–21
 [^4-24-1]: **4:24** Hebrew adds ‘from Tiphsah to Gaza, over all the kings west of the Euphrates’
@@ -1702,6 +1703,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^6-31-1]: **6:31** Meaning of Heb uncertain
 [^7-7-1]: **7:7** Syriac and the Vulgate read ‘rafters’; Hebrew reads ‘floor’
 [^7-15-1]: **7:15** Hebrew adds ‘and a cord of twelve cubits encircled the second pillar’
+[^7-21-1]: **7:21** Heb Jachin means he establishes
+[^7-21-2]: **7:21** Heb Boaz perhaps means in strength
 [^7-24-1]: **7:24** Meaning of Heb uncertain
 [^7-24-2]: **7:24** Meaning of Heb uncertain
 [^7-26-1]: **7:26** Heb bath is a measure of volume
@@ -1716,12 +1719,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-26-1]: **9:26** Or Sea of Reeds
 [^10-1-1]: **10:1** Meaning of Heb uncertain
 [^10-8-1]: **10:8** The Greek and Syriac read ‘wives’; Hebrew reads ‘men’
+[^10-22-2]: **10:22** Or ocean-going ships, here and throughout
 [^10-22-1]: **10:22** Or baboons
 [^11-15-1]: **11:15** The Greek and Syriac read ‘was destroying’; Hebrew reads ‘was in’
 [^11-23-1]: **11:23** Heb him
 [^11-27-1]: **11:27** Hebrew lacks ‘in the wall’
 [^11-33-1]: **11:33** The Greek, Syriac and Vulgate read ‘he has’; Hebrew reads ‘they have’
 [^11-33-2]: **11:33** The Greek, Syriac and Vulgate read ‘has’; Hebrew reads ‘have’
+[^11-36-1]: **11:36** Meaning of Heb uncertain
 [^12-28-1]: **12:28** The Greek reads ‘to the people’; Hebrew reads ‘to them’
 [^12-30-1]: **12:30** Hebrew reads ‘went to the one as far as Dan’
 [^12-31-1]: **12:31** The Greek and Vulgate read ‘houses’; Hebrew reads ‘a house’
@@ -1731,10 +1736,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-14-1]: **14:14** Meaning of Heb uncertain
 [^14-15-1]: **14:15** Heb the River
 [^14-24-1]: **14:24** Heb qadesh, here and in 15:12 and 22:46, literally consecrated one; traditionally rendered male shrine prostitutes
+[^15-4-1]: **15:4** Meaning of Heb uncertain
 [^15-26-1]: **15:26** Or ancestor
 [^15-28-1]: **15:28** Heb him
 [^17-1-1]: **17:1** The Greek reads ‘of Tishbe’; Hebrew reads ‘of the settlers’
 [^18-1-1]: **18:1** Hebrew lacks ‘of the drought’
+[^18-21-1]: **18:21** Heb limp; meaning of Heb uncertain
+[^18-27-1]: **18:27** Or has wandered away, or is relieving himself
 [^19-3-1]: **19:3** The Greek reads ‘was afraid’; Hebrew reads ‘saw’
 [^19-20-1]: **19:20** Heb he
 [^20-6-1]: **20:6** The Greek, Syriac and Vulgate read ‘pleases them’; Hebrew reads ‘pleases you’

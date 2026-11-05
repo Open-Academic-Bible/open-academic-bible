@@ -172,7 +172,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Pray that I may declare it clearly, as I should.
 
-<sup>5</sup> Act wisely toward outsiders, redeeming the time[^4-5-1].
+<sup>5</sup> Act wisely toward outsiders, redeeming the time[^4-5-1][^4-5-2].
 
 <sup>6</sup> Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone.
 
@@ -238,6 +238,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-16-2]: **3:16** Some manuscripts read to the Lord
 [^3-22-1]: **3:22** Gk the same word is used for master and Lord
 [^4-5-1]: **4:5** Or opportunity
+[^4-5-2]: **4:5** Or making the most of the time
 [^4-7-1]: **4:7** Or fellow servant
 [^4-8-1]: **4:8** Some manuscripts read that I may know how you are
 [^4-12-3]: **4:12** Or servant

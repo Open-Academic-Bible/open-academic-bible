@@ -1500,7 +1500,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Trembling seized them there, anguish like a woman in labor.
 
-<sup>7</sup> With a wind from the east you wrecked the ships of Tarshish.
+<sup>7</sup> With a wind from the east you wrecked the ships of Tarshish[^48-7-1].
 
 <sup>8</sup> As we have heard, so we have seen in the city of the LORD of hosts, in the city of our God: God will establish her forever. Selah
 
@@ -5312,6 +5312,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^45-6-1]: **45:6** Or your throne is a throne of God; it endures forever and ever
 [^46-1-1]: **46:1** Or well proved
 [^47-7-1]: **47:7** Heb Maskil
+[^48-7-1]: **48:7** Or ocean-going ships
 [^48-11-1]: **48:11** Heb daughters
 [^49-7-1]: **49:7** Or no one can ransom a brother
 [^49-11-1]: **49:11** The Greek (Septuagint) and Syriac read ‘Their graves’; Hebrew reads ‘their inward thought’

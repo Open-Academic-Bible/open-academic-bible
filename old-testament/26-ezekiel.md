@@ -1418,7 +1418,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> With you these traded[^27-24-1] in fine garments of blue, embroidered work, and multicolored rugs with cords tightly twisted and knotted.
 
-<sup>25</sup> The ships of Tarshish carried your merchandise. And you were filled with heavy cargo in the heart of the sea.
+<sup>25</sup> The ships of Tarshish[^27-25-1] carried your merchandise. And you were filled with heavy cargo in the heart of the sea.
 
 <sup>26</sup> Your oarsmen have brought you onto the high seas, but the east wind will shatter you in the heart of the sea.
 
@@ -2747,6 +2747,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^27-17-1]: **27:17** Meaning of Heb uncertain
 [^27-19-1]: **27:19** Meaning of Heb uncertain
 [^27-24-1]: **27:24** Hebrew reads ‘in your market’
+[^27-25-1]: **27:25** Or ocean-going ships
 [^27-32-1]: **27:32** The Targum and Vulgate read ‘destroyed’; Hebrew reads ‘silenced’
 [^28-3-1]: **28:3** Or Danel
 [^28-12-1]: **28:12** Meaning of Heb uncertain

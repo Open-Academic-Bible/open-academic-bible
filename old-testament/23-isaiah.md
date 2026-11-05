@@ -98,7 +98,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> against every high tower, against every fortified wall,
 
-<sup>16</sup> against every ship of Tarshish, and against every stately vessel.
+<sup>16</sup> against every ship of Tarshish[^2-16-1], and against every stately vessel.
 
 <sup>17</sup> So the pride of people will be brought low, and the loftiness of humankind will be humbled; the LORD alone will be exalted in that day,
 
@@ -1430,7 +1430,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> And the king of Assyria sent the Rabshakeh, with a great army, from Lachish to King Hezekiah at Jerusalem. And he stopped by the aqueduct of the upper pool, on the road to the Launderer’s field.
 
-<sup>3</sup> Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder, went out to him.
+<sup>3</sup> Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder[^36-3-1], went out to him.
 
 <sup>4</sup> The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?
 
@@ -2725,6 +2725,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-6-1]: **2:6** Hebrew lacks ‘diviners’
 [^2-10-1]: **2:10** A Dead Sea Scroll lacks ‘do not forgive them’ in verse 9 through ‘his majesty’
 [^2-12-1]: **2:12** Hebrew reads ‘low’; the Greek reads ‘high’
+[^2-16-1]: **2:16** Or ocean-going ship, here and throughout
 [^2-22-1]: **2:22** The Greek (Septuagint) and Old Latin lack verse 22
 [^3-12-1]: **3:12** Hebrew reads ‘women’
 [^3-24-1]: **3:24** A Dead Sea Scroll adds ‘shame’; Hebrew lacks it
@@ -2833,6 +2834,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^35-8-1]: **35:8** A Dead Sea Scroll, the Greek and Syriac read ‘A highway’; Hebrew reads ‘A highway and a way’
 [^35-8-2]: **35:8** Or pass over it
 [^35-8-3]: **35:8** Hebrew reads ‘for them’
+[^36-3-1]: **36:3** Or herald, here and throughout
 [^36-7-1]: **36:7** The Greek lacks this clause; Hebrew has it
 [^37-7-1]: **37:7** A Dead Sea Scroll lacks verses 5–7
 [^37-27-1]: **37:27** A Dead Sea Scroll reads ‘before the east wind’; Hebrew reads ‘and a field before standing grain’
