@@ -290,7 +290,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>32</sup> But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”
 
-<sup>33</sup> With many such parables Jesus spoke the word to them, to the extent that they could understand.
+<sup>33</sup> With many such parables Jesus spoke the word to them, to the extent that they could understand[^4-33-1].
 
 <sup>34</sup> He did not tell them anything without using a parable. But privately he explained everything to his own disciples.
 
@@ -1416,6 +1416,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-11-1]: **4:11** Or secret
 [^4-11-2]: **4:11** Or riddles
 [^4-17-1]: **4:17** Or stumble
+[^4-33-1]: **4:33** Gk as they were able to hear
 [^5-1-1]: **5:1** Some manuscripts read Gergesenes or Gadarenes
 [^5-9-1]: **5:9** Gk he
 [^5-12-1]: **5:12** Gk they
