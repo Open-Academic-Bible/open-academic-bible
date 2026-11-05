@@ -992,7 +992,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.
 
-<sup>11</sup> Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”
+<sup>11</sup> Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the testimony[^23-11-1], and proclaimed him king. They anointed him and shouted, “Long live the king!”
 
 <sup>12</sup> When Athaliah heard the noise of the people running and cheering the king, she went out to them in the house of the LORD.
 
@@ -1761,6 +1761,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-2-1]: **22:2** The Syriac reads ‘twenty-two’; compare 2 Kings 8:26
 [^22-11-1]: **22:11** Or children
 [^23-3-1]: **23:3** Heb he
+[^23-11-1]: **23:11** Or the covenant, or a royal emblem; meaning of Heb uncertain
 [^24-6-1]: **24:6** The Vulgate reads ‘on’; Hebrew reads ‘and’
 [^24-20-1]: **24:20** Heb clothed itself with
 [^24-25-1]: **24:25** The Greek and Vulgate read ‘son’; Hebrew reads ‘sons’

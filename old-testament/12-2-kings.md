@@ -442,7 +442,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.
 
-<sup>19</sup> Yet for the sake of his servant David, the LORD was unwilling to destroy Judah, since he had promised to maintain a lamp for David and his descendants forever.
+<sup>19</sup> Yet for the sake of his servant David, the LORD was unwilling to destroy Judah, since he had promised to maintain a lamp[^8-19-1] for David and his descendants forever.
 
 <sup>20</sup> In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.
 
@@ -552,7 +552,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> So the palace administrator, the overseer of the city, the elders, and the guardians sent a message to Jehu: “We are your servants, and we will do whatever you say. We will not make anyone king. Do whatever is good in your sight.”
 
-<sup>6</sup> Then Jehu wrote them a second letter and said: “If you are on my side, and if you will obey me, then bring the heads of your master’s sons to me at Jezreel by this time tomorrow.” Now the king’s sons, seventy men, were being brought up by the leading men of the city.
+<sup>6</sup> Then Jehu wrote them a second letter and said: “If you are on my side, and if you will obey me, then bring the heads[^10-6-1] of your master’s sons to me at Jezreel by this time tomorrow.” Now the king’s sons, seventy men, were being brought up by the leading men of the city.
 
 <sup>7</sup> And when the letter arrived, they took the king’s sons and killed them, seventy men. They put their heads in baskets and sent them to Jehu at Jezreel.
 
@@ -578,7 +578,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> Then Jehu brought all the people together and said, “Ahab served Baal a little, but Jehu will serve him a lot.
 
-<sup>19</sup> Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal.
+<sup>19</sup> Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice[^10-19-1] for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal.
 
 <sup>20</sup> And Jehu commanded, “Proclaim a solemn assembly for Baal.” So they announced it.
 
@@ -638,7 +638,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> And the guards stood with weapons in hand surrounding the king by the altar and the temple, from the south side to the north side of the temple.
 
-<sup>12</sup> Then Jehoiada brought out the king’s son, put the crown on him, presented him with the testimony, and proclaimed him king. They anointed him, and the people clapped their hands and declared, “Long live the king!”
+<sup>12</sup> Then Jehoiada brought out the king’s son, put the crown on him, presented him with the testimony[^11-12-1], and proclaimed him king. They anointed him, and the people clapped their hands and declared, “Long live the king!”
 
 <sup>13</sup> When Athaliah heard the noise from the guards and the people, she went out to the people in the house of the LORD.
 
@@ -864,7 +864,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.
 
-<sup>25</sup> Then his officer, Pekah son of Remaliah, conspired against him with fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down Pekahiah, together with Argob and Arieh, and killed him and reigned in his place.
+<sup>25</sup> Then his officer, Pekah son of Remaliah, conspired against him with fifty men of Gilead. And at the citadel of the king’s palace in Samaria, Pekah struck down Pekahiah, together with Argob and Arieh[^15-25-1], and killed him and reigned in his place.
 
 <sup>26</sup> As for the rest of the acts of Pekahiah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel.
 
@@ -928,7 +928,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> King Ahaz also cut off the frames of the movable stands and removed the bronze basin from each of them. He took down the sea from the bronze oxen that were under it and put it on a stone base.
 
-<sup>18</sup> And on account of the king of Assyria, he removed the Sabbath canopy they had built in the temple and took the king’s outer entrance away from the house of the LORD[^16-18-1].
+<sup>18</sup> And on account of the king of Assyria, he removed the Sabbath canopy[^16-18-2] they had built in the temple and took the king’s outer entrance away from the house of the LORD[^16-18-1].
 
 <sup>19</sup> As for the rest of the acts of Ahaz, along with his accomplishments, are they not written in the Book of the Chronicles of the Kings of Judah?
 
@@ -942,7 +942,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> Shalmaneser king of Assyria attacked him, and Hoshea became his vassal and paid him tribute.
 
-<sup>4</sup> But the king of Assyria discovered that Hoshea had conspired to send envoys to King So of Egypt, and that he had not paid tribute to the king of Assyria as in previous years. Therefore the king of Assyria arrested Hoshea and put him in prison.
+<sup>4</sup> But the king of Assyria discovered that Hoshea had conspired to send envoys to King So of Egypt[^17-4-1], and that he had not paid tribute to the king of Assyria as in previous years. Therefore the king of Assyria arrested Hoshea and put him in prison.
 
 <sup>5</sup> Then the king of Assyria invaded the whole land, marched up to Samaria, and besieged it for three years.
 
@@ -1054,7 +1054,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> Nevertheless, the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh, along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Fuller’s Field.
 
-<sup>18</sup> Then they called for the king. And Eliakim son of Hilkiah the palace administrator, Shebnah the scribe, and Joah son of Asaph the recorder, went out to them.
+<sup>18</sup> Then they called for the king. And Eliakim son of Hilkiah the palace administrator, Shebnah the scribe, and Joah son of Asaph the recorder[^18-18-1], went out to them.
 
 <sup>19</sup> The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?
 
@@ -1509,6 +1509,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-3-1]: **7:3** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^7-13-1]: **7:13** Meaning of Heb uncertain
 [^8-16-1]: **8:16** Hebrew adds ‘while Jehoshaphat was king of Judah’; the Greek and Syriac lack these words
+[^8-19-1]: **8:19** Meaning of Heb uncertain
 [^8-21-1]: **8:21** Meaning of Heb uncertain
 [^9-6-1]: **9:6** Heb he
 [^9-13-1]: **9:13** Meaning of Heb uncertain
@@ -1516,12 +1517,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-27-1]: **9:27** The Syriac and Vulgate read ‘they shot him’; Hebrew lacks these words
 [^10-1-1]: **10:1** The Greek (Lucianic) and the Vulgate read ‘the city’; Hebrew reads ‘Jezreel’
 [^10-1-2]: **10:1** The Greek reads ‘the sons of’; Hebrew lacks these words
+[^10-6-1]: **10:6** Or leaders
 [^10-15-1]: **10:15** The Greek reads as here; Hebrew reads ‘Is your heart right, as my heart is with your heart?’
 [^10-15-2]: **10:15** The Greek reads ‘said Jehu’; Hebrew lacks these words
 [^10-16-1]: **10:16** The Greek, Syriac and Targum read ‘he had him ride’; Hebrew reads ‘they had him ride’
+[^10-19-1]: **10:19** Or slaughter
 [^10-26-1]: **10:26** The Greek, Vulgate, Syriac and Targum read ‘pillar’; Hebrew reads ‘pillars’
 [^11-2-1]: **11:2** Or children
 [^11-2-2]: **11:2** Hebrew lacks ‘she put’
+[^11-12-1]: **11:12** Or the covenant, or a royal emblem; meaning of Heb uncertain
 [^12-18-1]: **12:18** Or ancestors
 [^13-6-1]: **13:6** The Greek, Syriac, Targum and Vulgate read ‘they walked’; Hebrew reads ‘he walked’
 [^14-3-1]: **14:3** Or ancestor
@@ -1529,14 +1533,18 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-29-1]: **14:29** Or ancestors
 [^15-5-1]: **15:5** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^15-10-1]: **15:10** The Greek (Lucianic) reads ‘in Ibleam’; meaning of Heb uncertain
+[^15-25-1]: **15:25** Meaning of Heb uncertain
 [^15-38-1]: **15:38** Or ancestor
 [^16-2-1]: **16:2** Or ancestor
 [^16-6-1]: **16:6** Hebrew reads ‘for Aram’; the text is corrected to ‘Edom’
+[^16-18-2]: **16:18** Meaning of Heb uncertain
 [^16-18-1]: **16:18** Hebrew lacks ‘from’ before ‘the house of the LORD’
+[^17-4-1]: **17:4** Meaning of Heb uncertain
 [^17-8-1]: **17:8** Meaning of Heb uncertain
 [^17-9-1]: **17:9** Meaning of Heb uncertain
 [^17-27-1]: **17:27** The Syriac and Vulgate read ‘him’; Hebrew reads ‘them’
 [^18-3-1]: **18:3** Or ancestor
+[^18-18-1]: **18:18** Or herald, here and throughout
 [^19-26-1]: **19:26** A Dead Sea Scroll (compare Isaiah 37:27) reads ‘before the east wind’; meaning of Heb uncertain
 [^20-5-1]: **20:5** Or ancestor
 [^20-9-1]: **20:9** The Greek, Syriac and Targum read ‘Would the shadow go forward’; Hebrew reads ‘the shadow has gone forward’

@@ -98,7 +98,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> These are a shadow of the things to come, but the body that casts it belongs to Christ.
 
-<sup>18</sup> Let no one disqualify you, one who is bent on self-humbling and the worship of angels, taking a stand on things seen[^2-18-1], groundlessly swollen with pride by a merely human mind[^2-18-2],
+<sup>18</sup> Let no one disqualify you, one who is bent on self-humbling and the worship of angels[^2-18-3], taking a stand on things seen[^2-18-1], groundlessly swollen with pride by a merely human mind[^2-18-2],
 
 <sup>19</sup> and not holding fast to the head, from whom the whole body, supported and knit together by its joints and ligaments, grows as God causes it to grow.
 
@@ -218,14 +218,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-23-1]: **1:23** Or in all creation
 [^1-28-1]: **1:28** Some manuscripts add Jesus
 [^2-2-1]: **2:2** Some manuscripts read of the mystery of God, both of the Father and of Christ
-[^2-8-1]: **2:8** Or spirits
+[^2-8-1]: **2:8** Or elemental spirits; or elements
 [^2-11-1]: **2:11** Some manuscripts add of the sins
 [^2-13-1]: **2:13** Some manuscripts read made us or made
 [^2-15-1]: **2:15** Or divested himself of
 [^2-16-1]: **2:16** Some manuscripts read and
+[^2-18-3]: **2:18** Or worship offered by angels
 [^2-18-1]: **2:18** Meaning of Gk uncertain
 [^2-18-2]: **2:18** Gk by the mind of his flesh
-[^2-20-1]: **2:20** Or spirits
+[^2-20-1]: **2:20** Or elemental spirits; or elements
 [^2-23-1]: **2:23** Or are of no value, serving only to indulge the flesh
 [^3-4-1]: **3:4** Some manuscripts read our
 [^3-6-1]: **3:6** Gk the sons of disobedience; some manuscripts lack on those who are disobedient
