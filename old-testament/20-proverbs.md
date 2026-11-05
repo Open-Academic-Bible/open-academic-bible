@@ -1188,7 +1188,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> One who reveals secrets is a constant gossip; avoid the one who babbles with their lips.
 
-<sup>20</sup> Whoever curses their father or mother, their lamp will be extinguished in deepest darkness.
+<sup>20</sup> Whoever curses[^20-20-1] their father or mother, their lamp will be extinguished in deepest darkness.
 
 <sup>21</sup> An inheritance gained quickly will not be blessed in the end.
 
@@ -1958,6 +1958,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-19-1]: **19:19** Meaning of Heb uncertain
 [^19-27-1]: **19:27** Or child
 [^19-27-2]: **19:27** Meaning of Heb uncertain
+[^20-20-1]: **20:20** Or insults
 [^20-28-1]: **20:28** The Greek (Septuagint) reads ‘righteousness’; Hebrew reads ‘loving devotion’
 [^21-6-1]: **21:6** The Greek (Septuagint) reads ‘snare’; Hebrew reads ‘seekers’
 [^21-20-1]: **21:20** Hebrew adds ‘and oil’

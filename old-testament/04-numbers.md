@@ -490,7 +490,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> And the priest is to take the boiled shoulder from the ram, one unleavened cake from the basket, and one unleavened wafer, and put them into the hands of the nazirite who has just shaved the hair of consecration.
 
-<sup>20</sup> The priest shall then wave them as a wave offering before the LORD. This is a holy portion for the priest, in addition to the breast of the wave offering and the thigh that was presented. After that, the nazirite may drink wine.
+<sup>20</sup> The priest shall then wave them as a wave offering[^6-20-1] before the LORD. This is a holy portion for the priest, in addition to the breast of the wave offering and the thigh that was presented. After that, the nazirite may drink wine.
 
 <sup>21</sup> This is the law of the nazirite who vows an offering to the LORD for the separation, in addition to whatever else the person can afford; the nazirite must fulfill whatever vow is made, according to the law of separation.”
 
@@ -2665,6 +2665,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^5-21-1]: **5:21** Heb \*makes your thigh fall and your belly swell\*
 [^5-22-1]: **5:22** Heb \*make the belly swell and the thigh fall\*
 [^5-27-1]: **5:27** Heb \*make her belly swell and her thigh fall\*
+[^6-20-1]: **6:20** Or elevation offering, here and throughout
 [^7-89-1]: **7:89** Heb him
 [^7-89-2]: **7:89** Or and he would speak to him
 [^9-3-1]: **9:3** Heb \*between the two evenings\*

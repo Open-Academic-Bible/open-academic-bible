@@ -60,7 +60,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> But the remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the offerings made by fire[^2-10-1] to the LORD.
 
-<sup>11</sup> No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey as an offering made by fire[^2-11-1] to the LORD.
+<sup>11</sup> No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey[^2-11-2] as an offering made by fire[^2-11-1] to the LORD.
 
 <sup>12</sup> You may bring them to the LORD as an offering of the choicest products, but they must not go up on the altar as a pleasing aroma.
 
@@ -90,7 +90,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> The worshiper is to lay a hand on the head of the offering and slaughter it in front of the tent of meeting. Then Aaron’s sons shall splatter its blood on all sides of the altar.
 
-<sup>9</sup> And from the peace offering the worshiper shall bring an offering made by fire[^3-9-1] to the LORD consisting of its fat: the entire fat tail cut off close to the backbone, the fat that covers the entrails, all the fat that is on them,
+<sup>9</sup> And from the peace offering the worshiper shall bring an offering made by fire[^3-9-1] to the LORD consisting of its fat: the entire fat tail cut off close to the backbone[^3-9-2], the fat that covers the entrails, all the fat that is on them,
 
 <sup>10</sup> both kidneys with the fat on them near the loins, and the lobe of the liver, which the worshiper is to remove with the kidneys.
 
@@ -114,7 +114,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> “Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD’s commandments and does what is forbidden by them:
 
-<sup>3</sup> If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a purification offering for the sin he has committed.
+<sup>3</sup> If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a purification offering[^4-3-1] for the sin he has committed.
 
 <sup>4</sup> He must bring the bull to the entrance to the tent of meeting before the LORD, lay his hand on the bull’s head, and slaughter it before the LORD.
 
@@ -342,7 +342,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>29</sup> “Speak to the Israelites and say, ‘Anyone who presents a peace offering to the LORD must bring it as their sacrifice to the LORD.
 
-<sup>30</sup> With their own hands they are to bring the offerings made by fire[^7-30-1] to the LORD; they shall bring the fat, together with the breast, and wave the breast as a wave offering before the LORD.
+<sup>30</sup> With their own hands they are to bring the offerings made by fire[^7-30-1] to the LORD; they shall bring the fat, together with the breast, and wave the breast as a wave offering[^7-30-2] before the LORD.
 
 <sup>31</sup> The priest is to burn the fat on the altar, but the breast belongs to Aaron and his sons.
 
@@ -378,7 +378,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> Then he put the breastpiece on him and placed the Urim and Thummim in the breastpiece.
 
-<sup>9</sup> Moses also put the turban on Aaron’s head and set the gold plate, the holy diadem, on the front of the turban, as the LORD had commanded him.
+<sup>9</sup> Moses also put the turban on Aaron’s head and set the gold plate[^8-9-1], the holy diadem, on the front of the turban, as the LORD had commanded him.
 
 <sup>10</sup> Next, Moses took the anointing oil and anointed the tabernacle and everything in it; and so he consecrated them.
 
@@ -930,7 +930,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>26</sup> Any bed on which she lies or any furniture on which she sits during the days of her discharge will be unclean, like her bed during her menstrual period.
 
-<sup>27</sup> Anyone who touches these things will be unclean; they must wash their clothes and bathe with water, and they will be unclean until evening.
+<sup>27</sup> Anyone who touches these things[^15-27-1] will be unclean; they must wash their clothes and bathe with water, and they will be unclean until evening.
 
 <sup>28</sup> When a woman is cleansed of her discharge, she must count off seven days, and after that she will be ceremonially clean.
 
@@ -1204,7 +1204,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> And you shall keep my statutes and practice them. I am the LORD who sanctifies you.
 
-<sup>9</sup> If anyone curses their father or mother, they must be put to death. They have cursed their father or mother; their blood shall be upon them.
+<sup>9</sup> If anyone curses[^20-9-1] their father or mother, they must be put to death. They have cursed their father or mother; their blood shall be upon them.
 
 <sup>10</sup> If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death.
 
@@ -1446,7 +1446,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>42</sup> You are to dwell in booths for seven days. All the native-born of Israel must dwell in booths,
 
-<sup>43</sup> so that your descendants may know that I made the Israelites dwell in booths when I brought them out of the land of Egypt. I am the LORD your God.’”
+<sup>43</sup> so that your descendants may know that I made the Israelites dwell in booths[^23-43-1] when I brought them out of the land of Egypt. I am the LORD your God.’”
 
 <sup>44</sup> So Moses announced to the Israelites the appointed feasts of the LORD.
 
@@ -1783,14 +1783,17 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-3-1]: **2:3** Or the gifts
 [^2-9-1]: **2:9** Or a gift
 [^2-10-1]: **2:10** Or the gifts
+[^2-11-2]: **2:11** Or fruit syrup
 [^2-11-1]: **2:11** Or a gift
 [^2-16-1]: **2:16** Or a gift
 [^3-3-1]: **3:3** Or a gift
 [^3-5-1]: **3:5** Or a gift
 [^3-9-1]: **3:9** Or a gift
+[^3-9-2]: **3:9** Or sacrum
 [^3-11-1]: **3:11** Or a food gift
 [^3-14-1]: **3:14** Or a gift
 [^3-16-1]: **3:16** Or a food gift
+[^4-3-1]: **4:3** Or sin offering, here and throughout
 [^4-35-1]: **4:35** Or the gifts
 [^5-12-1]: **5:12** Or the gifts
 [^6-17-1]: **6:17** Or my gifts
@@ -1799,7 +1802,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-5-1]: **7:5** Or a gift
 [^7-25-1]: **7:25** Or a gift
 [^7-30-1]: **7:30** Or the LORD’s gift
+[^7-30-2]: **7:30** Or elevation offering, here and throughout
 [^7-35-1]: **7:35** Or the gifts
+[^8-9-1]: **8:9** Heb flower
 [^8-21-1]: **8:21** Or a gift
 [^8-28-1]: **8:28** Or a gift
 [^9-19-1]: **9:19** The Greek (Septuagint) adds ‘and the fat on them’; Hebrew lacks these words
@@ -1815,7 +1820,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-10-2]: **13:10** Meaning of Heb uncertain
 [^13-19-1]: **13:19** Meaning of Heb uncertain
 [^13-28-1]: **13:28** Meaning of Heb uncertain
-[^13-43-1]: **13:43** Meaning of Heb uncertain
+[^13-43-1]: **13:43** Or the discoloration; meaning of Heb uncertain
 [^13-47-1]: **13:47** Heb tsaraat; the terms leper and leprosy can refer to several diseases
 [^13-55-1]: **13:55** Meaning of Heb uncertain
 [^14-2-1]: **14:2** Heb tsaraat; the terms leper and leprosy can refer to several diseases
@@ -1826,6 +1831,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^15-2-1]: **15:2** Heb flesh
 [^15-3-1]: **15:3** Heb flesh
 [^15-3-2]: **15:3** A Dead Sea Scroll, the Greek and the Samaritan Pentateuch read ‘he is unclean for the whole time it flows or is blocked’; Hebrew lacks these words
+[^15-27-1]: **15:27** The Greek reads ‘her’
 [^16-21-1]: **16:21** Meaning of Heb uncertain
 [^16-29-1]: **16:29** Or fast
 [^16-31-1]: **16:31** Or fast
@@ -1833,6 +1839,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-16-1]: **19:16** Heb stand against the blood
 [^19-23-1]: **19:23** Heb as uncircumcised
 [^19-23-2]: **19:23** Heb uncircumcised
+[^20-9-1]: **20:9** Or insults
 [^21-6-1]: **21:6** Or the LORD’s gifts
 [^21-18-1]: **21:18** Meaning of Heb uncertain
 [^21-21-1]: **21:21** Or the LORD’s gifts
@@ -1853,6 +1860,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^23-36-2]: **23:36** Or the LORD’s gifts
 [^23-37-1]: **23:37** Or gifts
 [^23-40-1]: **23:40** Meaning of Heb uncertain
+[^23-43-1]: **23:43** Or at Succoth
 [^24-4-1]: **24:4** Heb pure lampstand
 [^24-6-1]: **24:6** Heb pure table
 [^24-7-1]: **24:7** Or a gift

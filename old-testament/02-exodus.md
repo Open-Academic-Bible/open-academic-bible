@@ -1166,7 +1166,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>16</sup> Whoever kidnaps another person must be put to death, whether the victim has been sold or is still held by the kidnapper.
 
-<sup>17</sup> Anyone who curses their father or mother must surely be put to death.
+<sup>17</sup> Anyone who curses[^21-17-1] their father or mother must surely be put to death.
 
 <sup>18</sup> If people are quarreling and one strikes the other with a stone or a fist, and the injured person does not die but is confined to bed,
 
@@ -1650,7 +1650,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> Aaron must wear the robe whenever he ministers, and its sound will be heard when he enters or exits the sanctuary before the LORD, so that he will not die.
 
-<sup>36</sup> You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE LORD.
+<sup>36</sup> You are to make a plate[^28-36-1] of pure gold and engrave on it as on a seal: HOLY TO THE LORD.
 
 <sup>37</sup> Fasten to it a blue cord to mount it on the turban; it shall be on the front of the turban.
 
@@ -1694,7 +1694,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> Take all the fat that covers the entrails and the lobe of the liver, and both kidneys with the fat on them, and burn them on the altar.
 
-<sup>14</sup> But burn the flesh of the bull and its hide and dung outside the camp; it is a purification offering.
+<sup>14</sup> But burn the flesh of the bull and its hide and dung outside the camp; it is a purification offering[^29-14-1].
 
 <sup>15</sup> Take one of the rams, and Aaron and his sons shall lay their hands on its head.
 
@@ -1714,7 +1714,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>23</sup> along with one loaf of bread, one cake of bread made with oil, and one wafer from the basket of unleavened bread that is before the LORD.
 
-<sup>24</sup> Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering.
+<sup>24</sup> Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering[^29-24-1].
 
 <sup>25</sup> Then take them from their hands and burn them on the altar atop the burnt offering as a pleasing aroma before the LORD; it is an offering made by fire[^29-25-1] to the LORD.
 
@@ -2558,6 +2558,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^20-6-1]: **20:6** Or to thousands
 [^20-13-1]: **20:13** Or kill
 [^20-18-1]: **20:18** The Samaritan Pentateuch, the Greek, Syriac and Vulgate read ‘they were afraid’; Hebrew reads ‘they saw’
+[^21-17-1]: **21:17** Or insults
 [^22-29-1]: **22:29** Meaning of Heb uncertain
 [^23-2-1]: **23:2** The Greek (Septuagint) reads ‘justice’; Hebrew lacks this word
 [^23-25-1]: **23:25** The Greek and Vulgate read ‘I will bless’; Hebrew reads ‘he will bless’
@@ -2571,7 +2572,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^28-18-1]: **28:18** Or lapis lazuli
 [^28-26-1]: **28:26** Meaning of Heb uncertain
 [^28-32-1]: **28:32** Meaning of Heb uncertain
+[^28-36-1]: **28:36** Heb flower
+[^29-14-1]: **29:14** Or sin offering, here and throughout
 [^29-18-1]: **29:18** Or a gift
+[^29-24-1]: **29:24** Or elevation offering, here and throughout
 [^29-25-1]: **29:25** Or a gift
 [^29-41-1]: **29:41** Or a gift
 [^30-20-1]: **30:20** Or a gift
