@@ -252,7 +252,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> “You are a Jew,” said the woman. “How can you ask for a drink from me, a Samaritan woman?” (For Jews do not associate with[^4-9-2] Samaritans.[^4-9-1])
 
-<sup>10</sup> Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked him, and he would have given you living water.”
+<sup>10</sup> Jesus answered, “If you knew the gift of God and who is asking you for a drink, you would have asked him, and he would have given you living water[^4-10-1].”
 
 <sup>11</sup> “Sir,”[^4-11-1] the woman replied, “you have nothing to draw with and the well is deep. Where, then, do you get this living water?
 
@@ -290,7 +290,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>28</sup> Then the woman left her water jar, went back into the town, and said to the people,
 
-<sup>29</sup> “Come, see a man who told me everything I ever did. Surely he is not the Messiah[^4-29-1], is he?”
+<sup>29</sup> “Come, see a man who told me everything I ever did. Surely he is not the Messiah[^4-29-1], is he?[^4-29-2]”
 
 <sup>30</sup> So they left the town and made their way toward Jesus.
 
@@ -940,7 +940,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>23</sup> and Jesus was walking in the temple, in Solomon’s Colonnade.
 
-<sup>24</sup> So the Jews gathered around him and demanded, “How long will you keep us in suspense? If you yourself are the Messiah,[^10-24-1] say so to us openly.”
+<sup>24</sup> So the Jews gathered around him and demanded, “How long will you keep us in suspense[^10-24-2]? If you yourself are the Messiah,[^10-24-1] say so to us openly.”
 
 <sup>25</sup> “I already told you,” Jesus replied, “but you did not believe. The works I do in my Father’s name testify on my behalf.
 
@@ -1278,7 +1278,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> “Do not let your hearts be troubled. Believe in God,[^14-1-1] and believe in me as well.
 
-<sup>2</sup> In my Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?[^14-2-1]
+<sup>2</sup> In my Father’s house are many rooms[^14-2-2]. If it were not so, would I have told you that I am going there to prepare a place for you?[^14-2-1]
 
 <sup>3</sup> And if I go and prepare a place for you, I will come back and receive you to myself, in order that you also may be where I am.
 
@@ -1540,7 +1540,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> “Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given me?”
 
-<sup>12</sup> Then the band of soldiers, with its commander and the officers of the Jews, arrested Jesus and bound him.
+<sup>12</sup> Then the band of soldiers[^18-12-1], with its commander and the officers of the Jews, arrested Jesus and bound him.
 
 <sup>13</sup> They brought him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.
 
@@ -1670,13 +1670,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> The one who saw it has testified, in order that you too may continue to believe.[^19-35-1] His testimony is true; he knows that he speaks the truth.[^19-35-2]
 
-<sup>36</sup> Now these things happened so that the scripture would be fulfilled: “Not one of his bones will be broken.”
+<sup>36</sup> Now these things happened so that the scripture would be fulfilled: “Not one of his bones[^19-36-1] will be broken.”
 
 <sup>37</sup> And, as another scripture says: “They will look on the one they have pierced.”
 
 <sup>38</sup> Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews[^19-38-1]), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed his body.
 
-<sup>39</sup> Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about a hundred pounds.
+<sup>39</sup> Nicodemus, who had previously come to Jesus at night, also brought a mixture of myrrh and aloes, about a hundred pounds[^19-39-1].
 
 <sup>40</sup> So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.
 
@@ -1836,6 +1836,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-1-1]: **4:1** Some manuscripts read the Lord
 [^4-9-2]: **4:9** Or do not share vessels with
 [^4-9-1]: **4:9** Some manuscripts lack this sentence
+[^4-10-1]: **4:10** Or running water; also in v. 11
 [^4-11-1]: **4:11** Or Lord
 [^4-12-1]: **4:12** Or ancestor
 [^4-15-1]: **4:15** Or Lord
@@ -1845,6 +1846,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-22-1]: **4:22** Gk the word for you is plural
 [^4-26-1]: **4:26** Gk I am
 [^4-29-1]: **4:29** Or the Christ
+[^4-29-2]: **4:29** Or Could this be the Messiah?
 [^4-36-1]: **4:36** Or for they are already ripe for harvest. The reaper draws his wages
 [^4-48-1]: **4:48** Gk both instances of you are plural
 [^4-49-1]: **4:49** Or Lord
@@ -1908,6 +1910,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-38-1]: **9:38** Or Sir
 [^10-8-1]: **10:8** Some manuscripts lack before me
 [^10-18-1]: **10:18** Some manuscripts read has taken
+[^10-24-2]: **10:24** Gk take away our life
 [^10-24-1]: **10:24** Or the Christ
 [^10-29-1]: **10:29** Some manuscripts read What my Father has given me is greater than all else or my Father, who has given them to me, is greater than all
 [^10-34-1]: **10:34** Some manuscripts read in the law
@@ -1937,6 +1940,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-26-1]: **13:26** Some manuscripts read Judas Iscariot son of Simon or Judas son of Simon from Karyot (Kerioth)
 [^13-32-1]: **13:32** Some manuscripts lack If God has been glorified in him
 [^14-1-1]: **14:1** Or you believe in God
+[^14-2-2]: **14:2** Or dwelling places
 [^14-2-1]: **14:2** Or If it were not so, I would have told you, for I am going to prepare a place for you
 [^14-4-1]: **14:4** Some manuscripts read Where I am going you know, and the way you know
 [^14-7-1]: **14:7** Some manuscripts read If you had known me, you would have known my Father also
@@ -1971,6 +1975,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^18-6-2]: **18:6** Gk I am
 [^18-7-1]: **18:7** Gk the Nazorean
 [^18-8-1]: **18:8** Gk I am
+[^18-12-1]: **18:12** Gk cohort
 [^18-14-1]: **18:14** Or the Jewish authorities
 [^18-28-1]: **18:28** Or the Jewish authorities, here and throughout the trial before Pilate
 [^19-5-1]: **19:5** Gk he
@@ -1982,7 +1987,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^19-31-1]: **19:31** Or the Jewish authorities
 [^19-35-1]: **19:35** Or may come to believe
 [^19-35-2]: **19:35** Or there is one who knows that he speaks the truth
+[^19-36-1]: **19:36** Or Not one of its bones (the Passover lamb)
 [^19-38-1]: **19:38** Or the Jewish authorities
+[^19-39-1]: **19:39** Gk a hundred litras, about 75 pounds
 [^20-11-1]: **20:11** Gk lacks to look
 [^20-15-1]: **20:15** Or Lord
 [^20-16-1]: **20:16** Or Aramaic
