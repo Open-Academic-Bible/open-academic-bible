@@ -230,7 +230,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>18</sup> Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”
 
-<sup>19</sup> Without weakening in faith, he considered his own body, which was already as good as dead[^4-19-1] (he was about a hundred years old), and the barrenness of Sarah’s womb.
+<sup>19</sup> Without weakening in faith, he considered[^4-19-2] his own body, which was already as good as dead[^4-19-1] (he was about a hundred years old), and the barrenness of Sarah’s womb.
 
 <sup>20</sup> Yet he did not waver through disbelief in the promise of God, but was strengthened in his faith and gave glory to God,
 
@@ -420,7 +420,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> For you did not receive a spirit of slavery that returns you to fear, but you received a spirit of adoption. When we cry[^8-15-2], “Abba! Father!”[^8-15-1]
 
-<sup>16</sup> it is that very Spirit testifying with our spirit that we are God’s children.
+<sup>16</sup> it is that very Spirit testifying with our spirit[^8-16-1] that we are God’s children.
 
 <sup>17</sup> And if we are children, then we are heirs: heirs of God and co-heirs with Christ—if indeed we suffer with him, so that we may also be glorified with him.
 
@@ -440,7 +440,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>25</sup> But if we hope for what we do not yet see, we wait for it patiently.
 
-<sup>26</sup> In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray, but the Spirit himself intercedes with groans[^8-26-1] too deep for words.
+<sup>26</sup> In the same way, the Spirit helps us in our weakness. For we do not know how we ought to pray[^8-26-2], but the Spirit himself intercedes with groans[^8-26-1] too deep for words.
 
 <sup>27</sup> And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes[^8-27-1] for the saints according to the will of God.
 
@@ -564,7 +564,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> for, “Everyone who calls on the name of the Lord will be saved.”
 
-<sup>14</sup> How then can they call on the one in whom they have not believed[^10-14-1]? And how can they believe[^10-14-2] in the one of whom they have not heard? And how can they hear without someone to preach?
+<sup>14</sup> How then can they call on the one in whom they have not believed[^10-14-1]? And how can they believe[^10-14-2] in the one of whom they have not heard[^10-14-3]? And how can they hear without someone to preach?
 
 <sup>15</sup> And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”
 
@@ -927,6 +927,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-11-3]: **4:11** Or trust
 [^4-12-1]: **4:12** Or ancestor
 [^4-17-1]: **4:17** Or trusted
+[^4-19-2]: **4:19** Some manuscripts read he did not consider
 [^4-19-1]: **4:19** Some manuscripts lack already
 [^4-24-1]: **4:24** Or trust
 [^5-1-1]: **5:1** Some manuscripts read let us have peace with God
@@ -951,7 +952,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-11-2]: **8:11** Some manuscripts read on account of his Spirit
 [^8-15-2]: **8:15** Or adoption, by which we cry, ‘Abba! Father!’ The Spirit itself testifies
 [^8-15-1]: **8:15** Aramaic for Father
+[^8-16-1]: **8:16** Or testifying to our spirit
 [^8-24-1]: **8:24** Or by hope
+[^8-26-2]: **8:26** Or what we ought to pray for
 [^8-26-1]: **8:26** Some manuscripts add for us
 [^8-27-1]: **8:27** Gk he or it
 [^8-28-1]: **8:28** Some manuscripts read God makes all things work together, or in all things God works
@@ -968,6 +971,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-11-1]: **10:11** Or trusts
 [^10-14-1]: **10:14** Or trusted
 [^10-14-2]: **10:14** Or trust
+[^10-14-3]: **10:14** Or whom they have not heard
 [^10-16-1]: **10:16** Or gospel
 [^10-16-2]: **10:16** Or trusted
 [^10-17-2]: **10:17** Or trust

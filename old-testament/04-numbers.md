@@ -878,7 +878,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> Now the manna resembled coriander seed, and its appearance was like that of gum resin.
 
-<sup>8</sup> The people walked around and gathered it, ground it on a handmill or crushed it in a mortar, then boiled it in a cooking pot or shaped it into cakes. It tasted like pastry baked with fine oil.
+<sup>8</sup> The people walked around and gathered it, ground it on a handmill or crushed it in a mortar, then boiled it in a cooking pot or shaped it into cakes. It tasted like pastry baked with fine oil[^11-8-1].
 
 <sup>9</sup> When the dew fell on the camp at night, the manna would fall with it.
 
@@ -1054,7 +1054,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>8</sup> If the LORD delights in us, he will bring us into this land, a land flowing with milk and honey, and he will give it to us.
 
-<sup>9</sup> Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection has been removed, and the LORD is with us. Do not be afraid of them!”
+<sup>9</sup> Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection[^14-9-1] has been removed, and the LORD is with us. Do not be afraid of them!”
 
 <sup>10</sup> But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the tent of meeting.
 
@@ -1432,7 +1432,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> Whoever touches any dead body will be unclean for seven days.
 
-<sup>12</sup> They must purify themselves with the water on the third day and on the seventh day; then they will be clean. But if they do not purify themselves on the third and seventh days, they will not be clean.
+<sup>12</sup> They must purify themselves with the water[^19-12-1] on the third day and on the seventh day; then they will be clean. But if they do not purify themselves on the third and seventh days, they will not be clean.
 
 <sup>13</sup> Anyone who touches a human corpse and fails to purify themselves defiles the tabernacle of the LORD. That person must be cut off from Israel. Such a person remains unclean, because the water of purification has not been sprinkled on them, and their uncleanness is still on them.
 
@@ -1478,7 +1478,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> Then Moses raised his hand and struck the rock twice with his staff, so that a great amount of water gushed out, and the congregation and their livestock were able to drink.
 
-<sup>12</sup> But the LORD said to Moses and Aaron, “Because you did not trust me to show my holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”
+<sup>12</sup> But the LORD said to Moses and Aaron, “Because you did not trust me to show my holiness[^20-12-1] in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”
 
 <sup>13</sup> These were the waters of Meribah[^20-13-1], where the Israelites quarreled with the LORD, and he showed his holiness among them.
 
@@ -1522,7 +1522,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> And the LORD heard Israel’s plea and delivered up the Canaanites. Israel devoted them and their cities to destruction; so they named the place Hormah[^21-3-1].
 
-<sup>4</sup> Then they set out from Mount Hor along the route to the Red Sea[^21-4-1], in order to bypass the land of Edom. But the people grew impatient on the journey
+<sup>4</sup> Then they set out from Mount Hor along the route to the Red Sea[^21-4-1], in order to bypass the land of Edom. But the people grew impatient on the journey[^21-4-2]
 
 <sup>5</sup> and spoke against God and against Moses: “Why have you led us up out of Egypt to die in the wilderness? There is no bread or water, and we detest this wretched food!”
 
@@ -1544,7 +1544,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Therefore it is stated in the Book of the Wars of the LORD: “Waheb in Suphah and the wadis of the Arnon,
 
-<sup>15</sup> even the slopes of the wadis that extend to the site of Ar and lie along the border of Moab.[^21-15-1]”
+<sup>15</sup> even the slopes[^21-15-2] of the wadis that extend to the site of Ar and lie along the border of Moab.[^21-15-1]”
 
 <sup>16</sup> From there they went on to Beer[^21-16-1], the well where the LORD said to Moses, “Gather the people so that I may give them water.”
 
@@ -1630,7 +1630,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>21</sup> So in the morning Balaam got up, saddled his donkey, and went with the officials of Moab.
 
-<sup>22</sup> Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.
+<sup>22</sup> Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him[^22-22-1]. Balaam was riding his donkey, and his two servants were with him.
 
 <sup>23</sup> When the donkey saw the angel of the LORD standing in the road with a drawn sword in his hand, she turned off the path and went into a field. So Balaam beat her to return her to the path.
 
@@ -1658,7 +1658,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the officials of Balak.
 
-<sup>36</sup> When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory.
+<sup>36</sup> When Balak heard that Balaam was coming, he went out to meet him at the Moabite city[^22-36-1] on the Arnon border, at the edge of his territory.
 
 <sup>37</sup> And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”
 
@@ -1668,7 +1668,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>40</sup> Balak sacrificed cattle and sheep, and he gave portions to Balaam and the officials who were with him.
 
-<sup>41</sup> The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see part of the people.
+<sup>41</sup> The next morning, Balak took Balaam and brought him up to Bamoth-baal. From there he could see part of the people[^22-41-1].
 
 ## Chapter 23
 
@@ -1740,7 +1740,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>3</sup> and he lifted up an oracle, saying: “This is the oracle of Balaam son of Beor, the oracle of the man whose eye is clear[^24-3-1],
 
-<sup>4</sup> the oracle of one who hears the words of God, who sees a vision from the Almighty[^24-4-1], who falls down with eyes uncovered:
+<sup>4</sup> the oracle of one who hears the words of God, who sees a vision from the Almighty[^24-4-1], who falls down with eyes uncovered[^24-4-2]:
 
 <sup>5</sup> How lovely are your tents, O Jacob, your dwellings, O Israel!
 
@@ -1764,7 +1764,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> Then Balaam lifted up an oracle, saying, “This is the oracle of Balaam son of Beor, the oracle of the man whose eye is clear[^24-15-1],
 
-<sup>16</sup> the oracle of one who hears the words of God, who has knowledge from the Most High[^24-16-1], who sees a vision from the Almighty[^24-16-2], who falls down with eyes uncovered:
+<sup>16</sup> the oracle of one who hears the words of God, who has knowledge from the Most High[^24-16-1], who sees a vision from the Almighty[^24-16-2], who falls down with eyes uncovered[^24-16-3]:
 
 <sup>17</sup> I see him, but not now; I behold him, but not near. A star will come forth from Jacob, and a scepter will arise from Israel. It will crush the foreheads of Moab[^24-17-1] and the heads of all the sons of Sheth[^24-17-2].
 
@@ -1780,7 +1780,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>23</sup> Once more Balaam lifted up an oracle, saying: “Alas, who will live when God does this[^24-23-1]?
 
-<sup>24</sup> Ships will come from the coasts of Cyprus; they will subdue Asshur and Eber, but they too will perish forever.”
+<sup>24</sup> Ships will come from the coasts of Cyprus[^24-24-1]; they will subdue Asshur and Eber, but they too will perish forever.”
 
 <sup>25</sup> Then Balaam arose and returned to his homeland, and Balak also went on his way.
 
@@ -1800,7 +1800,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> On seeing this, Phinehas son of Eleazar, the son of Aaron the priest, got up from the assembly, took a spear in his hand,
 
-<sup>8</sup> followed the Israelite into the tent, and drove the spear through both of them—through the Israelite and on through the belly of the woman. So the plague against the Israelites was halted,
+<sup>8</sup> followed the Israelite into the tent[^25-8-1], and drove the spear through both of them—through the Israelite and on through the belly of the woman. So the plague against the Israelites was halted,
 
 <sup>9</sup> but those who died in the plague numbered 24,000.
 
@@ -2662,7 +2662,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^4-20-1]: **4:20** Heb they
 [^4-25-1]: **4:25** Meaning of Heb uncertain
 [^5-2-1]: **5:2** Heb tsaraat; the terms leper and leprosy can refer to several diseases
-[^5-21-1]: **5:21** Heb \*makes your thigh fall and your belly swell\*
+[^5-21-1]: **5:21** Heb \*makes your thigh fall and your belly swell\*; meaning of Heb uncertain
 [^5-22-1]: **5:22** Heb \*make the belly swell and the thigh fall\*
 [^5-27-1]: **5:27** Heb \*make her belly swell and her thigh fall\*
 [^6-20-1]: **6:20** Or elevation offering, here and throughout
@@ -2672,12 +2672,14 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-5-1]: **9:5** Heb \*between the two evenings\*
 [^9-11-1]: **9:11** Heb \*between the two evenings\*
 [^9-16-1]: **9:16** The Greek (Septuagint), Syriac and Vulgate read \*by day\*; Hebrew lacks these words
-[^10-36-1]: **10:36** Meaning of Heb uncertain
+[^10-36-1]: **10:36** Or the ten thousand clans of Israel; meaning of Heb uncertain
 [^11-3-1]: **11:3** Heb \*Taberah\* means burning
+[^11-8-1]: **11:8** Meaning of Heb uncertain
 [^11-28-1]: **11:28** Or from his youth
 [^11-34-1]: **11:34** Heb \*Kibroth-hattaavah\* means graves of craving
 [^12-10-1]: **12:10** Heb \*metsora'at\*, afflicted with \*tsara'at\*; the terms leper and leprosy can refer to several diseases
 [^13-24-1]: **13:24** Heb \*Eshcol\* means cluster
+[^14-9-1]: **14:9** Heb shadow
 [^14-18-1]: **14:18** Or parents
 [^14-25-1]: **14:25** Or Sea of Reeds
 [^15-3-1]: **15:3** Or a gift
@@ -2689,14 +2691,18 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^18-17-1]: **18:17** Or a gift
 [^19-5-1]: **19:5** Or dung
 [^19-8-1]: **19:8** Heb it
+[^19-12-1]: **19:12** Heb with it
 [^19-16-1]: **19:16** Hebrew lacks \*of natural causes\*
+[^20-12-1]: **20:12** Or to treat me as holy
 [^20-13-1]: **20:13** Heb \*Meribah\* means quarrel
 [^20-26-1]: **20:26** Hebrew lacks \*to his people\*
 [^21-3-1]: **21:3** Heb \*Hormah\* means destruction
 [^21-4-1]: **21:4** Or Sea of Reeds
+[^21-4-2]: **21:4** Or because of the journey
 [^21-6-1]: **21:6** Or fiery
 [^21-8-1]: **21:8** Or fiery
 [^21-13-1]: **21:13** The Greek (Septuagint) reads \*in the wilderness\*; Hebrew reads \*which is in the wilderness\*
+[^21-15-2]: **21:15** Meaning of Heb uncertain
 [^21-15-1]: **21:15** Meaning of Heb uncertain
 [^21-16-1]: **21:16** Heb \*Beer\* means well
 [^21-20-1]: **21:20** Or Jeshimon
@@ -2706,24 +2712,31 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-5-1]: **22:5** Heb \*the River\*
 [^22-5-2]: **22:5** Or land of his people
 [^22-11-1]: **22:11** Some Hebrew manuscripts, the Samaritan Pentateuch, a Dead Sea Scroll and the Greek (Septuagint) read \*a people has come out\*; Hebrew reads \*the people that is coming out\*
+[^22-22-1]: **22:22** Heb as an adversary
 [^22-32-1]: **22:32** Meaning of Heb uncertain
+[^22-36-1]: **22:36** Or Ir-moab
+[^22-41-1]: **22:41** Heb the edge of the people
 [^23-2-1]: **23:2** Some Hebrew manuscripts and the Greek (Septuagint) read as here; Hebrew reads \*Balak and Balaam offered\*
 [^23-4-1]: **23:4** Heb he
 [^23-6-1]: **23:6** Heb him
 [^23-7-1]: **23:7** Heb he
-[^23-10-1]: **23:10** Or fourth part
+[^23-10-1]: **23:10** Or fourth part; the Greek reads ‘myriads’
 [^23-15-1]: **23:15** Heb he
 [^23-18-1]: **23:18** Heb he
 [^23-28-1]: **23:28** Or Jeshimon
-[^24-3-1]: **24:3** Or closed or open
+[^24-3-1]: **24:3** Or closed or open; meaning of Heb uncertain
 [^24-4-1]: **24:4** Traditional rendering of Heb \*Shaddai\*
+[^24-4-2]: **24:4** Meaning of Heb uncertain
 [^24-8-1]: **24:8** Meaning of Heb uncertain
 [^24-15-1]: **24:15** Or closed or open
 [^24-16-1]: **24:16** Or of Elyon
 [^24-16-2]: **24:16** Traditional rendering of Heb \*Shaddai\*
+[^24-16-3]: **24:16** Meaning of Heb uncertain
 [^24-17-1]: **24:17** Or borderlands
 [^24-17-2]: **24:17** Or territory
 [^24-23-1]: **24:23** Meaning of Heb uncertain
+[^24-24-1]: **24:24** Meaning of Heb uncertain
+[^25-8-1]: **25:8** Meaning of Heb uncertain
 [^26-1-1]: **26:1** The Greek (Septuagint) and Old Latin read as here; Hebrew adds \*son of Aaron\*
 [^26-4-1]: **26:4** Hebrew lacks \*Take a census of the people\*
 [^28-2-1]: **28:2** Or gifts
@@ -2744,7 +2757,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^31-6-1]: **31:6** Hebrew adds \*to the war\*; the Greek (Septuagint) lacks it
 [^32-17-1]: **32:17** The Greek (Septuagint) reads \*vanguard\*; Hebrew reads \*hurrying\*
 [^32-32-1]: **32:32** Heb \*beyond\*
-[^32-41-1]: **32:41** Heb \*Havvoth-jair\* means the villages of Jair
+[^32-41-1]: **32:41** Heb \*Havvoth-jair\* probably means the tent-villages of Jair
 [^33-8-1]: **33:8** Some Hebrew manuscripts, the Samaritan Pentateuch, Syriac and the Vulgate read as here; Hebrew reads \*from before Hahiroth\*
 [^33-10-1]: **33:10** Or Sea of Reeds
 [^33-11-1]: **33:11** Or Sea of Reeds
