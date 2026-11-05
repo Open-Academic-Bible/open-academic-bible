@@ -12,7 +12,7 @@
 
 <sup>5</sup> because I hear about your faith in the Lord Jesus and your love for all the saints.
 
-<sup>6</sup> I pray that the partnership that springs from your faith will prove effective as you come to understand fully all the good we share in Christ.[^1-6-1][^1-6-2]
+<sup>6</sup> I pray that the partnership[^1-6-3] that springs from your faith will prove effective as you come to understand fully all the good we share in Christ.[^1-6-1][^1-6-2]
 
 <sup>7</sup> I take great joy[^1-7-1] and encouragement in your love, because through you, brother, the saints have had their hearts refreshed.
 
@@ -32,7 +32,7 @@
 
 <sup>15</sup> For perhaps this is why he was separated from you for a while, so that you might have him back for good—
 
-<sup>16</sup> not as a slave any longer but as more than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person and in the Lord.
+<sup>16</sup> not as a slave any longer but as more than a slave, as a beloved brother. He is especially beloved to me, but even more so to you, both in person[^1-16-1] and in the Lord.
 
 <sup>17</sup> So if you consider me a partner, receive him as you would receive me.
 
@@ -40,7 +40,7 @@
 
 <sup>19</sup> I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self.
 
-<sup>20</sup> Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ[^1-20-1].
+<sup>20</sup> Yes, brother, let me have some benefit[^1-20-2] from you in the Lord. Refresh my heart in Christ[^1-20-1].
 
 <sup>21</sup> Confident of your obedience, I write to you, knowing that you will do even more than I ask.
 
@@ -57,6 +57,7 @@
 [^1-2-1]: **1:2** Some manuscripts read beloved
 [^1-2-2]: **1:2** Gk your is singular
 [^1-4-1]: **1:4** Gk you is singular in verses 4–21
+[^1-6-3]: **1:6** Or sharing
 [^1-6-1]: **1:6** Some manuscripts read you (plural)
 [^1-6-2]: **1:6** Some manuscripts add Jesus
 [^1-7-1]: **1:7** Some manuscripts read we have
@@ -64,6 +65,8 @@
 [^1-11-1]: **1:11** Gk the name Onesimus means useful
 [^1-11-2]: **1:11** Some manuscripts read both to
 [^1-12-1]: **1:12** Some manuscripts read you; receive him
+[^1-16-1]: **1:16** Gk in the flesh
+[^1-20-2]: **1:20** Gk onaimen, a play on the name Onesimus
 [^1-20-1]: **1:20** Some manuscripts read in the Lord
 [^1-23-1]: **1:23** Gk you is singular here
 [^1-25-1]: **1:25** Some manuscripts add Amen
