@@ -1332,7 +1332,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>30</sup> Little by little I will drive them out ahead of you, until you become fruitful and possess the land.
 
-<sup>31</sup> And I will establish your borders from the Red Sea[^23-31-1] to the Sea of the Philistines, and from the desert to the Euphrates. For I will deliver the inhabitants into your hand, and you will drive them out before you.
+<sup>31</sup> And I will establish your borders from the Red Sea[^23-31-1] to the Sea of the Philistines, and from the desert to the Euphrates[^23-31-2]. For I will deliver the inhabitants into your hand, and you will drive them out before you.
 
 <sup>32</sup> You shall make no covenant with them or with their gods.
 
@@ -2564,6 +2564,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^23-25-1]: **23:25** The Greek and Vulgate read ‘I will bless’; Hebrew reads ‘he will bless’
 [^23-28-1]: **23:28** Meaning of Heb uncertain
 [^23-31-1]: **23:31** Or Sea of Reeds
+[^23-31-2]: **23:31** Heb the River
 [^24-11-1]: **24:11** Heb he
 [^25-5-2]: **25:5** Heb reddened, here and throughout
 [^25-5-1]: **25:5** Meaning of Heb uncertain

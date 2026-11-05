@@ -40,11 +40,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time.
 
-<sup>7</sup> I also said to him, “If it pleases the king, may letters be given to me for the governors west of the Euphrates, so that they will grant me safe passage until I reach Judah.
+<sup>7</sup> I also said to him, “If it pleases the king, may letters be given to me for the governors west of the Euphrates[^2-7-1], so that they will grant me safe passage until I reach Judah.
 
 <sup>8</sup> And may I have a letter to Asaph, keeper of the king’s forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy.” And because the gracious hand of my God was upon me, the king granted my requests.
 
-<sup>9</sup> Then I went to the governors west of the Euphrates and gave them the king’s letters. The king had also sent army officers and cavalry with me.
+<sup>9</sup> Then I went to the governors west of the Euphrates[^2-9-1] and gave them the king’s letters. The king had also sent army officers and cavalry with me.
 
 <sup>10</sup> But when Sanballat the Horonite and Tobiah the Ammonite official[^2-10-1] heard about this, they were deeply disturbed that someone had come to seek the well-being of the Israelites.
 
@@ -82,7 +82,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> The Jeshanah Gate was repaired by Joiada son of Paseah and Meshullam son of Besodeiah. They laid its beams and installed its doors, bolts, and bars.
 
-<sup>7</sup> Next to them, repairs were made by Melatiah the Gibeonite, Jadon the Meronothite, and the men of Gibeon and Mizpah, who were under the authority of the governor[^3-7-1] of the region west of the Euphrates.
+<sup>7</sup> Next to them, repairs were made by Melatiah the Gibeonite, Jadon the Meronothite, and the men of Gibeon and Mizpah, who were under the authority of the governor[^3-7-1] of the region west of the Euphrates[^3-7-2].
 
 <sup>8</sup> Next to them, Uzziel son of Harhaiah, one of the goldsmiths, made repairs. And next to him, Hananiah, one of the perfumers, made repairs. They fortified Jerusalem as far as the Broad Wall.
 
@@ -842,10 +842,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 ---
 
+[^2-7-1]: **2:7** Heb the River
+[^2-9-1]: **2:9** Heb the River
 [^2-10-1]: **2:10** Heb servant
 [^2-19-1]: **2:19** Heb servant
 [^3-5-1]: **3:5** Or lords
 [^3-7-1]: **3:7** Meaning of Heb uncertain
+[^3-7-2]: **3:7** Heb the River
 [^3-9-1]: **3:9** Or supervisor of half the portion assigned to Jerusalem
 [^3-12-1]: **3:12** Or supervisor of half the portion assigned to Jerusalem
 [^3-14-1]: **3:14** Or supervisor of the portion assigned to Beth-haccherem

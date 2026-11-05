@@ -410,7 +410,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>25</sup> Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.
 
-<sup>26</sup> He reigned over all the kings from the Euphrates to the land of the Philistines, as far as the border of Egypt.
+<sup>26</sup> He reigned over all the kings from the Euphrates[^9-26-1] to the land of the Philistines, as far as the border of Egypt.
 
 <sup>27</sup> The king made silver as common in Jerusalem as stones, and cedar as abundant as sycamore in the foothills.
 
@@ -1736,6 +1736,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^9-15-1]: **9:15** Hebrew lacks ‘shekels’
 [^9-16-1]: **9:16** Hebrew lacks ‘shekels’
 [^9-21-1]: **9:21** Or baboons
+[^9-26-1]: **9:26** Heb the River
 [^13-11-1]: **13:11** Heb pure table
 [^13-19-1]: **13:19** Or Ephrain
 [^14-13-1]: **14:13** Heb They

@@ -304,13 +304,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> The people of Judah and Israel were as numerous as the sand on the seashore, and they were eating and drinking and rejoicing.
 
-<sup>21</sup> And Solomon reigned over all the kingdoms from the Euphrates to the land of the Philistines, as far as the border of Egypt. These kingdoms offered tribute and served Solomon all the days of his life.[^4-21-1]
+<sup>21</sup> And Solomon reigned over all the kingdoms from the Euphrates[^4-21-2] to the land of the Philistines, as far as the border of Egypt. These kingdoms offered tribute and served Solomon all the days of his life.[^4-21-1]
 
 <sup>22</sup> Solomon’s provisions for a single day were thirty cors of fine flour, sixty cors of meal,
 
 <sup>23</sup> ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles, roebucks, and fattened poultry.
 
-<sup>24</sup> For Solomon had dominion over everything west of the Euphrates[^4-24-1], and he had peace on all sides.
+<sup>24</sup> For Solomon had dominion over everything west of the Euphrates[^4-24-1][^4-24-2], and he had peace on all sides.
 
 <sup>25</sup> Throughout the days of Solomon, Judah and Israel dwelt securely from Dan to Beersheba, everyone under their own vine and fig tree.
 
@@ -1060,7 +1060,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> Moreover, the LORD will raise up for himself a king over Israel who will cut off the house of Jeroboam. This is the day—yes, even today![^14-14-1]
 
-<sup>15</sup> For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that he gave their ancestors, and he will scatter them beyond the Euphrates, because they have made their Asherah poles, provoking the LORD to anger.
+<sup>15</sup> For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that he gave their ancestors, and he will scatter them beyond the Euphrates[^14-15-1], because they have made their Asherah poles, provoking the LORD to anger.
 
 <sup>16</sup> So he will give Israel over on account of the sins Jeroboam has committed and has caused Israel to commit.”
 
@@ -1687,8 +1687,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^2-5-2]: **2:5** The Greek reads ‘my’; Hebrew reads ‘his’
 [^2-5-3]: **2:5** The Greek reads ‘my’; Hebrew reads ‘his’
 [^2-5-1]: **2:5** The Greek reads ‘innocent blood’; Hebrew reads ‘blood of war’
+[^4-21-2]: **4:21** Heb the River
 [^4-21-1]: **4:21** The Greek lacks verses 20–21
 [^4-24-1]: **4:24** Hebrew adds ‘from Tiphsah to Gaza, over all the kings west of the Euphrates’
+[^4-24-2]: **4:24** Heb the River
 [^5-3-1]: **5:3** The Greek reads ‘he’; Hebrew reads ‘the LORD’
 [^5-3-2]: **5:3** The Greek, Targum and Vulgate read ‘the soles of his feet’; Hebrew reads ‘my feet’ or ‘his feet’
 [^5-14-1]: **5:14** Heb in his house
@@ -1727,6 +1729,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^13-23-1]: **13:23** Heb he
 [^13-29-1]: **13:29** The Greek reads ‘to the city’; Hebrew reads ‘he came to the town of the old prophet’
 [^14-14-1]: **14:14** Meaning of Heb uncertain
+[^14-15-1]: **14:15** Heb the River
 [^14-24-1]: **14:24** Heb qadesh, here and in 15:12 and 22:46, literally consecrated one; traditionally rendered male shrine prostitutes
 [^15-26-1]: **15:26** Or ancestor
 [^15-28-1]: **15:28** Heb him

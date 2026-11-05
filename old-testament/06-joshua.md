@@ -1302,9 +1302,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>1</sup> Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.
 
-<sup>2</sup> And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers[^24-2-1], including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods.
+<sup>2</sup> And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers[^24-2-1], including Terah the father of Abraham and Nahor, lived beyond the Euphrates[^24-2-2] and worshiped other gods.
 
-<sup>3</sup> But I took your father Abraham from beyond the Euphrates and led him through all the land of Canaan, and I multiplied his descendants. I gave him Isaac,
+<sup>3</sup> But I took your father Abraham from beyond the Euphrates[^24-3-1] and led him through all the land of Canaan, and I multiplied his descendants. I gave him Isaac,
 
 <sup>4</sup> and to Isaac I gave Jacob and Esau. I gave Esau Mount Seir to possess, but Jacob and his sons went down to Egypt.
 
@@ -1326,9 +1326,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>13</sup> So I gave you a land on which you did not toil and cities that you did not build, and now you live in them and eat from vineyards and olive groves that you did not plant.’
 
-<sup>14</sup> Now, therefore, fear the LORD and serve him in sincerity and truth; cast aside the gods your ancestors served beyond the Euphrates and in Egypt, and serve the LORD.
+<sup>14</sup> Now, therefore, fear the LORD and serve him in sincerity and truth; cast aside the gods your ancestors served beyond the Euphrates[^24-14-1] and in Egypt, and serve the LORD.
 
-<sup>15</sup> But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”
+<sup>15</sup> But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates[^24-15-1], or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”
 
 <sup>16</sup> The people replied, “Far be it from us to forsake the LORD to serve other gods!
 
@@ -1403,6 +1403,10 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^22-19-1]: **22:19** Or make rebels of us
 [^22-34-1]: **22:34** Some Hebrew manuscripts and Syriac read ‘Witness’; the standard Hebrew text lacks it
 [^24-2-1]: **24:2** Or ancestors
+[^24-2-2]: **24:2** Heb the River
+[^24-3-1]: **24:3** Heb the River
 [^24-6-1]: **24:6** Or Sea of Reeds
 [^24-12-1]: **24:12** Meaning of Heb uncertain
+[^24-14-1]: **24:14** Heb the River
+[^24-15-1]: **24:15** Heb the River
 [^24-32-1]: **24:32** Heb one hundred qesitah

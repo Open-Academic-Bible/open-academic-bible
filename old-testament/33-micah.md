@@ -208,7 +208,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> The day for rebuilding your walls will come—the day for extending your boundary.
 
-<sup>12</sup> On that day they will come to you from Assyria as far as Egypt, then from Egypt to the Euphrates[^7-12-1], from sea to sea and mountain to mountain.
+<sup>12</sup> On that day they will come to you from Assyria as far as Egypt, then from Egypt to the Euphrates[^7-12-1][^7-12-2], from sea to sea and mountain to mountain.
 
 <sup>13</sup> Then the earth will become desolate because of its inhabitants, as the fruit of their deeds.
 
@@ -251,5 +251,6 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-3-1]: **7:3** Heb they weave it
 [^7-4-1]: **7:4** Heb your watchmen, the day of your visitation
 [^7-12-1]: **7:12** Some Hebrew manuscripts read ‘from Assyria to Egypt’; Hebrew reads ‘Assyria and the cities of’
+[^7-12-2]: **7:12** Heb the River
 [^7-15-1]: **7:15** Heb I will show him wonders
 [^7-19-1]: **7:19** The Greek, Syriac, Vulgate and Targum read ‘our sins’; Hebrew reads ‘their sins’

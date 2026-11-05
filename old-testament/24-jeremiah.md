@@ -78,7 +78,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>17</sup> Have you not brought this on yourself by forsaking the LORD your God when he led you in the way?
 
-<sup>18</sup> Now what will you gain on your way to Egypt to drink the waters of the Nile? What will you gain on your way to Assyria to drink the waters of the Euphrates?
+<sup>18</sup> Now what will you gain on your way to Egypt to drink the waters of the Nile? What will you gain on your way to Assyria to drink the waters of the Euphrates[^2-18-1]?
 
 <sup>19</sup> Your own evil will discipline you; your own apostasies will reprimand you. Consider and realize how evil and bitter it is for you to forsake the LORD your God and to have no fear of me,” declares the Lord GOD of hosts.
 
@@ -2838,6 +2838,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 [^1-12-1]: **1:12** Heb the word for almond sounds like the word for watching
 [^2-8-1]: **2:8** Heb shepherds
+[^2-18-1]: **2:18** Heb the River
 [^2-31-1]: **2:31** Meaning of Heb uncertain
 [^2-34-1]: **2:34** Meaning of Heb uncertain
 [^3-1-1]: **3:1** The Greek and Syriac read ‘If’; Hebrew reads ‘Saying, if’

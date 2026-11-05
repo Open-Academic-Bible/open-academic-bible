@@ -216,9 +216,9 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> From Rehum the royal deputy, Shimshai the scribe, and the rest of their associates—the judges, the envoys, the officials, the Persians, the Erechites, the Babylonians, and the Susanites (the Elamites),
 
-<sup>10</sup> and the rest of the peoples whom the great and honorable Osnappar deported and settled in the cities of Samaria and elsewhere west of the Euphrates.
+<sup>10</sup> and the rest of the peoples whom the great and honorable Osnappar deported and settled in the cities of Samaria and elsewhere west of the Euphrates[^4-10-1].
 
-<sup>11</sup> (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the people west of the Euphrates:
+<sup>11</sup> (This is the text of the letter they sent to him.) To King Artaxerxes, From your servants, the people west of the Euphrates[^4-11-1]:
 
 <sup>12</sup> Let it be known to the king that the Jews who came from you to us have returned to Jerusalem and are rebuilding that rebellious and wicked city. They are restoring its walls and repairing its foundations.
 
@@ -228,15 +228,15 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> that a search should be made of the record books of your ancestors. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.
 
-<sup>16</sup> We advise the king that if this city is rebuilt and its walls are restored, you will have no possession west of the Euphrates.
+<sup>16</sup> We advise the king that if this city is rebuilt and its walls are restored, you will have no possession west of the Euphrates[^4-16-1].
 
-<sup>17</sup> Then the king sent this reply: To Rehum the royal deputy, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates: Greetings.
+<sup>17</sup> Then the king sent this reply: To Rehum the royal deputy, Shimshai the scribe, and the rest of your associates living in Samaria and elsewhere in the region west of the Euphrates[^4-17-1]: Greetings.
 
 <sup>18</sup> The letter you sent us has been translated and read in my presence.
 
 <sup>19</sup> I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition.
 
-<sup>20</sup> And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates; and tribute, duty, and toll were paid to them.
+<sup>20</sup> And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates[^4-20-1]; and tribute, duty, and toll were paid to them.
 
 <sup>21</sup> Now, therefore, issue an order for these people to stop, so that this city will not be rebuilt until I so order.
 
@@ -252,13 +252,13 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>2</sup> Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to rebuild the house of God in Jerusalem. And the prophets of God were with them, helping them.
 
-<sup>3</sup> At that time Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates went to the Jews and asked, “Who authorized you to rebuild this temple and restore this structure?”
+<sup>3</sup> At that time Tattenai the governor of the region west of the Euphrates[^5-3-1], Shethar-bozenai, and their associates went to the Jews and asked, “Who authorized you to rebuild this temple and restore this structure?”
 
 <sup>4</sup> They also asked[^5-4-1], “What are the names of the men who are constructing this building?”
 
 <sup>5</sup> But the eye of their God was on the elders of the Jews, and the officials did not stop them until a report was sent to Darius and written instructions about this matter were returned.
 
-<sup>6</sup> This is the text of the letter that Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates, the officials in the region, sent to King Darius.
+<sup>6</sup> This is the text of the letter that Tattenai the governor of the region west of the Euphrates[^5-6-1], Shethar-bozenai, and their associates, the officials in the region, sent to King Darius.
 
 <sup>7</sup> The report they sent him read as follows: To King Darius: All peace.
 
@@ -294,11 +294,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>5</sup> Furthermore, the gold and silver articles of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and carried to Babylon, must also be returned to the temple in Jerusalem and deposited in the house of God.
 
-<sup>6</sup> Therefore Darius decreed: To Tattenai governor of the region west of the Euphrates, Shethar-bozenai, and your associates and officials in the region: you must stay away from that place!
+<sup>6</sup> Therefore Darius decreed: To Tattenai governor of the region west of the Euphrates[^6-6-1], Shethar-bozenai, and your associates and officials in the region: you must stay away from that place!
 
 <sup>7</sup> Leave this work on the house of God alone. Let the governor and elders of the Jews rebuild this house of God on its original site.
 
-<sup>8</sup> I hereby decree what you must do for these elders of the Jews who are rebuilding this house of God: The cost is to be paid in full to these men from the royal treasury out of the taxes of the provinces west of the Euphrates, so that the work will not be hindered.
+<sup>8</sup> I hereby decree what you must do for these elders of the Jews who are rebuilding this house of God: The cost is to be paid in full to these men from the royal treasury out of the taxes of the provinces west of the Euphrates[^6-8-1], so that the work will not be hindered.
 
 <sup>9</sup> Whatever is needed—young bulls, rams, and lambs for burnt offerings to the God of heaven, as well as wheat, salt, wine, and oil, as requested by the priests in Jerusalem—must be given to them daily without fail.
 
@@ -308,7 +308,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>12</sup> May God, who has caused his name to dwell there, overthrow any king or people who lifts a hand to alter this decree or to destroy this house of God in Jerusalem. I, Darius, have issued the decree. Let it be carried out with diligence.
 
-<sup>13</sup> In response, Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates diligently carried out what King Darius had decreed.
+<sup>13</sup> In response, Tattenai the governor of the region west of the Euphrates[^6-13-1], Shethar-bozenai, and their associates diligently carried out what King Darius had decreed.
 
 <sup>14</sup> So the Jewish elders built and prospered through the prophesying of Haggai the prophet and Zechariah son of Iddo. They finished building according to the command of the God of Israel and the decrees of Cyrus, Darius, and Artaxerxes, kings of Persia.
 
@@ -370,7 +370,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>20</sup> And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury.
 
-<sup>21</sup> I, King Artaxerxes, decree to all the treasurers west of the Euphrates: Whatever Ezra the priest, the scribe of the law of the God of heaven, may require of you, it must be provided promptly,
+<sup>21</sup> I, King Artaxerxes, decree to all the treasurers west of the Euphrates[^7-21-1]: Whatever Ezra the priest, the scribe of the law of the God of heaven, may require of you, it must be provided promptly,
 
 <sup>22</sup> up to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine[^7-22-1], a hundred baths of olive oil, and salt without limit.
 
@@ -378,7 +378,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>24</sup> And be advised that you have no authority to impose tribute, duty, or toll on any of the priests, Levites, singers, doorkeepers, temple servants, or other servants of this house of God.
 
-<sup>25</sup> And you, Ezra, according to the wisdom of your God, which you possess, are to appoint magistrates and judges to judge all the people west of the Euphrates—all who know the laws of your God. And you are to teach these laws to anyone who does not know them.
+<sup>25</sup> And you, Ezra, according to the wisdom of your God, which you possess, are to appoint magistrates and judges to judge all the people west of the Euphrates[^7-25-1]—all who know the laws of your God. And you are to teach these laws to anyone who does not know them.
 
 <sup>26</sup> If anyone does not keep the law of your God and the law of the king, let a strict judgment be executed on them, whether death, banishment, confiscation of property, or imprisonment.
 
@@ -458,7 +458,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>35</sup> Then the exiles who had returned from captivity sacrificed burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, and a sin offering of 12 male goats. All this was a burnt offering to the LORD.
 
-<sup>36</sup> They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates, who proceeded to assist the people and the house of God.
+<sup>36</sup> They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates[^8-36-1], who proceeded to assist the people and the house of God.
 
 ## Chapter 9
 
@@ -588,15 +588,28 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^3-4-1]: **3:4** Or Tabernacles
 [^3-9-1]: **3:9** Hebrew reads ‘sons of Judah’
 [^4-7-1]: **4:7** Hebrew adds ‘in Aramaic’, marking where the Aramaic section 4:8–6:18 begins; or the letter was written in the Aramaic script and set forth in the Aramaic language
+[^4-10-1]: **4:10** Aram the River
+[^4-11-1]: **4:11** Aram the River
+[^4-16-1]: **4:16** Aram the River
+[^4-17-1]: **4:17** Aram the River
+[^4-20-1]: **4:20** Aram the River
 [^5-1-1]: **5:1** Aramaic adds ‘the prophets’; the Greek lacks these words
+[^5-3-1]: **5:3** Aram the River
 [^5-4-1]: **5:4** The Greek and Syriac read ‘They’; Aramaic reads ‘We’
+[^5-6-1]: **5:6** Aram the River
 [^6-3-1]: **6:3** Meaning of Aram uncertain
+[^6-6-1]: **6:6** Aram the River
+[^6-8-1]: **6:8** Aram the River
+[^6-13-1]: **6:13** Aram the River
 [^7-12-1]: **7:12** The Syriac and Vulgate read ‘Peace’; Aramaic reads ‘Perfect’
+[^7-21-1]: **7:21** Aram the River
 [^7-22-1]: **7:22** Heb bath and cor are measures of volume
+[^7-25-1]: **7:25** Aram the River
 [^8-5-1]: **8:5** The Greek reads ‘of Zattu’; Hebrew lacks these words
 [^8-10-1]: **8:10** The Greek reads ‘Bani’; Hebrew lacks the name
 [^8-21-1]: **8:21** Or fast
 [^8-26-1]: **8:26** Hebrew lacks the number of talents
+[^8-36-1]: **8:36** Heb the River
 [^10-6-1]: **10:6** The Greek (1 Esdras) reads ‘where he spent the night’; Hebrew reads ‘where he went’
 [^10-16-1]: **10:16** The Syriac reads ‘Ezra selected’; Hebrew reads ‘and there were selected Ezra’
 [^10-25-1]: **10:25** The Greek reads ‘Hashabiah’; Hebrew reads ‘Malchijah’

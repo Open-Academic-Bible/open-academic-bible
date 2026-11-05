@@ -98,7 +98,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>47</sup> When Hadad died, Samlah from Masrekah reigned in his place.
 
-<sup>48</sup> When Samlah died, Shaul from Rehoboth[^1-48-1] on the Euphrates reigned in his place.
+<sup>48</sup> When Samlah died, Shaul from Rehoboth[^1-48-1] on the Euphrates[^1-48-2] reigned in his place.
 
 <sup>49</sup> When Shaul died[^1-49-1], Baal-hanan son of Achbor reigned in his place.
 
@@ -1380,7 +1380,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> When the Ammonites saw that the Arameans had fled, they too fled before Joab’s brother Abishai, and they entered the city. So Joab went back to Jerusalem.
 
-<sup>16</sup> When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates, with Shophach the commander of Hadadezer’s army leading them.
+<sup>16</sup> When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates[^19-16-1], with Shophach the commander of Hadadezer’s army leading them.
 
 <sup>17</sup> When this was reported to David, he gathered all Israel, crossed the Jordan, advanced toward the Arameans, and arrayed for battle against them. When David lined up to engage them in battle, they fought against him.
 
@@ -1951,6 +1951,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^1-42-1]: **1:42** Or and Akan
 [^1-42-2]: **1:42** Heb Dishon
 [^1-48-1]: **1:48** Or Saul
+[^1-48-2]: **1:48** Heb the River
 [^1-49-1]: **1:49** Or Saul
 [^1-51-1]: **1:51** Or chiefs
 [^1-51-2]: **1:51** Or Alvah
@@ -2020,6 +2021,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^17-27-1]: **17:27** Or and it is blessed forever
 [^18-3-1]: **18:3** Meaning of Heb uncertain
 [^18-6-1]: **18:6** The Greek and Vulgate (compare the Syriac) read ‘garrisons’; Hebrew lacks the word
+[^19-16-1]: **19:16** Heb the River
 [^20-2-1]: **20:2** The Greek and Vulgate read ‘Milcom’; Hebrew reads ‘their king’
 [^20-3-1]: **20:3** Hebrew reads ‘and he sawed’
 [^20-6-1]: **20:6** The Greek reads ‘the giants’; Hebrew reads ‘the Raphah’

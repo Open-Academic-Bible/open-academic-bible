@@ -488,7 +488,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> When the Arameans saw that they had been defeated by Israel, they regrouped.
 
-<sup>16</sup> Hadadezer sent messengers to bring more Arameans from beyond the Euphrates, and they came to Helam with Shobach the commander of Hadadezer’s army leading them.
+<sup>16</sup> Hadadezer sent messengers to bring more Arameans from beyond the Euphrates[^10-16-1], and they came to Helam with Shobach the commander of Hadadezer’s army leading them.
 
 <sup>17</sup> When this was reported to David, he gathered all Israel, crossed the Jordan, and went to Helam. Then the Arameans arrayed themselves against David and fought against him.
 
@@ -1484,6 +1484,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^8-13-1]: **8:13** The Greek, Syriac and some Hebrew manuscripts read ‘Edomites’; Hebrew reads ‘Arameans’
 [^8-18-1]: **8:18** Syriac, the Targum and the Vulgate read ‘was over’; Hebrew lacks it
 [^9-11-1]: **9:11** The Greek reads ‘David’s table’; Hebrew reads ‘my table’
+[^10-16-1]: **10:16** Heb the River
 [^11-11-1]: **11:11** Or at Succoth
 [^11-12-1]: **11:12** Some Greek, Syriac and Old Latin manuscripts read ‘that day. On the next day,’; Hebrew reads ‘that day and the next’
 [^11-21-1]: **11:21** The Greek and Syriac read ‘Jerubbaal’; Hebrew reads ‘Jerubbesheth’

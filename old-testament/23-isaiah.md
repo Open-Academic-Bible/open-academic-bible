@@ -310,7 +310,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>19</sup> And they will all come and settle in the steep ravines and clefts of the rocks, in all the thornbushes and watering holes[^7-19-1].
 
-<sup>20</sup> On that day the Lord will use a razor hired from beyond the Euphrates—the king of Assyria—to shave your head and the hair of your legs, and to remove your beard as well.
+<sup>20</sup> On that day the Lord will use a razor hired from beyond the Euphrates[^7-20-1]—the king of Assyria—to shave your head and the hair of your legs, and to remove your beard as well.
 
 <sup>21</sup> On that day a man will raise a young cow and two sheep,
 
@@ -336,7 +336,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>6</sup> “Because this people has rejected the gently flowing waters of Shiloah and lost heart before Rezin[^8-6-1] and the son of Remaliah,
 
-<sup>7</sup> the Lord will surely bring against them the mighty floodwaters of the Euphrates—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks.
+<sup>7</sup> the Lord will surely bring against them the mighty floodwaters of the Euphrates[^8-7-1]—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks.
 
 <sup>8</sup> It will pour into Judah, swirling and sweeping over it, reaching up to the neck; its spreading streams will cover your entire land, O Immanuel!
 
@@ -512,7 +512,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>14</sup> They will swoop down on the slopes of the Philistines to the west; together they will plunder the easterners. They will lay their hands on Edom and Moab, and the Ammonites will be subject to them.
 
-<sup>15</sup> The LORD will parch the gulf[^11-15-1] of the sea of Egypt; with a scorching wind he will sweep his hand over the Euphrates. He will split it into seven streams for people to cross with dry sandals.
+<sup>15</sup> The LORD will parch the gulf[^11-15-1] of the sea of Egypt; with a scorching wind he will sweep his hand over the Euphrates[^11-15-2]. He will split it into seven streams for people to cross with dry sandals.
 
 <sup>16</sup> There will be a highway for the remnant of his people who remain from Assyria, as there was for Israel when they came up from the land of Egypt.
 
@@ -1072,7 +1072,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>11</sup> When its limbs are dry, they are broken off. Women come and use them for kindling; for this is a people without understanding. Therefore their Maker has no compassion on them, and their Creator shows them no favor.
 
-<sup>12</sup> In that day the LORD will thresh from the flowing Euphrates to the Wadi of Egypt, and you, O Israelites, will be gathered one by one.
+<sup>12</sup> In that day the LORD will thresh from the flowing Euphrates[^27-12-1] to the Wadi of Egypt, and you, O Israelites, will be gathered one by one.
 
 <sup>13</sup> And in that day a great ram’s horn will sound, and those who were perishing in Assyria will come forth with those who were exiles in Egypt. And they will worship the LORD on the holy mountain in Jerusalem.
 
@@ -2737,9 +2737,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-13-1]: **7:13** Heb he
 [^7-14-1]: **7:14** Heb Immanuel means God is with us
 [^7-19-1]: **7:19** Meaning of Heb uncertain
+[^7-20-1]: **7:20** Heb the River
 [^8-1-1]: **8:1** Heb Maher-shalal-hash-baz means the spoil speeds, the prey hastens
 [^8-2-1]: **8:2** A Dead Sea Scroll, the Greek and Syriac read ‘and have it attested’; Hebrew reads ‘and I will have it attested’
 [^8-6-1]: **8:6** Hebrew reads ‘rejoicing in’
+[^8-7-1]: **8:7** Heb the River
 [^8-9-1]: **8:9** The Greek reads ‘Take notice’; Hebrew reads ‘Be shattered’
 [^8-9-2]: **8:9** Dead Sea Scrolls lack the repeated ‘prepare for battle, and be shattered’; Hebrew repeats it
 [^8-21-1]: **8:21** Heb it
@@ -2757,6 +2759,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^11-1-1]: **11:1** Hebrew reads ‘bear fruit’
 [^11-6-1]: **11:6** A Dead Sea Scroll, the Greek and Syriac read ‘the calf and the lion will feed’; Hebrew reads ‘the calf and the lion and the fatling’
 [^11-15-1]: **11:15** Hebrew reads ‘destroy’
+[^11-15-2]: **11:15** Heb the River
 [^12-2-1]: **12:2** Hebrew reads ‘for Yah, the LORD’
 [^12-2-2]: **12:2** Or song
 [^12-6-1]: **12:6** Or O inhabitant of Zion
@@ -2800,6 +2803,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^26-19-3]: **26:19** Heb the shades
 [^27-7-1]: **27:7** Hebrew reads ‘his slain ones’
 [^27-8-1]: **27:8** Meaning of Heb uncertain
+[^27-12-1]: **27:12** Heb the River
 [^28-10-1]: **28:10** Meaning of Heb uncertain
 [^28-13-1]: **28:13** Meaning of Heb uncertain
 [^28-16-1]: **28:16** Dead Sea Scrolls, the Syriac and the Targum read ‘I am laying’; Hebrew reads ‘he laid’

@@ -2282,7 +2282,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>7</sup> May righteousness flourish in his days, and may peace be plentiful until the moon is no more.
 
-<sup>8</sup> May he rule from sea to sea, and from the Euphrates to the ends of the earth.
+<sup>8</sup> May he rule from sea to sea, and from the Euphrates[^72-8-1] to the ends of the earth.
 
 <sup>9</sup> May his foes[^72-9-1] bow before him, and his enemies lick the dust.
 
@@ -5367,6 +5367,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^71-6-1]: **71:6** Some Hebrew manuscripts, the Greek (Septuagint), and Jerome read ‘my protector’; Heb from my mother’s womb you took me
 [^71-18-1]: **71:18** The Greek (Septuagint) reads ‘every generation to come’; Heb to a generation, to all who come
 [^72-5-1]: **72:5** The Greek (Septuagint) reads ‘May he live’; Hebrew reads ‘May they fear you’
+[^72-8-1]: **72:8** Heb the River
 [^72-9-1]: **72:9** Heb those who live in the wilderness
 [^72-17-1]: **72:17** Or bless themselves by him
 [^73-10-1]: **73:10** Heb his people return here

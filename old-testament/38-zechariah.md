@@ -280,7 +280,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> Rejoice greatly, O daughter of Zion! Shout in triumph, O daughter of Jerusalem! See, your king comes to you, vindicated and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.
 
-<sup>10</sup> He will cut off the chariot[^9-10-1] from Ephraim and the horse from Jerusalem, and the bow of war will be broken. Then he will proclaim peace to the nations. His dominion will extend from sea to sea, and from the Euphrates to the ends of the earth.
+<sup>10</sup> He will cut off the chariot[^9-10-1] from Ephraim and the horse from Jerusalem, and the bow of war will be broken. Then he will proclaim peace to the nations. His dominion will extend from sea to sea, and from the Euphrates[^9-10-2] to the ends of the earth.
 
 <sup>11</sup> As for you, because of the blood of my covenant, I will release your prisoners from the waterless pit.
 
@@ -476,6 +476,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-13-1]: **7:13** Heb he
 [^9-1-1]: **9:1** Heb the eye of humankind
 [^9-10-1]: **9:10** The Greek reads ‘he’; Hebrew reads ‘I’
+[^9-10-2]: **9:10** Heb the River
 [^9-13-1]: **9:13** Meaning of Heb uncertain
 [^9-15-1]: **9:15** Heb the slingstones
 [^9-15-2]: **9:15** The Greek reads ‘blood’; Hebrew reads ‘they roared’

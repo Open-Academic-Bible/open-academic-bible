@@ -2228,7 +2228,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>36</sup> When Hadad died, Samlah from Masrekah reigned in his place.
 
-<sup>37</sup> When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.
+<sup>37</sup> When Samlah died, Shaul from Rehoboth on the Euphrates[^36-37-1] reigned in his place.
 
 <sup>38</sup> When Shaul died, Baal-hanan son of Achbor reigned in his place.
 
@@ -3301,6 +3301,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^36-15-1]: **36:15** Or chiefs, here and throughout this chapter
 [^36-24-1]: **36:24** Meaning of Heb uncertain
 [^36-30-1]: **36:30** Or chief by chief
+[^36-37-1]: **36:37** Heb the River
 [^37-3-1]: **37:3** Or a coat of many colors, here and in verses 23 and 32; meaning of Heb uncertain
 [^38-5-1]: **38:5** The Greek reads she; Heb he
 [^38-12-1]: **38:12** Heb when Judah was comforted
