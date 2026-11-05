@@ -24,7 +24,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>10</sup> I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree together, so that there may be no divisions among you and that you may be united in mind and conviction.
 
-<sup>11</sup> My brothers and sisters, some from Chloe’s household have informed me that there are quarrels among you.
+<sup>11</sup> My brothers and sisters, some from Chloe’s household[^1-11-1] have informed me that there are quarrels among you.
 
 <sup>12</sup> What I mean is this: each of you is saying, “I belong to Paul,” “I belong to Apollos,” “I belong to Cephas,” or “I belong to Christ.”
 
@@ -294,7 +294,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>15</sup> But if the unbelieving partner leaves, let it be so. The believing brother or sister is not bound in such cases. God has called us to peace[^7-15-1].
 
-<sup>16</sup> For all you know, wife, you may save your husband; for all you know, husband, you may save your wife.
+<sup>16</sup> For all you know, wife, you may save your husband; for all you know, husband, you may save your wife.[^7-16-1]
 
 <sup>17</sup> Regardless, each of you should lead the life that the Lord has assigned and to which God has called you. This is what I prescribe in all the churches.
 
@@ -506,7 +506,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> Every man who prays or prophesies with something on his head shames his head.
 
-<sup>5</sup> And every woman who prays or prophesies with her head uncovered shames her head, for it is just as if her head were shaved.
+<sup>5</sup> And every woman who prays or prophesies with her head uncovered[^11-5-1] shames her head, for it is just as if her head were shaved.
 
 <sup>6</sup> If a woman does not cover her head, she should have her hair cut off. And if it is shameful for a woman to have her hair cut or shaved off, she should cover her head.
 
@@ -516,7 +516,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>9</sup> Neither was man created for woman, but woman for man.
 
-<sup>10</sup> For this reason a woman ought to have authority over her head[^11-10-1], because of the angels.
+<sup>10</sup> For this reason a woman ought to have authority over her head[^11-10-1][^11-10-2], because of the angels.
 
 <sup>11</sup> In the Lord, however, woman is not independent of man, nor is man independent of woman.
 
@@ -750,7 +750,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 <sup>4</sup> that he was buried, that he was raised on the third day according to the scriptures,
 
-<sup>5</sup> and that he appeared to Cephas and then to the twelve.
+<sup>5</sup> and that he appeared[^15-5-1] to Cephas and then to the twelve.
 
 <sup>6</sup> After that, he appeared to more than five hundred brothers and sisters at once, most of whom are still living, though some have fallen asleep.
 
@@ -912,6 +912,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 
 [^1-4-1]: **1:4** Some manuscripts lack my
 [^1-6-1]: **1:6** Or witness to Christ
+[^1-11-1]: **1:11** Gk those of Chloe
 [^1-14-1]: **1:14** Some manuscripts read I am thankful
 [^1-26-1]: **1:26** Gk according to the flesh
 [^1-29-1]: **1:29** Gk no flesh
@@ -938,7 +939,8 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^7-5-1]: **7:5** Some manuscripts read fasting and prayer
 [^7-14-1]: **7:14** Some manuscripts read husband
 [^7-15-1]: **7:15** Some manuscripts read you
-[^7-21-1]: **7:21** Meaning of Gk uncertain
+[^7-16-1]: **7:16** Or How do you know, wife, whether you will save your husband? How do you know, husband, whether you will save your wife?
+[^7-21-1]: **7:21** Meaning of Gk uncertain; or make use of your present condition as a slave now more than ever
 [^7-26-1]: **7:26** Or present
 [^7-26-2]: **7:26** Or necessity
 [^7-36-1]: **7:36** Gk virgin
@@ -954,9 +956,11 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^10-20-1]: **10:20** Some manuscripts read the gentiles
 [^11-3-1]: **11:3** Or husband
 [^11-3-2]: **11:3** Or wife
+[^11-5-1]: **11:5** Or with her hair unbound
 [^11-7-1]: **11:7** Or glory
 [^11-7-2]: **11:7** Or glory
 [^11-10-1]: **11:10** Or have freedom of choice regarding her head
+[^11-10-2]: **11:10** Or a sign of authority on her head
 [^11-24-1]: **11:24** Some manuscripts read is broken for
 [^11-29-1]: **11:29** Some manuscripts add in an unworthy manner
 [^11-29-2]: **11:29** Some manuscripts read the Lord’s body
@@ -967,6 +971,7 @@ Chapters: [1](#chapter-1) · [2](#chapter-2) · [3](#chapter-3) · [4](#chapter-
 [^14-35-1]: **14:35** Gk in a household
 [^14-35-2]: **14:35** Some manuscripts put 14:34–35 after 14:40
 [^14-37-1]: **14:37** Some manuscripts lack a command
+[^15-5-1]: **15:5** Gk was seen by; also in vv. 6-8
 [^15-21-1]: **15:21** Or human being, here and in the next clause
 [^15-27-1]: **15:27** Gk he
 [^15-47-1]: **15:47** Some manuscripts add the Lord
